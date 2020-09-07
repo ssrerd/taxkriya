@@ -9,19 +9,30 @@
             <h1 style="text-align:center;">Documents Required</h1>  
             <div style="background-color:#02C6C6; width: 75px; height: 5px; border-radius:5px;" class="line mb-5 mx-auto"></div> 
             
-            <div class="row">
+            <div class="row"> 
+              <div v-for="(item,id) in filteredLLP" :key="id" class="col-lg-4 col-md-6 col-sm-6 criteria">
+                    <div class="card document-card">
+                      <img src="../assets/img/1x/mcafiling.svg" style="width:25%;height:auto;margin:auto;" alt="...">
+                    <div class="card-body">
+                        <p class="card-text" style="text-align:center;padding: 0% 10% 0% 10%">{{item.documents}}</p>
+                      </div>
+                    </div>
+                </div>  
+            </div>   
+
+            <!-- <div class="row">
                 <div class="col-lg-4 col-md-6 col-sm-6 card-body" v-for="(item,id) in filteredLLP" :key="id" style="display:flex;text-align:left;">
                    
                             <img src="../assets/img/tasks.svg" style="width:15%;height:auto;" class="img-fluid pr-3">
                             <p style="margin:auto 0 auto 0;">{{item.documents}}</p>
-<!-- 
+
                         <div class="col-lg-2 col-md-4 col-sm-6" style="display:flex;justify-content:center;">
                         </div>    
                         <div class="col-lg-10 col-md-8 col-sm-6" style="margin:auto;">
-                        </div> -->
+                        </div>
 
                 </div>    
-            </div>     
+            </div>      -->
             
       </div>
 
@@ -97,6 +108,10 @@ export default {
 
 .container .card img{
     position: relative;
+}
+
+.document-card{
+    border: none;
 }
 
 </style>
