@@ -1,0 +1,30 @@
+
+
+html, body {
+    margin: 0%;
+    padding: 0%;
+    box-sizing:border-box;
+    
+    font-family: "Roboto", sans-serif;
+    color: var(--primary-color);
+    font-size: 16px;
+    transition: ease-in;
+
+}
+
+p{
+    font-family: "Nunito", sans-serif;
+    color: var(--font-color);
+}
+
+/*variables*/
+
+:root{
+    --primary-color: #131662;
+    --contrast-color: #01D5D5;
+    --secondary-color: #0592D8;
+    --shadow-color: 0px 15px 15px rgba(0,0,0,0.20);
+    --light-color: #f3f3f3;
+    --font-color: #3d3d3d;
+
+}

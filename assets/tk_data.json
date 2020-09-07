@@ -1,0 +1,2724 @@
+﻿{
+   
+    "faqQA": [
+        {
+            "id": "1",
+            "question": "What are the support services are included in the package ",
+            "answer": "These accounting and bookkeeping services include, monthly bookkeeping, Tax consulting, Monthly accounting\r\nPersonal tax preparation, Business tax preparation, Payroll Accunting, and Depreciation schedules.",
+            "servicetype": "accounting "
+        },
+        {
+            "id": "2",
+            "question": "What are the benefits of book-keeping and accounting",
+            "answer": "By maintaining book-keeping and doing better accounting a business entity can analyse the financials, prepare timely reports, file prompt tax compliances and have a full control over the finance of an entity.",
+            "servicetype": "accounting "
+        },
+        {
+            "id": "3",
+            "question": "What are the required forms that needs to be filed incase of  resignation of director from a Company?",
+            "answer": "Two forms are required to file incase of resignation of a director : Form DIR 12 has to be filed by the Company and Form DIR 11 has to be filed by the Resigning Director.",
+            "servicetype": "add or remove director"
+        },
+        {
+            "id": "4",
+            "question": "What is the ROC charges  for filing the resignation of director?",
+            "answer": "Filing fees for Form DIR-12-  Rs. 300 and Filing fees for Form DIR-11 - Rs. 300.",
+            "servicetype": "add or remove director"
+        },
+        {
+            "id": "5",
+            "question": "Is it possible for a director to resign when there are only two directors in a Company?",
+            "answer": "No. If a company has only two directors, then an additional director is to be appointed at first. Only then, the resignation of the director can be initiated.",
+            "servicetype": "add or remove director"
+        },
+        {
+            "id": "6",
+            "question": "Even after resignation, is the director still made liable for any of his acts made earlier? ",
+            "answer": "During his tenure, if he has made any non-compliance he will be held liable only for such act and not for anything else. ",
+            "servicetype": "add or remove director"
+        },
+        {
+            "id": "7",
+            "question": "What are the required forms that needs to be filed incase of  addition of director to a Company?",
+            "answer": "Only Form DIR-12 is suffient for appointment of director.",
+            "servicetype": "add or remove director"
+        },
+        {
+            "id": "8",
+            "question": "What are the ROC  charges for appointing a director?",
+            "answer": "The fees for filing Form DIR-12 - Rs. 300 if filed timely.",
+            "servicetype": "add or remove director"
+        },
+        {
+            "id": "9",
+            "question": "What is the eligibility criteria for a person to get appointed as a director of Company?",
+            "answer": "Following criteria to be satisfied in order to be eligible for appointment as a director of the company,\r\nAny person who has attained the age of 18 \r\nSound mind, \r\nSolvent and, \r\nNot convicted by the Court (imprisonment not more than 6 months) are eligible to be appointed as a director of the company.",
+            "servicetype": "add or remove director"
+        },
+        {
+            "id": "10",
+            "question": "After incorporation, what are the compliances that are to be carried out by an LLP?",
+            "answer": "Every LLP irrespective of its size and turnover is required to file annual returns giving details about its contributions,  management and financial performance. Any delay in filing of such compliances will lead to penalties for the LLP. Annual returns such as Form 11 & Form 8 has to filed. Some of the additional event-based compliances for which form filing is required are:  Appointment of Partners, Change in the Registered Office, Changes in Designation of Partners, Increase in Capital Contribution, Change in Name and Main objects of the LLP, etc. However, we strongly believe that every Entrepreneur has to focus on the business and leave the legal compliances to strong and trusted hands like us.",
+            "servicetype": "amc llp"
+        },
+        {
+            "id": "11",
+            "question": "Should a LLP conduct Board meetings? ",
+            "answer": "As a good secretarial practice, board of Partners meeting is recommended for all the LLP.",
+            "servicetype": "amc llp"
+        },
+        {
+            "id": "12",
+            "question": "After incorporation, what are the compliances that are to be carried out by an OPC?",
+            "answer": "ROC compliances that are to be carried out by an OPC is yearly Annual return filing, issue of Share certificate, and maintenance of Statutory registers, minutes book etc. Along with the filing of Annual returns such as Form MGT 7 & Form AOC, Maintenance of Minutes book and Statutory registers,  Timely issue of Share certificates, Yearly Disclosure of Interest by Directors are required to be maintained by an OPC. And also it is required to file the event-based compliances forms such as:  New Allotment of Shares, Change of name and Main objects of the Company, Appointment & Resignation of Directors, Transfer of Shares, Change in the Registered Office, Change in the Authorized Capital/ Paid-up Capital etc. However, we strongly believe that every Entrepreneur has to focus on the business and leave the legal compliances to strong and trusted hands like us. Therefore, saving all the time, efforts and additionally it saves the penal consequences too. ",
+            "servicetype": "amc opc"
+        },
+        {
+            "id": "13",
+            "question": "What are ROC Compliance exemptions available for OPC Company?",
+            "answer": "Some of the compliance exemptions that are available for an OPC as compared to private limited company are : General meeting, board meetings, quorum, inclusion of cash flow statements, rotation of auditor, etc. ",
+            "servicetype": "amc opc"
+        },
+        {
+            "id": "14",
+            "question": "When is a OPC required to conduct its Board meeting?",
+            "answer": "Since there is only a single director in OPC company, board of director meeting is exempted. However, if a OPC has more than one director, board of directors meeting to be held as per provisions of the Companies Act 2013.",
+            "servicetype": "amc opc"
+        },
+        {
+            "id": "15",
+            "question": "Is it mandatory to get the accounts audited?",
+            "answer": "Yes, every company has to compulsorily get its accounts audited by its statutory auditor every year, irrespective of whether the company has done the business or not. However, additionally a company has to get audited as per income tax act also if its turnover in the year exceeds a prescribed limit. ",
+            "servicetype": "amc opc"
+        },
+        {
+            "id": "16",
+            "question": "Is it mandatory to file Annual Returns even when there is no business?",
+            "answer": "Yes, all the companies has to file annual returns with the ROC irrespective of whether the company has done business or not.",
+            "servicetype": "amc opc"
+        },
+        {
+            "id": "17",
+            "question": "What happens to a company if the returns are not filed on time? And will the director also  be made liable for such failure on company’s part?",
+            "answer": "If the returns are not filed on time, it will attract additional fee as penalty. Moreover, the company and its directors may face further legal consequences. (1). The Company and its every officer who is in default shall be liable to a penalty of Rs.50,000.00. (2). In case of continuing failure, further penalty of Rs.100.00 for each day during which such failure continues, subject to a maximum of Rs.5,00,000.00. (1) The company shall be liable to a penalty of Rs.1000.00 for every day during which the failure continues but which shall not be more than Rs.10,00,000.00 (2) Every officer who is in default shall be liable to a penalty of Rs.1,00,000.00 (3) In case of continuing failure, further penalty of Rs.100.00 for each day during which such failure continues, subject to a maximum of five lakh rupees.",
+            "servicetype": "amc opc"
+        },
+        {
+            "id": "18",
+            "question": "What are the ROC Compliances that will applicable for a Private Limited Company?",
+            "answer": "Standard ROC compliances that has to be filed by a private limited company are : Filing of Annual returns such as  Form MGT 7 & Form AOC 4, Maintenance of Minutes book and Statutory registers, Timely issue of Share certificates, Yearly Disclosure of Interest by Directors. And some of the event based ROC Filing compliances are as given below : Issue or new Allotment of Shares, Change of name an Main objects of the Company, Change in directors, Transfer of Shares, Change in the Registered Office, Change in the Authorized Capital, Charge registration upon taking secured loan and Drafting Resolutions for various meetings etc. However, we strongly believe that every entrepreneur has to focus on the business and leave the legal compliances to strong and trusted hands like us.",
+            "servicetype": "amc pvt ltd"
+        },
+        {
+            "id": "19",
+            "question": "What is a Board meeting and Annual general meeting and what are its compliances?",
+            "answer": "Board meeting is a meeting of Board of directors of the company held to discuss about the ongoing operations of the company. As per companies act, the first Board Meeting to be held within 30 days of date of incorporation and every Private Limited Company must hold minimum of 4 Board of Directors meeting in a year i.e. once in every quarter. The general procedures that are to be followed to convene a board meeting is Issuance of Notice and Agenda, Holding Board meeting, Maintenance of Attendance register and Minutes of the meeting. However, in case of Annual general meeting it has to be held every financial year.",
+            "servicetype": "amc pvt ltd"
+        },
+        {
+            "id": "20",
+            "question": "Do I need to file for compliance even if there are no transactions?",
+            "answer": "Yes, every company irrespective of the number of transactions has to get the compliance filings done. However, the process will be much simpler ",
+            "servicetype": "amc pvt ltd"
+        },
+        {
+            "id": "21",
+            "question": "What are the consequences if a company has not filed the Financial Statements?",
+            "answer": "Pursuant to Section 134 of the Companies Act 2013 and Rules made thereunder, the company shall be punishable with a fine between Rs. 50,000 and Rs. 25,00,000/- and every officer of the company who is in default shall be punishable with imprisonment for a term which may extend to 3 years or with fine of mimimum Rs. 50,000 and maximum Rs. 5,00,000/- or with both.",
+            "servicetype": "amc pvt ltd"
+        },
+        {
+            "id": "22",
+            "question": "Can Board meetings be conducted outside india?",
+            "answer": "According to the Companies Act, Board Meetings can be conducted even outside of India and Directors are also allowed to participate through video conferencing or other audiovisual means, provided a prior notice is given. ",
+            "servicetype": "amc pvt ltd"
+        },
+        {
+            "id": "23",
+            "question": "Is it mandatory to get the accounts audited?",
+            "answer": "Yes, every company has to compulsorily get its accounts audited by its statutory auditor every year, irrespective of whether the company has done the business or not. However, additionally a company has to get audited as per income tax act also if its turnover in the year exceeds a prescribed limit. ",
+            "servicetype": "amc pvt ltd"
+        },
+        {
+            "id": "24",
+            "question": "Is it mandatory to file Annual Returns even when there is no business?",
+            "answer": "Yes, all the companies has to file annual returns with the ROC irrespective of whether the company has done business or not.",
+            "servicetype": "amc pvt ltd"
+        },
+        {
+            "id": "25",
+            "question": "What happens to a company if the returns are not filed on time? And will the director also  be made liable for such failure on company’s part?",
+            "answer": "If the returns are not filed on time, it will attract additional fee as penalty. Moreover, the company and its directors may face further legal consequences. The Company and its every officer who is in default shall be liable to a penalty of Rs.50,000. In case of continuing failure, further penalty of Rs.100 for each day during which such failure continues, subject to a maximum of Rs.5,00,000. The company shall be liable to a penalty of Rs.1000 for every day during which the failure continues but which shall not be more than Rs.10,00,000. Every officer who is in default shall be liable to a penalty of Rs.1,00,000. In case of continuing failure, further penalty of Rs.100 for each day during which such failure continues, subject to a maximum of five lakh rupees.",
+            "servicetype": "amc pvt ltd"
+        },
+        {
+            "id": "26",
+            "question": "Is it mandatory to get the accounts audited?",
+            "answer": "Yes, every company has to compulsorily get its accounts audited by its statutory auditor every year, irrespective of whether the company has done the business or not. However, additionally a company has to get audited as per income tax act also if its turnover in the year exceeds a prescribed limit. ",
+            "servicetype": "amc s8 co"
+        },
+        {
+            "id": "27",
+            "question": "Is it mandatory to file Annual Returns even when there is no business?",
+            "answer": "Yes, all the companies has to file annual returns with the ROC irrespective of whether the company has done business or not.",
+            "servicetype": "amc s8 co"
+        },
+        {
+            "id": "28",
+            "question": "What happens to a company if the returns are not filed on time? And will the director also  be made liable for such failure on company’s part?",
+            "answer": "If the returns are not filed on time, it will attract additional fee as penalty. Moreover, the company and its directors may face further legal consequences. (1). The Company and its every officer who is in default shall be liable to a penalty of Rs.50,000.00. (2). In case of continuing failure, further penalty of Rs.100.00 for each day during which such failure continues, subject to a maximum of Rs.5,00,000.00. (1) The company shall be liable to a penalty of Rs.1000.00 for every day during which the failure continues but which shall not be more than Rs.10,00,000.00 (2) Every officer who is in default shall be liable to a penalty of Rs.1,00,000.00 (3) In case of continuing failure, further penalty of Rs.100.00 for each day during which such failure continues, subject to a maximum of five lakh rupees.",
+            "servicetype": "amc s8 co"
+        },
+        {
+            "id": "29",
+            "question": "What is the ROC charges for Shifting of Office Address?",
+            "answer": " For filing Form INC 22 Rs.300 is the ROC charges if filed within prescribed time limit.",
+            "servicetype": "change in address"
+        },
+        {
+            "id": "30",
+            "question": "What is time limit to file change of office address documents?",
+            "answer": "The time limit is 15 days from passing of the Board Resolution for Shifting of Registered Office.",
+            "servicetype": "change in address"
+        },
+        {
+            "id": "31",
+            "question": "What is the procedure to be followed after shifting of registered office address of Company?",
+            "answer": "The Name board outside the office mentioning the address has to be modified, the Letterhead of the Company has to be changed, all the Statutory Registers and related documents has to be shifted to the new registered office, and also address in the PAN card needs to be changed.",
+            "servicetype": "change in address"
+        },
+        {
+            "id": "32",
+            "question": "What are the objects of a company?",
+            "answer": "The objects of the company means the activities that are required to be carried out as their business operations. It is divided as main objects, incidental object and other objects. A company is now allowed to undertake any objects that are not described in the objects clause of the MOA.",
+            "servicetype": "change in name"
+        },
+        {
+            "id": "33",
+            "question": "Who can amend the objects of a company?",
+            "answer": "Shareholders have the right to amend the objects of a company by a ¾ majority vote in the meeting.",
+            "servicetype": "change in name"
+        },
+        {
+            "id": "34",
+            "question": "Should a company get any approval for amendment of objects clause?",
+            "answer": "Company is not required to take any approval for the amendment of objects however, the decision of shareholders is final and the changes will be effective from the date of resolution.",
+            "servicetype": "change in name"
+        },
+        {
+            "id": "35",
+            "question": "Do the objects have to be compulsory reflected in the company name?",
+            "answer": "No, the company name need not be indicative of the object.",
+            "servicetype": "change in name"
+        },
+        {
+            "id": "36",
+            "question": "What are the objects of a company?",
+            "answer": "The objects of the company means the activities that are required to be carried out as their business operations. It is divided as main objects, incidental object and other objects. A company is now allowed to undertake any objects that are not described in the objects clause of the MOA.",
+            "servicetype": "change in objective"
+        },
+        {
+            "id": "37",
+            "question": "Who can amend the objects of a company?",
+            "answer": "Shareholders have the right to amend the objects of a company by a ¾ majority vote in the meeting.",
+            "servicetype": "change in objective"
+        },
+        {
+            "id": "38",
+            "question": "Is any approval required for amendment of objects clause?",
+            "answer": "Company is not required to take any approval for the amendment of objects however, the decision of shareholders is final and the changes will be effective from the date of resolution.",
+            "servicetype": "change in objective"
+        },
+        {
+            "id": "39",
+            "question": "  Do the objects have to be reflected in the company name?",
+            "answer": "No, the company name need not be indicative of the object.",
+            "servicetype": "change in objective"
+        },
+        {
+            "id": "40",
+            "question": "What is the difference between Authorized Capital & Paid up capital?",
+            "answer": "The Authorized Capital of the Company is the maximum limit upto which a Company can issue shares to the subscribers and Paid Up Capital is that part of the Authorized Capital for which Shareholders have made the contribution into the Company.",
+            "servicetype": "changes in authorised capital"
+        },
+        {
+            "id": "41",
+            "question": "What is the government fees for increasing Authorized share capital?",
+            "answer": "The government fees will be is Rs. 300 for filing Form SH.7.",
+            "servicetype": "changes in authorised capital"
+        },
+        {
+            "id": "42",
+            "question": "What is time limit allowed to file change of capital documents?",
+            "answer": "The time limit is 30 days from passing of the Board Resolution.",
+            "servicetype": "changes in authorised capital"
+        },
+        {
+            "id": "43",
+            "question": "Should every director required to do this DIR-3 KYC filing?",
+            "answer": "As part of updating its registry, MCA is conducting KYC process for all Directors of all companies through the e-form DIR-3 KYC.Accordingly, every Director or Partner who has been allotted DIN and whose DIN is in ‘Approved’ status, is mandatorily required to file form DIR-3 KYC.",
+            "servicetype": "din kyc"
+        },
+        {
+            "id": "44",
+            "question": "What are the consequences of not filing DIR 3  KYC?",
+            "answer": "It may lead to deactivation of Director's DIN. Additionally, the Company/LLP in which you are Director/Partner are not allowed to file ROC Annual Returns, resulting to striking off of the Company/LLP. Director/Partner with non-active DIN cannot become a director in another Company/LLP in future.The authenticity of Director/Partner is put at risk during fund raising and loan proposals. Such de-activated DIN shall be re-activated only after penalty fee of Rs. 5,000 for each defaulting director/partner.",
+            "servicetype": "din kyc"
+        },
+        {
+            "id": "45",
+            "question": "Is it mandatory for every business entity being an employer to register with ESIC Act?",
+            "answer": "Yes, it is mandatory for every employer to register with ESI once the number of employees exceeds 10. A factory or establishment has to apply for the scheme within 15 days from the date of its applicability to them.",
+            "servicetype": "esi"
+        },
+        {
+            "id": "46",
+            "question": "What is the insurance number?",
+            "answer": "The ESI scheme allots a unique identification number to every employee for easy recognition. Such number is used for operational purposes.",
+            "servicetype": "esi"
+        },
+        {
+            "id": "47",
+            "question": "Once getting registered with ESI, how many returns need to be filed per year?",
+            "answer": "ESI returns has to be filed two times per year by submitting the below mentioned documents. \r\nWages register, Attendence register, Form A register, Challans and returns of every month, A Register of accidents, if any.",
+            "servicetype": "esi"
+        },
+        {
+            "id": "48",
+            "question": "What are the GST Rates applicable for business entities in India?",
+            "answer": "The GST rates normally prevail on the type of goods and services. Currently, the slab rates are 5%, 12%, 18% and 28%.",
+            "servicetype": "gst"
+        },
+        {
+            "id": "49",
+            "question": "Should I require to register for GST once after my business registration itself?",
+            "answer": "If aggregate turnover in a financial year exceeds :\r\nINR 20 lakhs in case of services if it is located in any of the states other than the special category;\r\nINR 10 lakhs in case of services if its located in special category states namely Arunachal Pradesh, Assam, Himachal Pradesh, Jammu & Kashmir, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura, Uttarakhand.\r\nINR 40 lakhs in case of goods if it is located in any of the states other than the special category ;\r\nINR 20 lakhs in case of goods if its located in special category states namely Arunachal Pradesh, Assam, Himachal Pradesh, Jammu & Kashmir, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura, Uttarakhand.\r\n",
+            "servicetype": "gst"
+        },
+        {
+            "id": "50",
+            "question": "My turnover doesn’t exceed the prescribed. What will be benefit if I voluntarily register for GST?",
+            "answer": "\r\nOne can claim GST input tax credits if the business deals with vendors who are registered with GST for their goods or services.",
+            "servicetype": "gst"
+        },
+        {
+            "id": "51",
+            "question": "Should the same business venture required to be registered seperately if operating in multiple states as branch/divisions?",
+            "answer": "Yes, if the additional places of business are in different states then you need to apply for separate registrations for each state. However, separate GST is not required if the additional places of business is within the state.",
+            "servicetype": "gst"
+        },
+        {
+            "id": "52",
+            "question": "I export goods and services from India. Is it mandatory to get registered for GST?",
+            "answer": "Yes, it is mandatory to get registered for GST in case of export of goods and services. However, such entity is exempted from paying GST once after filing a letter of undertaking (LUT).",
+            "servicetype": "gst"
+        },
+        {
+            "id": "53",
+            "question": "What is Importer Exporter Code means? ",
+            "answer": "Importer Exporter Code (IEC or IE Code) is a unique registration code required for persons who are importing or exporting goods and services from India.",
+            "servicetype": "iec"
+        },
+        {
+            "id": "54",
+            "question": "Who requires an IEC?",
+            "answer": "All entities doing the business of export or import of goods/ services is required to have IEC certificate.",
+            "servicetype": "iec"
+        },
+        {
+            "id": "55",
+            "question": "What is the Validity of IE Code? When should it be renewed?",
+            "answer": "An IEC once allotted, shall be valid for the lifetime and no renewal is required ",
+            "servicetype": "iec"
+        },
+        {
+            "id": "56",
+            "question": "Can we make changes to IE Code?",
+            "answer": "Changes in the Name, Address, and Additional place of business can be done to the IEC details by filing a modification to the IEC.",
+            "servicetype": "iec"
+        },
+        {
+            "id": "57",
+            "question": "How to cancel the IE Code?",
+            "answer": "IEC can be cancelled by surrendering the same by way of an application online.",
+            "servicetype": "iec"
+        },
+        {
+            "id": "58",
+            "question": "My employer have already deducted TDS, Do I still have to file my tax return?",
+            "answer": "Yes, there is a difference between filing income tax return and paying tax.",
+            "servicetype": "it filing"
+        },
+        {
+            "id": "59",
+            "question": " If I have paid excess tax, how will it be refunded to me?",
+            "answer": "One can claim for refund for the excess tax amount while filing the IT Return. Such claimed refund will be credited into your specified bank account via ECS transfer, provided proper bank account details are furnished in the return at the time of filing.",
+            "servicetype": "it filing"
+        },
+        {
+            "id": "60",
+            "question": "Is physical presence required during the process?",
+            "answer": "No, physical presence is not required. Scanned copies of all the required documents & forms will hold good to complete the procedure online. Also, we at Taxkriya, always encourage faceless and paperless process in all our services. \r\nWe also provide video/ audio call support at your convenience. \r\n",
+            "servicetype": "llp"
+        },
+        {
+            "id": "61",
+            "question": "Generally, how many days will it take to get a company incorporated?",
+            "answer": "If the name availability and all the documents are in line with the registrar's expectations, within 15 days we will be able to get the approval. However, for name availability, you can avail the best support from our team of experts.\r\n",
+            "servicetype": "llp"
+        },
+        {
+            "id": "62",
+            "question": "How about procedures on converting an already existing partnership firm to a LLP?",
+            "answer": "All existing partnership firm willing to get converted into an LLP have to apply through Form 17 (Application and statement for the conversion of a firm into LLP. \r\n\r\nAlong with that, the Form 17 needs to be filed along with Form 2 (Incorporation document and Subscriber’s statement).",
+            "servicetype": "llp"
+        },
+        {
+            "id": "63",
+            "question": "Why is it so difficult for the name approval of our choice?",
+            "answer": "According to the procedure, Registrar of Companies (ROC) expects the applicants to follow the proper naming guidelines. And also sometimes, the approval depends and varies on the opinion of the officer verifying your application. However, for name availability, you can avail the best support from our team of experts.",
+            "servicetype": "llp"
+        },
+        {
+            "id": "64",
+            "question": "How much should we need to pay as government fee for registration?",
+            "answer": "Presently, there is no government fee if the authorised capital is less than Rs.15 lakhs. However, stamp duty is chargeable as per respective state government stamp duty provisions.",
+            "servicetype": "llp"
+        },
+        {
+            "id": "65",
+            "question": "When should one get a Commencement of Business certificate after the incorporation process is gets completed?",
+            "answer": "Every company shall file for commencement of business with Registrar within 180 days from the date of incorporation. Before that every subscribers should bring subscription capital into companies' accounts.",
+            "servicetype": "llp"
+        },
+        {
+            "id": "66",
+            "question": "Does a LLP require to be renewed every year?",
+            "answer": "Not at all. After the LLP is formed, it will remain valid till it is officially wound up. But, annual returns and other compliances has to be followed by the LLP every year.",
+            "servicetype": "llp"
+        },
+        {
+            "id": "67",
+            "question": "What is meant by LLP Agreement?\r\n",
+            "answer": "LLP Agreement is byelaws or rules on which important matters such as main business of the LLP, capital or meetings is fixed. It is a legal document prepared by Company Secretaries during its registration.",
+            "servicetype": "llp"
+        },
+        {
+            "id": "68",
+            "question": "Is it possible to change the office address of LLP post Incorporation?",
+            "answer": "Yes, once after incorporation, LLP office address can be changed anytime.",
+            "servicetype": "llp"
+        },
+        {
+            "id": "69",
+            "question": "Are NRI's are allowed to start an LLP business in India?",
+            "answer": "Yes, non-resident Indians and foreign nationals can start an LLP in India, provided, one of the designated partners in an LLP should be a Resident in India. After submitting the necessary documents with notarization from the respective authorities in their country in which they stay, NRIs can get registered as designated partners in the LLP.",
+            "servicetype": "llp"
+        },
+        {
+            "id": "70",
+            "question": "Why it is cheaper to run an LLP than a private limited company?",
+            "answer": "This is mainly because annual compliances, such as audit, applies to LLPs only after their turnover exceeds the prescribed amount.",
+            "servicetype": "llp"
+        },
+        {
+            "id": "71",
+            "question": "When does an LLP should get mandatorily audited?",
+            "answer": "LLP's Accounts has to be audited by a Chartered Accountant only if the turnover crosses Rs.40 lakh or contribution exceeds Rs.25 lakh.",
+            "servicetype": "llp"
+        },
+        {
+            "id": "72",
+            "question": "What are the applicable Income Tax rates for an LLP?",
+            "answer": "Income tax is applicable to LLP @ 30.90% on net profit of the company.",
+            "servicetype": "llp"
+        },
+        {
+            "id": "73",
+            "question": "What is the importance of MOA & AOA of company?",
+            "answer": "MOA stands for Memorandum of Association and AOA stands for Articles of Association. These both are the byelaws or rules based on which signifant aspects like main business of the company or meetings is being decided. These legal documents are prepared by Company Secretaries during incorporation of the Company.",
+            "servicetype": "llp"
+        },
+        {
+            "id": "74",
+            "question": "What is the minimum capital of the company required to start the incorporation of the company?",
+            "answer": "There is no minimum requirement as paid-up capital, it can be as low as Rs. 10,000",
+            "servicetype": "llp"
+        },
+        {
+            "id": "75",
+            "question": "What does MSME?",
+            "answer": "MSME stands for Micro Small and Medium Enterprisesas defined under MSME development Act 2006. Business entities are registered under MSME development Act for availing SME benefits offered.",
+            "servicetype": "msme"
+        },
+        {
+            "id": "76",
+            "question": "Can I get registered with MSME for more than one industry for the same business entity ?",
+            "answer": "Yes, more than one industry registeration is also possible in MSME.",
+            "servicetype": "msme"
+        },
+        {
+            "id": "77",
+            "question": "If Registration is done under MSME, is it required to register under SSI & Udyog Aadhar too?",
+            "answer": "There is no difference between MSME, SSI & Udyog Aadhar, all three are the same .",
+            "servicetype": "msme"
+        },
+        {
+            "id": "78",
+            "question": "How does a MSME registration helps in getting a loan from a bank?",
+            "answer": "Business entities registered under MSMEs will get prioritised by financial institution when it comes for lending. This increases the possibility of avaling the loans at a concessional rate. Also some relaxations and support will be provided incase of delay in repayment.",
+            "servicetype": "msme"
+        },
+        {
+            "id": "79",
+            "question": "What is the new eligibility criteria for MSME Registration?",
+            "answer": "To put it very simple, business entities with investment less than Rs 50 crores and Annual turnover less than Rs 250 crores can register under the existing scheme and avail the benefits.",
+            "servicetype": "msme"
+        },
+        {
+            "id": "80",
+            "question": "What are the schemes launched by government under MSME",
+            "answer": "Udyog memorandum, Zero defect Zero effect, Quality management & Quality technology tools, Grievance monitoring system, Incubation, Credit linked capital subsidy scheme, Women entrepreneurship",
+            "servicetype": "msme"
+        },
+        {
+            "id": "81",
+            "question": "What are the benefits for trading company if MSME registration is availed",
+            "answer": "MSME benefits are availed upon registration only for manufacturing and service industries. Trading entities cannot avail any benefits upon registration.",
+            "servicetype": "msme"
+        },
+        {
+            "id": "82",
+            "question": "What are the other benefits given by State Government for MSMEs?",
+            "answer": "\r\nInstant credit facilities, Quick Tax subsidies, Subsidies for power tariffs, Subsidies under Capital investment scheme\r\n",
+            "servicetype": "msme"
+        },
+        {
+            "id": "83",
+            "question": "Are there any specific excluded activities for MSME registration",
+            "answer": "Forest and Logging, Fishing and aquaculture, Wholesale, retail trade and repair of motor vehicle and motorcycles, Wholesale trade except for motor vehicles and motorcycles, Retail Trade Except of Motor Vehicles and motor cycles,  Activities of households as employees for domestic personnel, Undifferentiated goods and services producing activities of private households for own, Activities of extraterritorial organisations and bodies",
+            "servicetype": "msme"
+        },
+        {
+            "id": "84",
+            "question": "Is physical presence required during the process?",
+            "answer": "No, physical presence is not required. Scanned copies of all the required documents & forms will hold good to complete the procedure online. Also, we at Taxkriya, always encourage faceless and paperless process in all our services. \r\nWe also provide video/ audio call support at your convenience. \r\n",
+            "servicetype": "opc"
+        },
+        {
+            "id": "85",
+            "question": "Generally, how many days will it take to get a company incorporated?",
+            "answer": "If the name availability and all the documents are in line with the registrar's expectations, within 15 days we will be able to get the approval. However, for name availability, you can avail the best support from our team of experts.\r\n",
+            "servicetype": "opc"
+        },
+        {
+            "id": "86",
+            "question": "Why is it so difficult for the name approval of our choice?",
+            "answer": "According to the procedure, Registrar of Companies (ROC) expects the applicants to follow the proper naming guidelines. And also sometimes, the approval depends and varies on the opinion of the officer verifying your application. However, for name availability, you can avail the best support from our team of experts.",
+            "servicetype": "opc"
+        },
+        {
+            "id": "87",
+            "question": "How much should we need to pay as government fee for registration?",
+            "answer": "Presently, there is no government fee if the authorised capital is less than Rs.15 lakhs. However, stamp duty is chargeable as per respective state government stamp duty provisions.",
+            "servicetype": "opc"
+        },
+        {
+            "id": "88",
+            "question": "When should one get a Commencement of Business certificate after the incorporation process is completed?",
+            "answer": "Every company shall file for commencement of business with Registrar within 180 days from the date of incorporation. Before that every subscribers should bring subscription capital into companies' accounts.",
+            "servicetype": "opc"
+        },
+        {
+            "id": "89",
+            "question": "Should I require a office (commercial) space to start a One Person Company?",
+            "answer": "No. Initially, own residential or rented home address shall be used as the registered office address of the company. In case of rented property, non objection certificate from the property owner. After incorporation of OPC, this office address can be changed at any time.",
+            "servicetype": "opc"
+        },
+        {
+            "id": "90",
+            "question": "Does a OPC require to be renewed every year?",
+            "answer": "Not at all. After the OPC is formed, it will remain valid till it is officially wound up. But, annual returns and other compliances has to be followed by the OPC every year.",
+            "servicetype": "opc"
+        },
+        {
+            "id": "91",
+            "question": "What is the importance of MOA & AOA of company?",
+            "answer": "MOA stands for Memorandum of Association and AOA stands for Articles of Association. These both are the byelaws or rules based on which signifant aspects like main business of the company or meetings is being decided. These legal documents are prepared by Company Secretaries during incorporation of the Company.",
+            "servicetype": "opc"
+        },
+        {
+            "id": "92",
+            "question": "Does a deposit of Share Capital in a Bank is mandatory at the time of Incorporation?",
+            "answer": "No such requirement is mandated. Once after company is registered, a bank account needs to be opened and then anytime within two months of incorporation, such amount can be deposited as capital into Company bank account.",
+            "servicetype": "opc"
+        },
+        {
+            "id": "93",
+            "question": "What is the minimum capital of the company required to start the incorporation of the company?",
+            "answer": "As per the latest amendment, there is no minimum capital required for starting a private limited company.",
+            "servicetype": "opc"
+        },
+        {
+            "id": "94",
+            "question": "Is it mandatory to get PF, GST for OPC Private Limited?",
+            "answer": "There is no such mandatory requirement for a OPC. Provident Fund (PF), GST law are applicable for all types of businesses like sole proprietorship, partnership firms and companies as per their laws and regulations.",
+            "servicetype": "opc"
+        },
+        {
+            "id": "95",
+            "question": "Who are eligible to act as a member of OPC?",
+            "answer": "An Indian citizen or an Indian resident shall be made eligible to act as a member and nominee of an OPC.\r\n",
+            "servicetype": "opc"
+        },
+        {
+            "id": "96",
+            "question": "What if a member of an OPC becomes a member in another OPC by virtue of being a nominee in that other OPC?",
+            "answer": "Where a natural person, being member in One Person Company becomes a member in another OPC by virtue of his being a nominee in that OPC, then such person shall meet the eligibility criteria of being a member in only one OPC within a period of one hundred and eighty days, i.e., he/she shall withdraw his membership from either of the OPCs within one hundred and eighty days.",
+            "servicetype": "opc"
+        },
+        {
+            "id": "97",
+            "question": "At what point of time an OPC has to mandatorily get converted into either private limited or public company?",
+            "answer": "OPC has to be mandatorily converted into private or public limited, in case the paid up share capital of an OPC exceeds fifty lakh rupees or its turnover exceeds INR 2 crores for any 3 consecutive financial years.\r\nSubsequently, the OPC shall inform RoC in form INC-5 and it shall be filed within sixty days.",
+            "servicetype": "opc"
+        },
+        {
+            "id": "98",
+            "question": "Who can become a Shareholder or Nominee Shareholder in an OPC ?",
+            "answer": "An India National (Individal), who is resident in India can only become a Shareholder or Nominee Shareholde in an OPC. Foreign Nationals, Non Resident Indians, Companies and LLPs cannot become a Shareholder or Nominee Shareholder in an OPC.",
+            "servicetype": "opc"
+        },
+        {
+            "id": "99",
+            "question": "Can even a Minor be a Shareholder or Nominee for an OPC?",
+            "answer": "No. A minor cannot become member or nominee of the One Person Company at all. Also he cannot hold share with beneficial interest in an OPC.",
+            "servicetype": "opc"
+        },
+        {
+            "id": "100",
+            "question": "Whether OPC can operate into Non-Banking Financial and Investement business?",
+            "answer": "An OPC is not allowed to carry Non-Banking Financial activites and and Investment in securities of other body corporates.",
+            "servicetype": "opc"
+        },
+        {
+            "id": "101",
+            "question": "Is physical presence required during the process?",
+            "answer": "No, physical presence is not required. Scanned copies of all the required documents & forms will hold good to complete the procedure online. Also, we at Taxkriya, always encourage faceless and paperless process in all our services. \r\nWe also provide video/ audio call support at your convenience. \r\n",
+            "servicetype": "partnership"
+        },
+        {
+            "id": "102",
+            "question": "Should we mandatorily register for partnership?",
+            "answer": "No, it is not mandatory. However, registering it with registrar of firms is recommended to keep the entity valid and enforceable.",
+            "servicetype": "partnership"
+        },
+        {
+            "id": "103",
+            "question": "How can we register for partnership?",
+            "answer": "It is now very easy to register a partnership firm online through official website of respective state authorities.",
+            "servicetype": "partnership"
+        },
+        {
+            "id": "104",
+            "question": "How easy is it to convert a partnership/LLP/OPC/Private limited company?",
+            "answer": "It involves additional efforts and time to convert sole-proprietorship to other legal entity. However, taxkriya team will support and guide you in easy conversion to another legal entity.",
+            "servicetype": "partnership"
+        },
+        {
+            "id": "105",
+            "question": "How can a payroll be managed?",
+            "answer": "\r\nOne it can be outsourced to some third parties. This method is always considered as cost-effective and time saving.\r\nOther it can be managed by the organisation itself through own sources with the support of software. One of the advantage of going this way is the entity can have full control over its payroll process.\r\n",
+            "servicetype": "payroll"
+        },
+        {
+            "id": "106",
+            "question": "Does PF registration helps in pensions collection?",
+            "answer": "Yes. it has a direct impact on the pension of an employee. Out of the total amount contributed by the employer towards EPF, 8.33% of it goes to the Employee Pension Scheme(EPS).",
+            "servicetype": "pf"
+        },
+        {
+            "id": "107",
+            "question": "How much is the contribution rate for PF?",
+            "answer": "Both the employee and employer must contribute around 12% of the salary. And if the number of employees is less than 20 in the registered entity, then the PF rate is 10%.",
+            "servicetype": "pf"
+        },
+        {
+            "id": "108",
+            "question": "Is physical presence required during the process?",
+            "answer": "No, physical presence is not required. Scanned copies of all the required documents & forms will hold good to complete the procedure online. Also, we at Taxkriya, always encourage faceless and paperless process in all our services. \r\nWe also provide video/ audio call support at your convenience. \r\n",
+            "servicetype": "private limited"
+        },
+        {
+            "id": "109",
+            "question": "Generally, how many days will it take to get a company incorporated?",
+            "answer": "If the name availability and all the documents are in line with the registrar's expectations, within 15 days we will be able to get the approval. However, for name availability, you can avail the best support from our team of experts.\r\n",
+            "servicetype": "private limited"
+        },
+        {
+            "id": "110",
+            "question": "Should a private limted company mandatorily have its books of accounts audited?",
+            "answer": "Precisely! Even a private limited company must appoint an auditor, within 30 days of its incorporation and get its books to be audited in the year end irrespective of its turnover. Non compliance of same will lead to huge penalties and may lead to disqualification of the directors in some cases.",
+            "servicetype": "private limited"
+        },
+        {
+            "id": "111",
+            "question": "Can anyone become the member in a Private Limited Company?",
+            "answer": "Any individual/organization can be a member of a private limited company including NRI/foreigners. Provided the individual's age must be minimum of 18 years holding a valid PAN card or Passport in case of foreign nationals.",
+            "servicetype": "private limited"
+        },
+        {
+            "id": "112",
+            "question": "Is there any minimum capital requirement to form a Private Limited Company?\r\n\r\n",
+            "answer": "As per the latest amendment, there is no minimum capital required for starting a private limited company.",
+            "servicetype": "private limited"
+        },
+        {
+            "id": "113",
+            "question": "Can even a salaried person become a director in the company?",
+            "answer": "There is no restriction for salaried person to become the director in private limited, OPC or LLP. Only thing that has to checked is whether his employment agreement allows for such provisions.",
+            "servicetype": "private limited"
+        },
+        {
+            "id": "114",
+            "question": "Can a Private limited company get registered on a home address?\r\n\r\n",
+            "answer": "Yes, anyone can register the company at their own residential address, provided the utility bill for the same address is submitted.",
+            "servicetype": "private limited"
+        },
+        {
+            "id": "115",
+            "question": "How many directors and shareholders can be appointed for a private limited company?",
+            "answer": "The minimum number of directors for a private limited company is two directors and the maximum is 15. Likewise, minimum shareholders can be 2 and can have a maximum of 200 shareholders. \r\nThe directors and shareholders can be the same or different people.\r\nProvided, at least one of the Directors should be a Resident in India.\r\n",
+            "servicetype": "private limited"
+        },
+        {
+            "id": "116",
+            "question": "Why is it so difficult for the name approval of our choice?",
+            "answer": "According to the procedure, Registrar of Companies (ROC) expects the applicants to follow the proper naming guidelines. And also sometimes, the approval depends and varies on the opinion of the officer verifying your application. However, for name availability, you can avail the best support from our team of experts.",
+            "servicetype": "private limited"
+        },
+        {
+            "id": "117",
+            "question": "How much should we need to pay as government fee for registration?",
+            "answer": "Presently, there is no government fee if the authorised capital is less than Rs.15 lakhs. However, stamp duty is chargeable as per respective state government stamp duty provisions.",
+            "servicetype": "private limited"
+        },
+        {
+            "id": "118",
+            "question": "When should one get a Commencement of Business certificate after the incorporation process is completed?",
+            "answer": "Every company shall file for commencement of business with Registrar within 180 days from the date of incorporation. Before that every subscribers should bring subscription capital into companies' accounts.",
+            "servicetype": "private limited"
+        },
+        {
+            "id": "119",
+            "question": "Are there any tax benefit if I opt for a private limited company?",
+            "answer": "In order to promote growth and investment, Income tax act has amended new tax provisions from FY 2019-20 which enables all domestic companies an option to pay income-tax at the rate of 22% subject to condition that no exemption/incentive is availed. Considering surcharge and cess, the effective tax rate for private limited companies shall be 25.17%. Also, such companies need not pay Minimum Alternate Tax.",
+            "servicetype": "private limited"
+        },
+        {
+            "id": "120",
+            "question": "What is the tax benefit for Startup manufacturers in opting for business as a private limited company?",
+            "answer": "To attract fresh investments in manufacturing and to promote Government's ‘Make-in-India’ initiative, all the manufacturing domestic concerns incorporated on or after 1st October 2019, will have an option to pay income-tax at the rate of 15%. \r\n\r\nThis benefit is available subject to two conditions, one the company should not avail any exemption/incentive and production should be commenced on or before 31st March, 2023. The effective tax rate for these companies shall be 17.01% inclusive of surcharge & cess. Also, such companies shall not be required to pay Minimum Alternate Tax.",
+            "servicetype": "private limited"
+        },
+        {
+            "id": "121",
+            "question": "What are the key statutory compliances to be filed by a private limited company after incorporation?",
+            "answer": "Firstly, the company must appoint a statutory auditor. \r\nSubsequently, the company should conduct AGMs & board meetings as per the provisions. \r\nAuditor must audit the books of the company at the year end. \r\nCompany shall file form AOC - 4 and MGT - 7 - Annual filing of ITR and registrar of co. should also be complied.",
+            "servicetype": "private limited"
+        },
+        {
+            "id": "122",
+            "question": "What is the importance of MOA & AOA of company?",
+            "answer": "MOA stands for Memorandum of Association and AOA stands for Articles of Association. These both are the byelaws or rules based on which signifant aspects like main business of the company or meetings is being decided. These legal documents are prepared by Company Secretaries during incorporation of the Company.",
+            "servicetype": "private limited"
+        },
+        {
+            "id": "123",
+            "question": "What is the slab rate for professional tax?",
+            "answer": "Slab rate varies within states of India. But for an employee, if the monthly salary is less than Rs.7500, there is no professional tax imposed.",
+            "servicetype": "professional tax"
+        },
+        {
+            "id": "124",
+            "question": "What is the due date for filing return for professional tax?",
+            "answer": "Persons liable to pay professional tax has to file returns by December 31st of each year.",
+            "servicetype": "professional tax"
+        },
+        {
+            "id": "125",
+            "question": "Is there any difference between professional tax and income tax?",
+            "answer": "Yes, Income tax is a direct tax collected by the central government and charged on prescribed percentage when the income exceeds basic exemption limit. However, professional tax is an indirect tax collected by the state government which is charged based on a slab fixed by the rules for the people engaged in employment, business and occupation.",
+            "servicetype": "professional tax"
+        },
+        {
+            "id": "126",
+            "question": "Is it mandatory to register for professional tax?",
+            "answer": "If the salary paid to an employee by the employer exceeds the minimum slab limit i.e Rs 7,500 such employer/entity is required to get a registered under professional tax.",
+            "servicetype": "professional tax"
+        },
+        {
+            "id": "127",
+            "question": "Is physical presence required during the process?",
+            "answer": "No, physical presence is not required. Scanned copies of all the required documents & forms will hold good to complete the procedure online. Also, we at Taxkriya, always encourage faceless and paperless process in all our services. \r\nWe also provide video/ audio call support at your convenience. \r\n",
+            "servicetype": "section8"
+        },
+        {
+            "id": "128",
+            "question": "Generally, how many days will it take to get a company incorporated?",
+            "answer": "If the name availability and all the documents are in line with the registrar's expectations, within 15 days we will be able to get the approval. However, for name availability, you can avail the best support from our team of experts.\r\n",
+            "servicetype": "section8"
+        },
+        {
+            "id": "129",
+            "question": "What are all the services included as a part of Section 8 Company?",
+            "answer": "Along with the name approval and incorporation form filing procedure, we also register the NGO and handle all the formalities associated with (Trust Act, Society Registrations Act or the Companies Act, depending on its entities).Our team support in clarifying all your queries and help you get the complete registration and filing process with ease.",
+            "servicetype": "section8"
+        },
+        {
+            "id": "130",
+            "question": "Why is it so difficult for the name approval of our choice?",
+            "answer": "According to the procedure, Registrar of Companies (ROC) expects the applicants to follow the proper naming guidelines. And also sometimes, the approval depends and varies on the opinion of the officer verifying your application. However, for name availability, you can avail the best support from our team of experts.",
+            "servicetype": "section8"
+        },
+        {
+            "id": "131",
+            "question": "How much should we need to pay as government fee for registration?",
+            "answer": "Presently, there is no government fee is applicable if the authorised capital is less than Rs.15 lakhs. However, State government stamp duty applicable as per respective state government stamp duty provisions.",
+            "servicetype": "section8"
+        },
+        {
+            "id": "132",
+            "question": "When should one get a Commencement of Business certificate after the incorporation process is gets completed?",
+            "answer": "Every company shall file for commencement of business with Registrar within 180 days from the date of incorporation. Before that every subscribers should bring subscription capital into companies' accounts.",
+            "servicetype": "section8"
+        },
+        {
+            "id": "133",
+            "question": "What is the importance of MOA & AOA of company?",
+            "answer": "MOA stands for Memorandum of Association and AOA stands for Articles of Association. These both are the byelaws or rules based on which signifant aspects like main business of the company or meetings is being decided. These legal documents are prepared by Company Secretaries during incorporation of the Company.",
+            "servicetype": "section8"
+        },
+        {
+            "id": "134",
+            "question": "What is the minimum capital of the company required to start the incorporation of the company?",
+            "answer": "There is no minimum requirement as paid-up capital, it can be as low as Rs. 10,000",
+            "servicetype": "section8"
+        },
+        {
+            "id": "135",
+            "question": "Is it possible to convert a Section 8 company into private limited company?",
+            "answer": "Yes, after taking prior approval from ROC any Section 8 company be converted into private limited company.",
+            "servicetype": "section8"
+        },
+        {
+            "id": "136",
+            "question": "What are the annual mandatory compliances that has to be followed by a Section 8 Company?",
+            "answer": "Like a Pvt ltd, OPC, S.8 Co. also requires to follow the same procedures in adherance of annual compliances by Conducting board meetings, Mandatory audit of books, Other annual return filings and income tax return filings.",
+            "servicetype": "section8"
+        },
+        {
+            "id": "137",
+            "question": "Is physical presence required during the process?",
+            "answer": "No, physical presence is not required. Scanned copies of all the required documents & forms will hold good to complete the procedure online. Also, we at Taxkriya, always encourage faceless and paperless process in all our services. \r\nWe also provide video/ audio call support at your convenience. \r\n",
+            "servicetype": "sole proprietorship"
+        },
+        {
+            "id": "138",
+            "question": "Who can be eligible to start a sole proprietorship?",
+            "answer": "Anyone in India having a valid PAN, is eligible to start a sole proprietorship business with or without registration (depending on the business type) provided, a bank current account is made available to make business transactions. \r\nSometimes, Banks may require GST registration and Shops & establishments registration to open a current account with them.",
+            "servicetype": "sole proprietorship"
+        },
+        {
+            "id": "139",
+            "question": "What are the some common types of business that can be run through sole proprietorship",
+            "answer": "Most of the local business who start business ad proprietor are small traders, manufacturers, and other small scale shop vendors.",
+            "servicetype": "sole proprietorship"
+        },
+        {
+            "id": "140",
+            "question": "What are the other mandatory registrations required to run the business?",
+            "answer": "\r\nGST Registration if the value of turnover exceeds Rs 40 Lacs (in case of goods) and Rs 20 lacs (in case of services).\r\n",
+            "servicetype": "sole proprietorship"
+        },
+        {
+            "id": "141",
+            "question": "How easy is it to convert a sole proprietor into a partnership/LLP/OPC/Private limited company?",
+            "answer": "It involves additional efforts and time to convert sole-proprietorship to other legal entity. However, taxkriya team will support and guide you in easy conversion to another legal entity.",
+            "servicetype": "sole proprietorship"
+        },
+        {
+            "id": "142",
+            "question": "What is Startup India scheme?",
+            "answer": "Start-up India Scheme is an initiative of the Indian Government to promote the eco-system of the Indian startups by supporting in their sustainable economic growth.",
+            "servicetype": "startup india registration"
+        },
+        {
+            "id": "143",
+            "question": "Who are eligible to apply under Startup india scheme?",
+            "answer": "All business entities that are registered as Private Limited Company or Limited Liability Partnership or a Registered partnership Firm are eligible to apply under Startup India scheme",
+            "servicetype": "startup india registration"
+        },
+        {
+            "id": "144",
+            "question": "What is the basic requirements for qualifying under the Start-up India scheme?",
+            "answer": "\r\n\r\nAnnual turnover of the entity should not have exceeded Rs. 25 crores in any of the previous years.\r\nThe Business objective should be towards innovation, development or improvement of products or processes or services, or the business model should have the potential to bring in employment generation or wealth creation.",
+            "servicetype": "startup india registration"
+        },
+        {
+            "id": "145",
+            "question": "What is the income tax benefit available for the recognised Start-ups under this scheme",
+            "answer": "Recognised start-ups after approval of the application, eligible for income tax exemption for 3 years in a block of 7 years. Also they are eligible for exemption under specific sections under Long term capital gains",
+            "servicetype": "startup india registration"
+        },
+        {
+            "id": "146",
+            "question": "How about the exemption from Angel Tax for recognised Start-ups?",
+            "answer": "After the proper scrutiny approval of the application, the startups are eligible for Angel Tax exemption benefits.",
+            "servicetype": "startup india registration"
+        },
+        {
+            "id": "147",
+            "question": "Who is required to to file TDS Return?",
+            "answer": "Every person  who makes payment  for specified goods or services crossing a particular threshold according to TDS norms is required to deduct TDS and file TDS return. The specified payment includes salary, interest, commission, brokerage, professional fees, royalty, contract payments, etc. Generally, TDS is not required to be deducted by Individuals and HUF.",
+            "servicetype": "tds"
+        },
+        {
+            "id": "148",
+            "question": "What are the duties of the person deducting tax at source?",
+            "answer": "Firstly, should obtain Tax Deduction Account Number and mention such in all the documents pertaining to TDS. Regularly has to deduct the tax at source at the applicable rates. and pay the tax deducted to the credit of the Government within due date. File the periodic TDS statements promptly. Issue the TDS certificate to the payee in respect of tax deducted within due date. ",
+            "servicetype": "tds"
+        },
+        {
+            "id": "149",
+            "question": " What is TAN?",
+            "answer": "TAN is an alphanumeric 10-digit number required by a person liable to deduct TDS and file TDS return. TAN number allotted is mandatorily to be mentioned in all TDS Certificates issued, returns, challans etc. Person failed to get a TAN may be penalized up to Rs. 10,000/-.",
+            "servicetype": "tds"
+        },
+        {
+            "id": "150",
+            "question": " How TDS can be deposited?",
+            "answer": "Payment can be done using net banking online on NSDL by selecting Challan 281. All The TDS payments should be made before filing the TDS return by using net banking online on NDSL by opting Challan 281. e-payment is made mandatory for all the Corporate assesses and non-corporate assessees who are liable for audit u/s 44AB. Other persons can make a payment by visiting the authorised bank branch.",
+            "servicetype": "tds"
+        },
+        {
+            "id": "151",
+            "question": "Who can apply for Trademark Registration?",
+            "answer": "Any Individual Person, Company, NGO, and even a Govt. agency can apply for Trademark.",
+            "servicetype": "trademark registration"
+        },
+        {
+            "id": "152",
+            "question": "What can be Trademarked?",
+            "answer": "Business name, brand name , logo, slogan, product name, website domain name can be trademarked.",
+            "servicetype": "trademark registration"
+        },
+        {
+            "id": "153",
+            "question": "What is meant by trademark search?",
+            "answer": "Basically, registering person has to do a Trademark search to check whether such name to be registered is already taken by others or is closely similar to existing trademarks in trademark database. ",
+            "servicetype": "trademark registration"
+        },
+        {
+            "id": "154",
+            "question": "What will be the government fees for Trademark Registration in India?",
+            "answer": "Government Fees for each trademark application is Rs. 4,500.",
+            "servicetype": "trademark registration"
+        },
+        {
+            "id": "155",
+            "question": "When can I use (TM) symbol?",
+            "answer": "You can use (TM) mark as soon as the Trademark application is filed and a acknowledgement receipt is received. But, (R) mark can be used only after the trademark is registered.",
+            "servicetype": "trademark registration"
+        },
+        {
+            "id": "156",
+            "question": "What is Class of Trademark?",
+            "answer": "To put it simple, class generally means business segment. There are around 45 classes in Trademark, and they are divided into 3 categories. Class 1 to 34 - Manufacturing, Class 35 - Trading, Class 35 to 45- Services. One should select their exact applicable classification, as wrong classification may lead to wrong application thereby wasting time and money.",
+            "servicetype": "trademark registration"
+        },
+        {
+            "id": "157",
+            "question": "What is the validity period for a trademark?",
+            "answer": "Registered Trademark will be live unless it is withdrawn by the registered person or it expiry of 10 years from the date of registration. For every 10 years the trademark has to be renewed again. ",
+            "servicetype": "trademark registration"
+        },
+        {
+            "id": "158",
+            "question": "What are the ROC fees and charges involved in this share transfers?",
+            "answer": "Stamp duty charges of 0.25 % of the total consideration value of share transfer are applicable on share transfer.",
+            "servicetype": "transfer of shares"
+        },
+        {
+            "id": "159",
+            "question": "Can the shareholder digitally sign the share transfer forms?",
+            "answer": "No, physical Signatures are only accepted on the share transfer form.",
+            "servicetype": "transfer of shares"
+        },
+        {
+            "id": "160",
+            "question": "Are share certificates mandatory for share transfer?",
+            "answer": "Yes, Share certificate is required for verification and making note of the entries of share transfer.",
+            "servicetype": "transfer of shares"
+        },
+        {
+            "id": "161",
+            "question": "What is a role of  Virtual CFO?",
+            "answer": "A Virtual CFO, or Virtual Chief Financial Officer, is an outsourced accountant and advisor for a business entity. Every business need a professional financial advisor to solve their day-to-day roadblocks but all can’t afford a full-time CFO or controller whose cost will be minimum starting from Rs 5,00,000/- per year. Collaborating with taxkriya for a Virtual CFO services is a cost effective option and we provide you with an experienced accounting support team, at a fraction of 75% of estimated cost. Instead of one person acting in a CFO role, we as a expertised team take care of your finance and compliance related activities.",
+            "servicetype": "virtual cfo"
+        }
+    ],
+    "documents": [
+        {
+            "id": "1",
+            "documents": "PAN card and aadhar copy of all the Directors and Shareholders.",
+            "servicetype": "private limited"
+        },
+        {
+            "id": "2",
+            "documents": "Passport copy or Bank statementof  the Directors and Shareholders of the Company\r\n",
+            "servicetype": "private limited"
+        },
+        {
+            "id": "3",
+            "documents": "Proof of registered office, Updated gas or electricity bill or Property tax receipt ",
+            "servicetype": "private limited"
+        },
+        {
+            "id": "4",
+            "documents": "Photo ID proof of directors, Voter ID or Passport or License",
+            "servicetype": "private limited"
+        },
+        {
+            "id": "5",
+            "documents": "Passport size photograph",
+            "servicetype": "private limited"
+        },
+        {
+            "id": "6",
+            "documents": "Specimen signature or impression",
+            "servicetype": "private limited"
+        },
+        {
+            "id": "7",
+            "documents": "Copy of rental agreement and no objection certificate from the owner of the property",
+            "servicetype": "private limited"
+        },
+        {
+            "id": "8",
+            "documents": "Address Proof copy of all the partners Aadhaar copy or Driving license copy or Passport copy or Bank statement.\r\n",
+            "servicetype": "partnership"
+        },
+        {
+            "id": "9",
+            "documents": "PAN card copy of the partners",
+            "servicetype": "partnership"
+        },
+        {
+            "id": "10",
+            "documents": "Photo ID proof of partners, Voter ID or Passport or License",
+            "servicetype": "partnership"
+        },
+        {
+            "id": "11",
+            "documents": "Copy of rental agreement and no objection certificate from the owner of the property",
+            "servicetype": "partnership"
+        },
+        {
+            "id": "12",
+            "documents": "PAN card copy of the Director and Shareholder.",
+            "servicetype": "opc"
+        },
+        {
+            "id": "13",
+            "documents": "Passport copy or Bank statementof  the Directors and Shareholders of the Company\r\n",
+            "servicetype": "opc"
+        },
+        {
+            "id": "14",
+            "documents": "Proof of registered office, Updated gas or electricity bill or Property tax receipt ",
+            "servicetype": "opc"
+        },
+        {
+            "id": "15",
+            "documents": "Copy of rental agreement and no objection certificate from the owner of the property",
+            "servicetype": "opc"
+        },
+        {
+            "id": "16",
+            "documents": "Specimen signature or impression",
+            "servicetype": "opc"
+        },
+        {
+            "id": "17",
+            "documents": "Photo ID proof of director - Voter ID or Passport or License",
+            "servicetype": "opc"
+        },
+        {
+            "id": "18",
+            "documents": "Passport size photograph",
+            "servicetype": "opc"
+        },
+        {
+            "id": "19",
+            "documents": "PAN card copy of the Director and Shareholder.",
+            "servicetype": "llp"
+        },
+        {
+            "id": "20",
+            "documents": "Photo ID proof of director - Voter ID or Passport or License",
+            "servicetype": "llp"
+        },
+        {
+            "id": "21",
+            "documents": "Proof of registered office, Updated gas or electricity bill or Property tax receipt ",
+            "servicetype": "llp"
+        },
+        {
+            "id": "22",
+            "documents": "Passport size photograph",
+            "servicetype": "llp"
+        },
+        {
+            "id": "23",
+            "documents": "Specimen signature or impression",
+            "servicetype": "llp"
+        },
+        {
+            "id": "24",
+            "documents": "Copy of rental agreement and no objection certificate from the owner of the property",
+            "servicetype": "llp"
+        },
+        {
+            "id": "25",
+            "documents": "PAN card and aadhar copy of all the Directors and Shareholders.",
+            "servicetype": "section8"
+        },
+        {
+            "id": "26",
+            "documents": "Proof of registered office, Updated gas or electricity bill or Property tax receipt ",
+            "servicetype": "section8"
+        },
+        {
+            "id": "27",
+            "documents": "Passport copy or Bank statementof  the Directors and Shareholders of the Company\r\n",
+            "servicetype": "section8"
+        },
+        {
+            "id": "28",
+            "documents": "Copy of rental agreement and no objection certificate from the owner of the property",
+            "servicetype": "section8"
+        },
+        {
+            "id": "29",
+            "documents": "Specimen signature or impression",
+            "servicetype": "section8"
+        },
+        {
+            "id": "30",
+            "documents": "Photo ID proof of directors, Voter ID or Passport or License",
+            "servicetype": "section8"
+        },
+        {
+            "id": "31",
+            "documents": "Passport size photograph",
+            "servicetype": "section8"
+        },
+        {
+            "id": "32",
+            "documents": "Objectives of the company",
+            "servicetype": "section8"
+        },
+        {
+            "id": "33",
+            "documents": "Assets Liability Statement and the projection for next five years.",
+            "servicetype": "section8"
+        },
+        {
+            "id": "34",
+            "documents": "Address Proof copy of the Proprietor Aadhaar copy or Driving license copy or Passport copy or Bank statement.\r\n",
+            "servicetype": "sole proprietorship"
+        },
+        {
+            "id": "35",
+            "documents": "Copy of rental agreement and no objection certificate from the owner of the property",
+            "servicetype": "sole proprietorship"
+        },
+        {
+            "id": "36",
+            "documents": "PAN card copy",
+            "servicetype": "sole proprietorship"
+        },
+        {
+            "id": "37",
+            "documents": "Copy of Passport - in case of foreign applicant",
+            "servicetype": "add or remove director"
+        },
+        {
+            "id": "38",
+            "documents": "Copy of PAN Card Self-attested",
+            "servicetype": "add or remove director"
+        },
+        {
+            "id": "39",
+            "documents": "Any one of the Proof of residence/Electricity bill/rental agreement/ Aadhar Card/Voter ID/Passport/Driving License",
+            "servicetype": "add or remove director"
+        },
+        {
+            "id": "40",
+            "documents": "Passport size photograph",
+            "servicetype": "add or remove director"
+        },
+        {
+            "id": "41",
+            "documents": "Digital Signature Certificate of the proposed Director",
+            "servicetype": "add or remove director"
+        },
+        {
+            "id": "42",
+            "documents": "Board Meeting resolution for such change and minutes",
+            "servicetype": "add or remove director"
+        },
+        {
+            "id": "43",
+            "documents": "Director resignation letter and resignation acceptance letter",
+            "servicetype": "add or remove director"
+        },
+        {
+            "id": "44",
+            "documents": "Letter of appointment incase of appointment",
+            "servicetype": "add or remove director"
+        },
+        {
+            "id": "45",
+            "documents": "Consent letter in case of appointment",
+            "servicetype": "add or remove director"
+        },
+        {
+            "id": "46",
+            "documents": "Digital Signature Certificate of any authorized director of the company",
+            "servicetype": "changes in authorised capital"
+        },
+        {
+            "id": "47",
+            "documents": "Latest version of Memorandum of Association (MOA)",
+            "servicetype": "changes in authorised capital"
+        },
+        {
+            "id": "48",
+            "documents": "Latest version of Articles of Association (AOA)",
+            "servicetype": "changes in authorised capital"
+        },
+        {
+            "id": "49",
+            "documents": "Copy of Certificate of Incorporation",
+            "servicetype": "changes in authorised capital"
+        },
+        {
+            "id": "50",
+            "documents": "Copy of PAN card",
+            "servicetype": "changes in authorised capital"
+        },
+        {
+            "id": "51",
+            "documents": "MOA and AOA copies",
+            "servicetype": "change in name"
+        },
+        {
+            "id": "52",
+            "documents": "Copy of Certificate of Incorporation (COI)",
+            "servicetype": "change in name"
+        },
+        {
+            "id": "53",
+            "documents": "Notice of General Meeting with Explanatory Statement attached",
+            "servicetype": "change in name"
+        },
+        {
+            "id": "54",
+            "documents": "General Meeting Attendance Sheet",
+            "servicetype": "change in name"
+        },
+        {
+            "id": "55",
+            "documents": "Minutes of General Meeting and Copies of Resolutions",
+            "servicetype": "change in name"
+        },
+        {
+            "id": "56",
+            "documents": "NOC from the Company / LLP which has similar names",
+            "servicetype": "change in name"
+        },
+        {
+            "id": "57",
+            "documents": "Notice of Board Meeting",
+            "servicetype": "change in objectives"
+        },
+        {
+            "id": "58",
+            "documents": "Board Meeting Attendance Sheet",
+            "servicetype": "change in objectives"
+        },
+        {
+            "id": "59",
+            "documents": "Minutes of Board Meeting",
+            "servicetype": "change in objectives"
+        },
+        {
+            "id": "60",
+            "documents": "General Meeting Attendance Sheet",
+            "servicetype": "change in objectives"
+        },
+        {
+            "id": "61",
+            "documents": "Copies of Resolutions passed",
+            "servicetype": "change in objectives"
+        },
+        {
+            "id": "62",
+            "documents": "Proof of new Address -  Rent/Lease agreement and NOC from the owner of the property incase of rental",
+            "servicetype": "change in address"
+        },
+        {
+            "id": "63",
+            "documents": "Notice of Board Meeting",
+            "servicetype": "change in address"
+        },
+        {
+            "id": "64",
+            "documents": "Board Meeting Attendance Sheet",
+            "servicetype": "change in address"
+        },
+        {
+            "id": "65",
+            "documents": "Minute of Board Meeting",
+            "servicetype": "change in address"
+        },
+        {
+            "id": "66",
+            "documents": "Copy of Board Resolutions",
+            "servicetype": "change in address"
+        },
+        {
+            "id": "67",
+            "documents": "Original LLP Agreement",
+            "servicetype": "changes in LLP agreement"
+        },
+        {
+            "id": "68",
+            "documents": "Modified LLP agreement",
+            "servicetype": "changes in LLP agreement"
+        },
+        {
+            "id": "69",
+            "documents": "Supplementary Deed",
+            "servicetype": "changes in LLP agreement"
+        },
+        {
+            "id": "70",
+            "documents": "Resolution regarding the changes to be made, passed in a meeting by the LLP Partners",
+            "servicetype": "changes in LLP agreement"
+        },
+        {
+            "id": "71",
+            "documents": "Consents of each of the partners for changes",
+            "servicetype": "changes in LLP agreement"
+        },
+        {
+            "id": "72",
+            "documents": "An affidavit or other proof of a change in name",
+            "servicetype": "changes in LLP agreement"
+        },
+        {
+            "id": "73",
+            "documents": "If any of the partners is a company, the copy of the resolution of the company",
+            "servicetype": "changes in LLP agreement"
+        },
+        {
+            "id": "74",
+            "documents": "Copy of Share Certificates",
+            "servicetype": "transfer of shares"
+        },
+        {
+            "id": "75",
+            "documents": "Duly executed Share Transfer Deed - SH-4",
+            "servicetype": "transfer of shares"
+        },
+        {
+            "id": "76",
+            "documents": "Stamping of Transfer Deed",
+            "servicetype": "transfer of shares"
+        },
+        {
+            "id": "77",
+            "documents": "Documents relating to Board Meeting",
+            "servicetype": "transfer of shares"
+        },
+        {
+            "id": "78",
+            "documents": "Notice of  Board Meeting",
+            "servicetype": "transfer of shares"
+        },
+        {
+            "id": "79",
+            "documents": "Minutes of  Board Meeting",
+            "servicetype": "transfer of shares"
+        },
+        {
+            "id": "80",
+            "documents": "Board Meeting Attendance Sheet",
+            "servicetype": "transfer of shares"
+        },
+        {
+            "id": "81",
+            "documents": "Shareholder's consent for  transferring the Shares",
+            "servicetype": "transfer of shares"
+        },
+        {
+            "id": "82",
+            "documents": "Also Shareolder's will to takeover the shares",
+            "servicetype": "transfer of shares"
+        },
+        {
+            "id": "83",
+            "documents": "Copy of Articles of Association",
+            "servicetype": "transfer of shares"
+        },
+        {
+            "id": "84",
+            "documents": "Shareholders Agreement / Co-Founders Agreement along with the conditions stipulated",
+            "servicetype": "transfer of shares"
+        },
+        {
+            "id": "85",
+            "documents": "Copy of PAN Card",
+            "servicetype": "din kyc"
+        },
+        {
+            "id": "86",
+            "documents": "Copy of Bank Statement/Electricity Bill",
+            "servicetype": "din kyc"
+        },
+        {
+            "id": "87",
+            "documents": "Copy of Aadhaar Card",
+            "servicetype": "din kyc"
+        },
+        {
+            "id": "88",
+            "documents": "Unique Email ID & Mobile Number",
+            "servicetype": "din kyc"
+        },
+        {
+            "id": "89",
+            "documents": "Digital Signature of the Director",
+            "servicetype": "din kyc"
+        },
+        {
+            "id": "90",
+            "documents": "PAN and Aadhaar card",
+            "servicetype": "msme"
+        },
+        {
+            "id": "91",
+            "documents": "MOA, AOA & Incorporation Certificate",
+            "servicetype": "msme"
+        },
+        {
+            "id": "92",
+            "documents": "LLP Agreement/ Partnership deed",
+            "servicetype": "msme"
+        },
+        {
+            "id": "93",
+            "documents": "Shop Act / Ghumasta License",
+            "servicetype": "msme"
+        },
+        {
+            "id": "94",
+            "documents": "Address proof of business entity - lease deed, property tax receipt",
+            "servicetype": "msme"
+        },
+        {
+            "id": "95",
+            "documents": "PAN card of the entity",
+            "servicetype": "gst"
+        },
+        {
+            "id": "96",
+            "documents": "Memorandum and Articles of Association or Partnership Deed/ LLP agreement or Trust Deed - depending on the status of the applicant",
+            "servicetype": "gst"
+        },
+        {
+            "id": "97",
+            "documents": "Address proof of the entity",
+            "servicetype": "gst"
+        },
+        {
+            "id": "98",
+            "documents": "Certificate of Registration (CoR)",
+            "servicetype": "payroll"
+        },
+        {
+            "id": "99",
+            "documents": "GST (Goods & Services) Certificate",
+            "servicetype": "payroll"
+        },
+        {
+            "id": "100",
+            "documents": "Certificate of Incorporation/Partnership Registration Certificate",
+            "servicetype": "startup india"
+        },
+        {
+            "id": "101",
+            "documents": "Company PAN card",
+            "servicetype": "startup india"
+        },
+        {
+            "id": "102",
+            "documents": "Detailed profile of the company",
+            "servicetype": "startup india"
+        },
+        {
+            "id": "103",
+            "documents": "Number of employees and attendance sheet along with their pay details",
+            "servicetype": "payroll"
+        },
+        {
+            "id": "104",
+            "documents": "Applicant’s name (Individual/Other person)",
+            "servicetype": "trademark"
+        },
+        {
+            "id": "105",
+            "documents": "Copy of PAN card of the business entity",
+            "servicetype": "trademark"
+        },
+        {
+            "id": "106",
+            "documents": "Name of the brand along with a logo in JPEG format",
+            "servicetype": "trademark"
+        },
+        {
+            "id": "107",
+            "documents": "Nature of business",
+            "servicetype": "trademark"
+        },
+        {
+            "id": "108",
+            "documents": "Business objectives",
+            "servicetype": "trademark"
+        },
+        {
+            "id": "109",
+            "documents": "Date of first use of the brand in dd/mm/yyyy format",
+            "servicetype": "trademark"
+        },
+        {
+            "id": "110",
+            "documents": "Registration address with pin code",
+            "servicetype": "trademark"
+        },
+        {
+            "id": "111",
+            "documents": "Copy of PAN and TAN details",
+            "servicetype": "tds"
+        },
+        {
+            "id": "112",
+            "documents": "Last TDS filing details",
+            "servicetype": "tds"
+        },
+        {
+            "id": "113",
+            "documents": "Tax paid challans",
+            "servicetype": "tds"
+        },
+        {
+            "id": "114",
+            "documents": "TDS certificates, if applicable",
+            "servicetype": "tds"
+        },
+        {
+            "id": "115",
+            "documents": "The period for which TDS has to be filed",
+            "servicetype": "tds"
+        },
+        {
+            "id": "116",
+            "documents": "No. of transactions and other details for filing TDS returns",
+            "servicetype": "tds"
+        },
+        {
+            "id": "117",
+            "documents": "The registration certificate or license issued by Shops and Establishments Act",
+            "servicetype": "esi"
+        },
+        {
+            "id": "118",
+            "documents": "Address proof of the entity",
+            "servicetype": "esi"
+        },
+        {
+            "id": "119",
+            "documents": "Rent receipt of the occupied premises, mentioning its capacity",
+            "servicetype": "esi"
+        },
+        {
+            "id": "120",
+            "documents": "Copy of PAN card",
+            "servicetype": "esi"
+        },
+        {
+            "id": "121",
+            "documents": "Copy of latest bank statement",
+            "servicetype": "esi"
+        },
+        {
+            "id": "122",
+            "documents": "Photocopy of the latest property tax receipt",
+            "servicetype": "esi"
+        },
+        {
+            "id": "123",
+            "documents": "Memorandum and Articles of Association or Partnership Deed/ LLP agreement or Trust Deed - depending on the status of the applicant",
+            "servicetype": "esi"
+        },
+        {
+            "id": "124",
+            "documents": "Certificate of commencement of production",
+            "servicetype": "esi"
+        },
+        {
+            "id": "125",
+            "documents": "GST Registration Certificate",
+            "servicetype": "esi"
+        },
+        {
+            "id": "126",
+            "documents": "Copy of PAN card",
+            "servicetype": "pf"
+        },
+        {
+            "id": "127",
+            "documents": "Certificate of incorporation",
+            "servicetype": "pf"
+        },
+        {
+            "id": "128",
+            "documents": "Cancelled cheque of Bank account",
+            "servicetype": "pf"
+        },
+        {
+            "id": "129",
+            "documents": "Address proof that is in the name of the establishment. : Rental agreement/ Water or Electricity bill (latest) along with NOC (if rented)",
+            "servicetype": "pf"
+        },
+        {
+            "id": "130",
+            "documents": "Specimen signature of directors and authorized signatories",
+            "servicetype": "pf"
+        },
+        {
+            "id": "131",
+            "documents": "Digital signature of the authorized applicant",
+            "servicetype": "pf"
+        },
+        {
+            "id": "132",
+            "documents": "In case of voluntary registration, consent of the majority of employees",
+            "servicetype": "pf"
+        },
+        {
+            "id": "133",
+            "documents": "First sale bill and purchase bill",
+            "servicetype": "pf"
+        },
+        {
+            "id": "134",
+            "documents": "GST Registration Certificate",
+            "servicetype": "pf"
+        },
+        {
+            "id": "135",
+            "documents": "Register of salary and wages along with the employee details",
+            "servicetype": "pf"
+        },
+        {
+            "id": "136",
+            "documents": "Memorandum and Articles of Association or Partnership Deed/ LLP agreement or Trust Deed - dependending on the status of the applicant",
+            "servicetype": "professional tax"
+        },
+        {
+            "id": "137",
+            "documents": "Certificate of incorporation",
+            "servicetype": "professional tax"
+        },
+        {
+            "id": "138",
+            "documents": "Copy of PAN card",
+            "servicetype": "professional tax"
+        },
+        {
+            "id": "139",
+            "documents": "Address proof that is in the name of the establishment Rental agreement/ Water or Electricity bill (latest) along with NOC (if rented)",
+            "servicetype": "professional tax"
+        },
+        {
+            "id": "140",
+            "documents": "Cancelled cheque of Bank account",
+            "servicetype": "professional tax"
+        },
+        {
+            "id": "141",
+            "documents": "Board resolution copy if applicable",
+            "servicetype": "professional tax"
+        },
+        {
+            "id": "142",
+            "documents": "Salary and attendance certificate",
+            "servicetype": "professional tax"
+        },
+        {
+            "id": "143",
+            "documents": "Shop and establishment certificate",
+            "servicetype": "professional tax"
+        },
+        {
+            "id": "144",
+            "documents": "Copy of Bank statements",
+            "servicetype": "accounting"
+        },
+        {
+            "id": "145",
+            "documents": "Sales/Service invoices",
+            "servicetype": "accounting"
+        },
+        {
+            "id": "146",
+            "documents": "Purchase invoices",
+            "servicetype": "accounting"
+        },
+        {
+            "id": "147",
+            "documents": "Other expenses Bill copy/Voucher",
+            "servicetype": "accounting"
+        },
+        {
+            "id": "148",
+            "documents": "PAN card copy of the business entity",
+            "servicetype": "iec"
+        },
+        {
+            "id": "149",
+            "documents": "Scanned copy of cancelled cheque",
+            "servicetype": "iec"
+        },
+        {
+            "id": "150",
+            "documents": "PAN of All the Directors / Partners",
+            "servicetype": "iec"
+        },
+        {
+            "id": "151",
+            "documents": "Name / Address /DIN of Directors",
+            "servicetype": "iec"
+        },
+        {
+            "id": "152",
+            "documents": "Digital Signature of the Applicant",
+            "servicetype": "iec"
+        },
+        {
+            "id": "153",
+            "documents": "Copy of all Bank statements",
+            "servicetype": "it filing"
+        },
+        {
+            "id": "154",
+            "documents": "Proof of investments in the name of the person",
+            "servicetype": "it filing"
+        },
+        {
+            "id": "155",
+            "documents": "T.D.S. Certificates in Form 16 or 16A as applicable",
+            "servicetype": "it filing"
+        },
+        {
+            "id": "156",
+            "documents": "Documents on purchase and sale of investments/assets",
+            "servicetype": "it filing"
+        },
+        {
+            "id": "157",
+            "documents": "Challan of tax paid such as advance tax or self-assessment tax",
+            "servicetype": "it filing"
+        },
+        {
+            "id": "158",
+            "documents": "Copy of PAN card",
+            "servicetype": "it filing"
+        },
+        {
+            "id": "159",
+            "documents": "For businesses - a copy each of the audit report, balance sheet, trading, profit and loss account etc.",
+            "servicetype": "it filing"
+        },
+        {
+            "id": "160",
+            "documents": "Statement of receipts and payments with necessary evidence when no books are maintained",
+            "servicetype": "it filing"
+        },
+        {
+            "id": "161",
+            "documents": "Receipts of payment of insurance premium, purchase of NSCs, new equity shares, mutual fund, NSS, donations, etc. to avail deductions",
+            "servicetype": "it filing"
+        },
+        {
+            "id": "162",
+            "documents": "Copies of Sales and purchase bills",
+            "servicetype": "msme"
+        },
+        {
+            "id": "163",
+            "documents": "Copy of Licenses and Machinery bills",
+            "servicetype": "msme"
+        },
+        {
+            "id": "164",
+            "documents": "Bank account number and IFSC",
+            "servicetype": "msme"
+        }
+    ],
+    "benefits": [
+        {
+            "id": "1",
+            "header": "Liability is limited for the Directors",
+            "body": "In partnership firms, Partner's liability is unlimited and at risk incase the business fails to repay its loans and liability. So, partner's personal savings and property would be at risk. But in a private limted company, only its investment is made liable. ",
+            "servicetype": "private limited",
+            "img": "liability.svg"
+        },
+        {
+            "id": "2",
+            "header": "Better reputation in Market",
+            "body": "Corporate Customers. Vendors and authoritative Govt. Agencies prefer to transact with private limited instead of proprietorship or partnership firms.",
+            "servicetype": "private limited",
+            "img": "reputation.svg"
+        },
+        {
+            "id": "3",
+            "header": "Easy to sell",
+            "body": "OPC is pretty easy to sell, less cost and least documentation involved in selling.",
+            "servicetype": "private limited",
+            "img": "easysale.svg"
+        },
+        {
+            "id": "4",
+            "header": "Investor's favourite business structure",
+            "body": "Angel Investors and Venture Capitalists will prefer private limited company due to the transparency and the risk being limited.",
+            "servicetype": "private limited",
+            "img": "investor.svg"
+        },
+        {
+            "id": "5",
+            "header": "Minimum Compliance",
+            "body": "When compared to LLP and other pvt ltd co's, annual compliances are very less.",
+            "servicetype": "partnership",
+            "img": "compliance.svg"
+        },
+        {
+            "id": "6",
+            "header": "Simple To Begin",
+            "body": "Total Business registration can be completed with an unregistered deed of the partnership within 2-4 business days along with simple PAN, GST and other compliances.",
+            "servicetype": "partnership",
+            "img": "easystart.svg"
+        },
+        {
+            "id": "7",
+            "header": "Liability is limited for the Directors",
+            "body": "In partnership firms, Partner's liability is unlimited and at risk incase the business fails to repay its loans and liability. So, partner's personal savings and property would be at risk. But in a private limted company, only its investment is made liable. ",
+            "servicetype": "opc",
+            "img": "liability.svg"
+        },
+        {
+            "id": "8",
+            "header": "Better reputation in Market",
+            "body": "Corporate Customers. Vendors and authoritative Govt. Agencies prefer to transact with private limited instead of proprietorship or partnership firms.",
+            "servicetype": "opc",
+            "img": "reputation.svg"
+        },
+        {
+            "id": "9",
+            "header": "Less compliances in ROC.",
+            "body": "There is no such mandatory requirements to conduct Annual General Meeting (AGM) and also there are less ROC compliances when compared to private limited companies.",
+            "servicetype": "opc",
+            "img": "compliance.svg"
+        },
+        {
+            "id": "10",
+            "header": "Easily enables startups in testing their business model.",
+            "body": "Startup Entrepreneurs can easily start-off with OPC's and easily test their business model in approaching Angel investors, Venture capitalists for funding. ",
+            "servicetype": "opc",
+            "img": "startup.svg"
+        },
+        {
+            "id": "11",
+            "header": "Single person control",
+            "body": "With the one person control in the company, fast decision making is done.",
+            "servicetype": "opc",
+            "img": "oneperson.svg"
+        },
+        {
+            "id": "12",
+            "header": "Easy to sell",
+            "body": "OPC is pretty easy to sell, less cost and least documentation involved in selling.",
+            "servicetype": "opc",
+            "img": "easysale.svg"
+        },
+        {
+            "id": "13",
+            "header": "Liability is limited for the Directors",
+            "body": "In partnership firms, Partner's liability is unlimited and at risk incase the business fails to repay its loans and liability. So, partner's personal savings and property would be at risk. But in an LLP, only its investment  is made liable. ",
+            "servicetype": "llp",
+            "img": "liability.svg"
+        },
+        {
+            "id": "14",
+            "header": "Better  reputation in Market",
+            "body": "Corporate Customers. Vendors and authoritative Govt. Agencies prefer to transact with private limited instead of proprietorship or partnership firms.",
+            "servicetype": "llp",
+            "img": "reputation.svg"
+        },
+        {
+            "id": "15",
+            "header": "Less compliances and no mandatory Audit Requirement",
+            "body": "LLP is not required to conduct a statutory audit and also tax audit is made mandatory only when their contributions exceeds  Rs. 25 lac and turnover exceeds Rs. 40 lac.",
+            "servicetype": "llp",
+            "img": "compliance.svg"
+        },
+        {
+            "id": "16",
+            "header": "Business continuity factor",
+            "body": "LLP's existence continues irrespective of partner's existence, which is not possible in case of partnership firms.",
+            "servicetype": "llp",
+            "img": "continue.svg"
+        },
+        {
+            "id": "17",
+            "header": "Tax Exemptions",
+            "body": "Investments brought in by Startups registered under this scheme will be eligible for exemption under Section 56 (2) (VIIB) of Income Tax Act, 1961.",
+            "servicetype": "startup india registration",
+            "img": "exemption.svg"
+        },
+        {
+            "id": "18",
+            "header": "Discount and rebate availment ",
+            "body": "Registered entities are allowed for rebate and discount upto 50% in regard to registration fees for patent and trademark",
+            "servicetype": "startup india registration",
+            "img": "discount.svg"
+        },
+        {
+            "id": "19",
+            "header": "Smooth closure",
+            "body": "Facilitating easy winding up of the company under insolvency & Bankruptcy code 2016.",
+            "servicetype": "startup india registration",
+            "img": "closure.svg"
+        },
+        {
+            "id": "20",
+            "header": "Collateral-Free Automatic Loans",
+            "body": "Covered under Govt. guarantee with no fee. Scheme available till 31st Oct, 2020.",
+            "servicetype": "msme",
+            "img": "loan.svg"
+        },
+        {
+            "id": "21",
+            "header": "Easy listing at stock exchanges",
+            "body": "Govt. encourages MSMEs to get listed on main board of Stock Exchanges.",
+            "servicetype": "msme",
+            "img": "stock.svg"
+        },
+        {
+            "id": "22",
+            "header": "Special Preference",
+            "body": "Special preference by Indian Government in buying from Micro and Small businesses through Govt.tenders. And also preference given for government licenses and certifications.",
+            "servicetype": "msme",
+            "img": "prefer.svg"
+        },
+        {
+            "id": "23",
+            "header": "Concession on interest rate on Bank Overdraft (OD)",
+            "body": "MSME Registered entities can avail benefit of 1% exemption on interest rate on overdraft (OD).",
+            "servicetype": "msme",
+            "img": "discount.svg"
+        },
+        {
+            "id": "24",
+            "header": "Concession in Electricity bills",
+            "body": "Upon application to electricity department, enterprises that have MSME Registration Certificate can avail concession on electricity bills.",
+            "servicetype": "msme",
+            "img": "discount.svg"
+        },
+        {
+            "id": "25",
+            "header": "MAT credit carried forward benefit",
+            "body": "MAT credit can be carried forward for additional 5 years.",
+            "servicetype": "msme",
+            "img": "exemption.svg"
+        },
+        {
+            "id": "26",
+            "header": "One time settlement",
+            "body": "For non-paid amounts of MSME, there is a one time settlement fee allowed.",
+            "servicetype": "msme",
+            "img": "settlement.svg"
+        },
+        {
+            "id": "27",
+            "header": "Safeguarding against the delay in receivables.",
+            "body": "Maximum period for receivables shall not exceed 45 days, in case of delay, the buyer is liable to pay along with interest at 3 times of the bank rate",
+            "servicetype": "msme",
+            "img": "secure.svg"
+        },
+        {
+            "id": "28",
+            "header": "50% discount on Govt. fees for Trademark & Patent",
+            "body": "MSME registered Enterprises  can avail 50% subsidy in government fees for patent & trademark registration.",
+            "servicetype": "msme",
+            "img": "discount.svg"
+        },
+        {
+            "id": "29",
+            "header": "Quick resolution of disputes",
+            "body": "Registered Enterprises undergoing a dispute for payments can refer to  the MSME Facilitation Council for conciliation & arbitration for quick resolution.",
+            "servicetype": "msme",
+            "img": "legal.svg"
+        },
+        {
+            "id": "30",
+            "header": "Easy Tax Filing And Reports",
+            "body": "Under the Income Tax Act, every salaried individual is liable to pay taxes as prescribed by the State and Central governments depending on the salary and exemption limit. A payroll software avoids mismanagement of taxes that could leave workers paying penalties. It also takes care of all the compliance and statutory requirements which helps the company in filing taxes easily.",
+            "servicetype": "payroll"
+        },
+        {
+            "id": "31",
+            "header": "Economical And Time-Saving",
+            "body": "Usually, payroll software is designed to integrate the existing accounting system. This helps organisations save time and money on calculating large amounts of data. Also, a few advanced versions have the provision to forecast and plan budgets for what companies spend on each employee.",
+            "servicetype": "payroll"
+        },
+        {
+            "id": "32",
+            "header": "Determine Compensation",
+            "body": "Every individual’s compensation, including salary, incentives and bonuses are included in the payroll system. This makes it easier for companies to evaluate employee performance at the time of appraisal and determine compensation.",
+            "servicetype": "payroll"
+        },
+        {
+            "id": "33",
+            "header": "Maintain Reputation",
+            "body": "A company must ensure to maintain adherence to all the country's tax obligations and labour compliances like TDS, ITR, ESI, PF, etc. This enhances an organization’s reputation as a stable employer and also helps in increasing the brand proposition.",
+            "servicetype": "payroll"
+        },
+        {
+            "id": "34",
+            "header": " Protection against Fake sellers",
+            "body": "Trademark registered entity will be protected from fake sellers and products in the industry.",
+            "servicetype": "trademark"
+        },
+        {
+            "id": "35",
+            "header": "Brand registrations brings a reputation",
+            "body": "Brand registration brings out a more valuable asset to the company by creating a visibility among the public as registered brands will be given more preference. ",
+            "servicetype": "trademark"
+        },
+        {
+            "id": "36",
+            "header": "Facilitates expansion of business",
+            "body": "Prospective business entities can opt for franchising model which solely depends upon trademark licensing thus creating a expansion for the business.",
+            "servicetype": "trademark"
+        },
+        {
+            "id": "37",
+            "header": "No minimum paid-up capital required",
+            "body": "There is no mandatory requirement for a minimum paid-up capital.",
+            "servicetype": "section8",
+            "img": "capital.svg"
+        },
+        {
+            "id": "38",
+            "header": "Availment of tax benefits ",
+            "body": "Tax benefits under section 12AA and 80G of the Income Tax Act can be availed by applying under the concerned authorities.",
+            "servicetype": "section8",
+            "img": "exemption.svg"
+        },
+        {
+            "id": "39",
+            "header": "Credibility and reputation",
+            "body": "Compared to forming a trust, Section 8 companies create more reputation, visibiility and attracts contributions easily.",
+            "servicetype": "section8",
+            "img": "reputation.svg"
+        },
+        {
+            "id": "40",
+            "header": "Minimal cost, time and efforts",
+            "body": "Business under a sole proprietorship can be started with minimum costs, time and with less efforts, as there is no such specific registration is mandatory.",
+            "servicetype": "sole proprietorship",
+            "img": "costs.svg"
+        },
+        {
+            "id": "41",
+            "header": "Less compliances",
+            "body": "Unlike other registrations no statutory compliances are required except monthly/yearly filings that are applicable under Income Tax and GST provisions. ",
+            "servicetype": "sole proprietorship",
+            "img": "compliance.svg"
+        },
+        {
+            "id": "42",
+            "header": "Statutory Compliance Exemptions",
+            "body": "Employers covered under ESI Scheme are exempt from the Maternity Benefit Act and Employees' Compensation Act for employees.",
+            "servicetype": "esi",
+            "img": "compliance.svg"
+        },
+        {
+            "id": "43",
+            "header": "Relaxed Employer Responsbility",
+            "body": "Employers responsibility is released during physical distress of workers such as sickness, employment injury or physical disablement. The loss of wages during those period is supported by the ESIC in respect of insured employees.",
+            "servicetype": "esi",
+            "img": "Responsbility.svg"
+        },
+        {
+            "id": "44",
+            "header": "Tax Benefits",
+            "body": "Any sum contributed under the ESI Act is deductible while computing 'Income' under the Income Tax Act",
+            "servicetype": "esi",
+            "img": "exemption.svg"
+        },
+        {
+            "id": "45",
+            "header": "Better reputation in Market",
+            "body": "Corporate Customers. Vendors and authoritative Govt. Agencies prefer to transact with entities who are registered with ESI Act.",
+            "servicetype": "esi",
+            "img": "reputation.svg"
+        },
+        {
+            "id": "46",
+            "header": "Tax Benefits",
+            "body": "Any sum contributed under the PF Act is deductible while computing 'Income' under the Income Tax Act",
+            "servicetype": "pf",
+            "img": "exemption.svg"
+        },
+        {
+            "id": "47",
+            "header": "Better reputation in Market",
+            "body": "Corporate Customers. Vendors and authoritative Govt. Agencies prefer to transact with entities who are registered with ESI Act.",
+            "servicetype": "pf",
+            "img": "reputation.svg"
+        },
+        {
+            "id": "48",
+            "header": "Save money",
+            "body": "Every business could benefit from the expertise and financial rigour of a Virtual CFO and Controller. Not every business can afford to hire one internally, so this is where we come in. Using our solution saves you money in fees but we can also identify cost-savings in your business too.",
+            "servicetype": "virtual cfo"
+        },
+        {
+            "id": "49",
+            "header": "Improve your cashflow",
+            "body": "Cashflow is the number one reason businesses fail. As a startup, your cashflow requires even more management. If you’ve received an influx of funds from investors or lenders, you need to manage that carefully so you don’t spend too much too soon.",
+            "servicetype": "virtual cfo"
+        },
+        {
+            "id": "50",
+            "header": "Improve your cashflow",
+            "body": "Working with us gives you access to a team of professionals who can help you watch your financials closely. Our team will help you proactively manage your cashflow with regular reporting, forecasts and reviews.",
+            "servicetype": "virtual cfo"
+        },
+        {
+            "id": "51",
+            "header": "Streamline your business",
+            "body": "We’ve worked with many tech and creative startups and we’re well versed in the apps, software and technology tools that can make your business run smoother. We’ve partnered with Xero, Hubdoc and Wagepoint to help you choose and set up the tools you need, and find the solutions that suit you best.",
+            "servicetype": "virtual cfo"
+        },
+        {
+            "id": "52",
+            "header": "Save time on bookkeeping and payroll",
+            "body": "We’ll keep your books squeaky clean so you can get back to what you do best. Our team can handle your bookkeeping, day-to-day accounting, payroll, accounts payable processing and much more. The goal is to save you time and keep your books neat and tidy.",
+            "servicetype": "virtual cfo"
+        },
+        {
+            "id": "53",
+            "header": "Keep your investors happy",
+            "body": "In case you haven’t picked up on it yet – we’re specialists in finances for the tech and creative field. We have helped plenty of startups in those industries, so we understand the challenges they face. We know what’s required by investors and lenders, and we can make sure you continue to stay in their good books.",
+            "servicetype": "virtual cfo"
+        },
+        {
+            "id": "54",
+            "header": "Raise finance and get grants",
+            "body": "If you need help raising finance or applying for a grant, our team can help. We understand what’s needed from the financial side of things and can help you prepare an application that puts you in the best position possible.",
+            "servicetype": "virtual cfo"
+        },
+        {
+            "id": "55",
+            "header": "Stay in control",
+            "body": "We also offer monthly reporting for cashflow to help management and investors, allowing you to see the numbers you need to know and be able to assess how your business is performing.",
+            "servicetype": "virtual cfo"
+        },
+        {
+            "id": "56",
+            "header": "Support when you need it",
+            "body": "We understand the financial side of things can get confusing! However, this is our specialty and we love to make it simple for startups. We’ll keep in touch with you regularly and also offer monthly check ins so we can keep your business growing.",
+            "servicetype": "virtual cfo"
+        },
+        {
+            "id": "57",
+            "header": "Facilitates Business expansion",
+            "body": "Registering for Import Export Code will facilitate the business for its expansion and helps in reaching out to a global market.",
+            "servicetype": "iec",
+            "img": "expansion.svg"
+        },
+        {
+            "id": "58",
+            "header": "One time compliance",
+            "body": "Once the IEC gets allotted to a business entity, there is no need of any additional compliances that has to be followed.",
+            "servicetype": "iec",
+            "img": "compliance.svg"
+        },
+        {
+            "id": "59",
+            "header": "Simpler process",
+            "body": "Application process is made very simple and IEC will be allotted within 10 to 15 days from the date of application.",
+            "servicetype": "iec",
+            "img": "easystart.svg"
+        },
+        {
+            "id": "60",
+            "header": "Other available benefits",
+            "body": "Companies having Import Export Code are eligible for other benefits provided by the Export Promotion Council, and the Director General of Foreign Trade.",
+            "servicetype": "iec",
+            "img": "benefits.svg"
+        },
+        {
+            "id": "61",
+            "header": "Loans",
+            "body": "Bank loans like education loans, vehicle loans, personal loans, can be availed easily as they require last three year’s IT returns.",
+            "servicetype": "it filing"
+        },
+        {
+            "id": "62",
+            "header": "Visa",
+            "body": "As Immigration centres scrutinize many documents and IT returns proofs is a mandatory document for visa applicants.",
+            "servicetype": "it filing"
+        },
+        {
+            "id": "63",
+            "header": "Avoid penalties",
+            "body": "Hefty amounts would be charged for non-filing of income tax returns and hence it is always better to file it to avoid legal repercussions.",
+            "servicetype": "it filing"
+        }
+    ],
+    "criteria": [
+        {
+            "id": "1",
+            "requirements": "Minimum 2 Shareholders",
+            "servicetype": "private limited"
+        },
+        {
+            "id": "2",
+            "requirements": "One of the Directors must be Indian Resident",
+            "servicetype": "private limited"
+        },
+        {
+            "id": "3",
+            "requirements": "Digital Signature Certificate (DSC) for the  promoters",
+            "servicetype": "private limited"
+        },
+        {
+            "id": "4",
+            "requirements": "Minimum 2 Directors",
+            "servicetype": "private limited"
+        },
+        {
+            "id": "5",
+            "requirements": "The directors and shareholders can be same person",
+            "servicetype": "private limited"
+        },
+        {
+            "id": "6",
+            "requirements": "Director Identification number (DIN) for all the directors",
+            "servicetype": "private limited"
+        },
+        {
+            "id": "7",
+            "requirements": "Minimum 1 Shareholder",
+            "servicetype": "opc"
+        },
+        {
+            "id": "8",
+            "requirements": "Minimum 1 Nominee",
+            "servicetype": "opc"
+        },
+        {
+            "id": "9",
+            "requirements": "Minimum Authorised Share Capital to be Rs. 1 Lac",
+            "servicetype": "opc"
+        },
+        {
+            "id": "10",
+            "requirements": "Minimum 1 Director",
+            "servicetype": "opc"
+        },
+        {
+            "id": "11",
+            "requirements": "Shareholder & nominee shall be only Indian residents",
+            "servicetype": "opc"
+        },
+        {
+            "id": "12",
+            "requirements": "Director Identification number (DIN) for the director",
+            "servicetype": "opc"
+        },
+        {
+            "id": "13",
+            "requirements": "Directors and Shareholders can be same person",
+            "servicetype": "opc"
+        },
+        {
+            "id": "14",
+            "requirements": "Digital Signature Certificate (DSC) for the promoter",
+            "servicetype": "opc"
+        },
+        {
+            "id": "15",
+            "requirements": "Minimum 2 Partners",
+            "servicetype": "llp"
+        },
+        {
+            "id": "16",
+            "requirements": "Director Identification Number (DIN) for all the Designated Partners",
+            "servicetype": "llp"
+        },
+        {
+            "id": "17",
+            "requirements": "Incase of a body corporate being a partner, Nominee should be a natural person",
+            "servicetype": "llp"
+        },
+        {
+            "id": "18",
+            "requirements": "Digital Signature Certificate (DSC) for all the Designated Partners",
+            "servicetype": "llp"
+        },
+        {
+            "id": "19",
+            "requirements": "Contribution by each Partner towards Capital of LLP",
+            "servicetype": "llp"
+        },
+        {
+            "id": "20",
+            "requirements": "Incorporation date should not be more than 10 years",
+            "servicetype": "startup india registration"
+        },
+        {
+            "id": "21",
+            "requirements": "\r\nObjective should be towards innovation, development or improvement of products or processes or services, or the business model should have the potential to bring in employment generation or wealth creation.",
+            "servicetype": "startup india registration"
+        },
+        {
+            "id": "22",
+            "requirements": "Turnover should not exceed Rs. 100 crore",
+            "servicetype": "startup india registration"
+        },
+        {
+            "id": "23",
+            "requirements": "Minimum 2 Shareholders required for Private Limited NGO",
+            "servicetype": "section8"
+        },
+        {
+            "id": "24",
+            "requirements": "Minimum 7 Shareholders required for Public Limited NGO",
+            "servicetype": "section8"
+        },
+        {
+            "id": "25",
+            "requirements": "Director Identification number (DIN) for all the directors",
+            "servicetype": "section8"
+        },
+        {
+            "id": "26",
+            "requirements": "Minimum 2 Directors",
+            "servicetype": "section8"
+        },
+        {
+            "id": "27",
+            "requirements": "Digital Signature Certificate (DSC) for the  promoters",
+            "servicetype": "section8"
+        },
+        {
+            "id": "28",
+            "requirements": "The general rule to be eligible for ESI (Employees' State Insurance) registration is to have 10 or more employees. But in some regions, ESI is applicable only if there are more than 20 employees.",
+            "servicetype": "esi"
+        },
+        {
+            "id": "29",
+            "requirements": "Establishment Registered with EPFO.",
+            "servicetype": "esi"
+        },
+        {
+            "id": "30",
+            "requirements": "A factory with the total employee strength of 20 or more.",
+            "servicetype": "pf"
+        },
+        {
+            "id": "31",
+            "requirements": "Professional tax is levied on all types of trades and professions in India. It has to be paid compulsorily by every staff member who is employed in any private firm operating in India.",
+            "servicetype": "professional tax"
+        }
+    ],
+    "deliverables": [
+        {
+            "id": "1",
+            "deliverables": "DIN for 2 Directors",
+            "servicetype": "private limited"
+        },
+        {
+            "id": "2",
+            "deliverables": "AOA and MOA",
+            "servicetype": "private limited"
+        },
+        {
+            "id": "3",
+            "deliverables": "Bank Account opening support",
+            "servicetype": "private limited"
+        },
+        {
+            "id": "4",
+            "deliverables": "Company PAN Card",
+            "servicetype": "private limited"
+        },
+        {
+            "id": "5",
+            "deliverables": "Digital Signature Token for 2 Promoters & 1 witness",
+            "servicetype": "private limited"
+        },
+        {
+            "id": "6",
+            "deliverables": "Business Incorporation Certificate",
+            "servicetype": "private limited"
+        },
+        {
+            "id": "7",
+            "deliverables": "Company Name Approval",
+            "servicetype": "private limited"
+        },
+        {
+            "id": "8",
+            "deliverables": "Company TAN/TDS Number",
+            "servicetype": "private limited"
+        },
+        {
+            "id": "9",
+            "deliverables": "DIN for 1 Director",
+            "servicetype": "opc"
+        },
+        {
+            "id": "10",
+            "deliverables": "AOA and MOA",
+            "servicetype": "opc"
+        },
+        {
+            "id": "11",
+            "deliverables": "Bank Account opening support",
+            "servicetype": "opc"
+        },
+        {
+            "id": "12",
+            "deliverables": "Digital Signature Token for 1 Promoter",
+            "servicetype": "opc"
+        },
+        {
+            "id": "13",
+            "deliverables": "Business Incorporation Certificate",
+            "servicetype": "opc"
+        },
+        {
+            "id": "14",
+            "deliverables": "Company PAN Card",
+            "servicetype": "opc"
+        },
+        {
+            "id": "15",
+            "deliverables": "Company Name Approval",
+            "servicetype": "opc"
+        },
+        {
+            "id": "16",
+            "deliverables": "Company TAN/TDS Number",
+            "servicetype": "opc"
+        },
+        {
+            "id": "17",
+            "deliverables": " DIN for 2 Partners",
+            "servicetype": "llp"
+        },
+        {
+            "id": "18",
+            "deliverables": " LLP Agreement",
+            "servicetype": "llp"
+        },
+        {
+            "id": "19",
+            "deliverables": " Bank A/C Opening Document Support",
+            "servicetype": "llp"
+        },
+        {
+            "id": "20",
+            "deliverables": " Digital Signature for 1 Partner",
+            "servicetype": "llp"
+        },
+        {
+            "id": "21",
+            "deliverables": " LLP PAN Card",
+            "servicetype": "llp"
+        },
+        {
+            "id": "22",
+            "deliverables": " Incorporation Certificate",
+            "servicetype": "llp"
+        },
+        {
+            "id": "23",
+            "deliverables": " LLP TAN/TDS Number",
+            "servicetype": "llp"
+        },
+        {
+            "id": "24",
+            "deliverables": "DIN for 2 Directors",
+            "servicetype": "section8"
+        },
+        {
+            "id": "25",
+            "deliverables": "AOA and MOA",
+            "servicetype": "section8"
+        },
+        {
+            "id": "26",
+            "deliverables": "Bank Account opening support",
+            "servicetype": "section8"
+        },
+        {
+            "id": "27",
+            "deliverables": "Digital Signature Token for 2 Promoters & 1 witness",
+            "servicetype": "section8"
+        },
+        {
+            "id": "28",
+            "deliverables": "Incorporation Certificate",
+            "servicetype": "section8"
+        },
+        {
+            "id": "29",
+            "deliverables": "Company PAN Card",
+            "servicetype": "section8"
+        },
+        {
+            "id": "30",
+            "deliverables": "Company Name Approval",
+            "servicetype": "section8"
+        },
+        {
+            "id": "31",
+            "deliverables": "Company TAN/TDS Number",
+            "servicetype": "section8"
+        },
+        {
+            "id": "32",
+            "deliverables": "S.80G and S.12A registration",
+            "servicetype": "section8"
+        }
+    ],
+    "services": [
+        {
+            "servicetype": "add or remove director",
+            "tag": "Add or Remove Directors Service",
+            "servicesummary": "A Director is a person who acts on behalf of the company. He directs, controls and manages the company in day-to-day operations of the company.  \r\nOn the interest of the company generally, directors are changed based on their tenure and according to the rules to ensure a better team of experts with more independence.  Such change includes appointment, resignation and removal of directors which will take place into effect only upon intimation to Ministry of corporate affairs by way of filing forms. ",
+            "fees": " 3,500 ",
+            "img": "director.svg",
+            "area": "comply"
+        },
+        {
+            "servicetype": "amc llp",
+            "tag": "LLP Annual Maintenance",
+            "servicesummary": "Limited liability partnership (LLP) enjoys a separate legal status and to retain that it is required to be compliant with its annual compliance filings.  At the year-end, once after the financials preparation and statutory income tax filing, LLP has to report its solvency and position to Ministry of corporate affairs by filing two forms.  \r\nFailure to follow such compliances leads to penal consequences and continuance of such failure disqualifies the designated partner's / Director's position as a director. ",
+            "fees": " 4,500 ",
+            "img": "llp.svg",
+            "area": "comply"
+        },
+        {
+            "servicetype": "amc opc",
+            "tag": "OPC Annual Maintenance",
+            "servicesummary": "One-person Company (OPC) enjoys a separate legal status and to retain that it is required to be compliant with its annual compliance filings.  At the year-end, once after the financials preparation and statutory income tax filing, OPC has to report its activities and position to Ministry of corporate affairs by filing applicable forms.  \r\nFailure to follow such compliances leads to penal consequences and continuance of such failure disqualifies the Director's position as well as resulting in the removal of the company's name. ",
+            "fees": " 6,500 ",
+            "img": "one person.svg",
+            "area": "comply"
+        },
+        {
+            "servicetype": "amc pvt ltd",
+            "tag": "Private Limited Annual Maintenance",
+            "servicesummary": "A Private Limited Company enjoys a separate legal status and to retain that it is required to be compliant with its annual compliance filings.  At the year-end, once after the financials preparation and statutory income tax filing, private limited company has to report its activities and position to Ministry of corporate affairs by filing applicable forms.  \r\nFailure to follow such compliances leads to penal consequences and continuance of such failure disqualifies the Director's position as well as resulting in the removal of the company's name. ",
+            "fees": " 9,500 ",
+            "img": "private ltd.svg",
+            "area": "comply"
+        },
+        {
+            "servicetype": "amc s8 co",
+            "tag": "Section 8 Annual Maintenance",
+            "servicesummary": "A Section 8 company enjoys a separate legal status and to retain that it is required to be compliant with its annual compliance filings.  At the year-end, once after the financials preparation and statutory income tax filing, a S.8 Company has to report its activities and position to Ministry of corporate affairs by filing applicable forms.  \r\nFailure to follow such compliances leads to penal consequences and continuance of such failure disqualifies the Director's position as well as resulting in the removal of the company's name. ",
+            "fees": " 9,500 ",
+            "img": "compliance.svg",
+            "area": "comply"
+        },
+        {
+            "servicetype": "change in address",
+            "tag": "Change in Address Service",
+            "servicesummary": "A Registered office is a place where a company is situated or registered at the time of incorporation. All the communications will officially go to the address as displayed in the master data of the company.  So, a change in the registered office can take place within its jurisdiction or city or state or otherwise and the same has to take place after approval of ROC by way of getting consent from all the shareholders. ",
+            "fees": " 3,500 ",
+            "img": "responsibility.svg",
+            "area": "comply"
+        },
+        {
+            "servicetype": "change in name",
+            "tag": "Change in Name Service",
+            "servicesummary": "A change in the name of the private limited company includes various procedures to be followed such as : Conduct of board meeting and member meeting, name reservation, approval from the central government etc. After that new name shall be updated in the ROC by issuing a fresh certificate of incorporation. However, such change in name does not affect the company's existence and all its prior activities are presumed to be carried forward to the company possessing a new name.",
+            "fees": " 3,500 ",
+            "img": "responsibility.svg",
+            "area": "comply"
+        },
+        {
+            "servicetype": "change in objective",
+            "tag": "Change in Obective Service",
+            "servicesummary": "Without listing in the principal objectivities of clause MOA no company can carry any business of its choice. So considering the expansion and growth, if a company proposes to carry on new business, that has to be added in the object clause after getting approval from shareholders.  The same shall be approved by the ministry of company affairs once it is filed.",
+            "fees": " 3,500 ",
+            "img": "responsibility.svg",
+            "area": "comply"
+        },
+        {
+            "servicetype": "changes in authorised capital",
+            "tag": "Change in Authorised Capital Service",
+            "servicesummary": "A company can raise its paid-up capital to the extent of its authorised capital only. To increase its authorised capital it should conduct board and general meeting to get the consent. Subsequently, it can be authorised by filing forms with ROC by paying additional fees and stamp duty.  ",
+            "fees": " 5,000 ",
+            "img": "capital.svg",
+            "area": "comply"
+        },
+        {
+            "servicetype": "din kyc",
+            "tag": "Director Identification Number KYC",
+            "servicesummary": "With effective from 10th July 2018, every individual holding DIN with approved status has to file a DIR-3 KYC to hold their qualification. This process is like a re-activation of their existing DIN failure of the same will lead to a penalty for every director amounting Rs 5,000/-",
+            "fees": " 1,000 ",
+            "img": "kyc.svg",
+            "area": "comply"
+        },
+        {
+            "servicetype": "esi",
+            "tag": "ESI Registration",
+            "servicesummary": "All establishments and factories having more than 10 employees withdrawing more than Rs 15,000 / Units or Establishments having more than 10 employees are mandatorily required to get registered with Employee state insurance corporation (ESIC). \r\nTo coverup the employees & their families from medical emergencies this scheme has been mandated by the government.",
+            "fees": " 3,500 ",
+            "img": "esi.svg",
+            "area": "progress"
+        },
+        {
+            "servicetype": "gst",
+            "tag": "GST Registration",
+            "servicesummary": "The registration under GST is made mandatory for the business entities if their aggregate turnover of goods/services for a financial year exceeds Rs.40 Lakhs and Rs.20 Lakhs respectively. \r\nGST Registration allows the entity to get recognised as a registered vendor in the market and also affirms seamless flow of Input Tax Credit.\r\n\r\nGST registration application must be submitted to the Department along with the necessary supporting documents. Once, the application is found satisfactory, it takes 15-21 working days for CBDT to issue Certificate of GSTIN. However, with the new process of aadhaar authentication, GSTIN is now issued within 3-5 working days. ",
+            "fees": " 1,799 ",
+            "img": "gst.svg",
+            "area": "progress"
+        },
+        {
+            "servicetype": "iec",
+            "tag": "Import Export Code Service",
+            "servicesummary": "Importer Exporter Code (IEC or IE Code) is a unique registration code required for persons who are importing or exporting goods and services from India. An IEC is necessary to obtain before you start an Import or Export of goods. In the case of Import/Export of Services, it is only required in specified Services/ Specified Technology.\r\n\r\nImport Export Code application must be submitted to the Directorate General of Foreign Trade along with the necessary supporting documents. Once, the application is found satisfactory, DGFT will issue the IE Code for the entity in 15 - 20 working days.",
+            "fees": " 2,500 ",
+            "img": "iec.svg",
+            "area": "progress"
+        },
+    
+        {
+            "servicetype": "llp",
+            "tag": "Limited Liability Partnership Registration",
+            "servicesummary": "Limited liability Partnership (LLP) is a separate legal entity under the Limited liability partnership Act, 2008, carrying on the same benefits of the partnership firm but with a limited liability feature. It is easily one of the best options for service organisations as they are less in compliance in a professional business structure.\r\n\r\n",
+            "fees": " 6,500 ",
+            "img": "liability.svg",
+            "area": "establish"
+        },
+        {
+            "servicetype": "msme",
+            "tag": "MSME Registration",
+            "servicesummary": "To put it very simple, business entities with investment less than Rs 50 crores and Annual turnover less than Rs 250 crores can register under the Micro Small and Medium Enterprises scheme as defined under MSME Development Act 2006. \r\nHowever, this registration is purely voluntary in the opinion of the business entity to avail numerous benefits declared by the government under this scheme.\r\n",
+            "fees": " 1,500 ",
+            "img": "msme.svg",
+            "area": "progress"
+        },
+        {
+            "servicetype": "opc",
+            "tag": "One Person Company Registration",
+            "servicesummary": "One person company (OPC) is a type of private limited company where only one shareholder holds 100% of the stake in the company. He will also act as a director for the company. \r\nEntrepreneurs who like to have a single person control in the entity can opt for this type.",
+            "fees": " 6,500 ",
+            "img": "one person.svg",
+            "area": "establish"
+        },
+        {
+            "servicetype": "partnership",
+            "tag": "Partnership Registration",
+            "servicesummary": "Partnership registered entity is an entity registered under the Partnership Act, 1932 whereby two or more persons come together with a formal agreement to own and control the business.\r\nIt is always feasible for a partnership entity to go with registration as it will have more benefits when compared to an unregistered entity.",
+            "fees": " 3,500 ",
+            "img": "settlement.svg",
+            "area": "establish"
+        },
+        
+        {
+            "servicetype": "pf",
+            "tag": "PF Registration",
+            "servicesummary": "All business entities having employees more than 20 are mandatorily required to get registered with Employee provident fund organisation (EPFO). \r\nTo support the employees & their families during personal emergencies this scheme has been mandated by the government.",
+            "fees": " 3,500 ",
+            "img": "pf.svg",
+            "area": "progress"
+        },
+        {
+            "servicetype": "private limited",
+            "tag": "Private Limited Registration",
+            "servicesummary": "A private limited company is a type of business entity that lies between a partnership and a public limited company. Two common features of such registered entity is it limits the liability of the owner to their respective contribution i.e shares and it also restricts shareholders from publicly trading shares. \r\n\r\nAll the startups prefer to register themselves as a private limited company as it adds credibility to their business and funds can be raised in an easy manner.",
+            "fees": " 9,500 ",
+            "img": "private ltd.svg",
+            "area": "establish"
+        },
+        {
+            "servicetype": "professional tax",
+            "tag": "Professional Tax Registration",
+            "servicesummary": "Business entities which  which pays for employees, professionals, traders, etc are required to get registered for this and professional Tax is a tax collected by State Governments from such registered business entities.\r\n\r\nThis tax is deducted from the salary of the employee, which is eligible for deduction from the computation of taxable income. ",
+            "fees": " 3,500 ",
+            "img": "responsibility.svg",
+            "area": "progress"
+        },
+        {
+            "servicetype": "section8",
+            "tag": "Section 8 Registration",
+            "servicesummary": "Section 8 Company or a Non-Profit organisation (NPO) charitable company registered under Section 8 of the Companies Act, 2013, established for promoting commerce, art, science, religion, sports, education, research activities, charity or any other useful social object, provided the surplus of income over expenditure and donations are applied only for the purpose for which it has been created. \r\n It means that the registered S. 8 Company can earn profits but the promoters/members cannot be benefitted out of those profits, unlike other business entities.\r\nWhen compared to other types of companies, Section 8 company enjoys various exemptions and relaxations as per income tax act.\r\n",
+            "fees": " 17,500 ",
+            "img": "compliance.svg",
+            "area": "establish"
+        },
+        {
+            "servicetype": "sole proprietorship",
+            "tag": "Sole Proprietorship Registration",
+            "servicesummary": "An individual carrying out a business activity under his name is termed as a sole proprietorship firm. Since there is no specific act to regulate this type of entity it is advisable to get it registered under the Goods and Service Tax Act and Shop and establishments Act.",
+            "fees": " 2,500 ",
+            "img": "one person.svg",
+            "area": "establish"
+        },
+        {
+            "servicetype": "startup india registration",
+            "tag": "Startup India Registration",
+            "servicesummary": "The government has introduced a Startup India scheme for promoting the growth of businesses by encouraging innovations and development in the industry. Only Registered startups such as Private Limited Company or a Limited Liability Partnership (LLP) or a Registered Partnership Firm gets numerous benefits under this scheme.  ",
+            "fees": " 5,000 ",
+            "img": "startup.svg",
+            "area": "establish"
+        }
+    ]
+}

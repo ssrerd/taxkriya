@@ -1,0 +1,561 @@
+@import url(./variables.css);
+
+/* ================ Nav Bar =======================*/
+
+.navbar{
+    padding-top: 0;
+    padding-bottom: 0;
+    background-color: #ffffff !important;
+       
+}
+
+.navbar-brand{
+    padding-left: 3em;
+}
+
+#navbarDropdownMenuLink{
+    font-size: 17px;
+    
+    font-family: "Roboto", sans-serif;
+    color: var(--primary-color);
+  
+}
+
+
+
+.dropdown:hover>.dropdown-menu{
+    
+    display: block;
+    width: 100%;
+    padding-left: 5em;
+    margin-top: -5px !important; 
+      
+}
+
+.dropdown .dropdown-menu.show{
+    display: none !important;
+    width: 100% !important;
+    padding-left: 5em !important;
+    margin-top: -5px !important;
+}   
+
+.dropdown .dropdown-item:active{
+
+        background-color: var(--contrast-color);
+}
+
+
+.dropdown{
+    position: inherit;
+    overflow: hidden;
+}
+/* 
+#navbarDropdownMenuLink::after{
+    content: '';
+    background-color: var(--contrast-color);
+    position: absolute;
+    width: 100%;
+    height: 5px;
+    display: flex;
+    top: 100%;
+    left: 0;
+    transition: transform 0.3s;
+    transform: scaleX(0);
+    transform-origin: right;
+    
+} */
+
+/* #navbarDropdownMenuLink:hover::after{
+    transform: scaleX(1);
+    transform-origin: left;
+    display: block;
+} */
+
+.dropdown>.dropdown-toggle:active{
+
+    pointer-events: none;
+}
+
+.navbar .nav-item{
+    padding-right: 4rem;
+}
+
+
+
+
+.navbar-toggler:focus{
+    box-shadow: none !important;
+}
+
+/* ================ End Nav Bar =======================*/
+
+
+
+/* ================ Buttons =======================*/
+
+
+
+.btn-primary, .btn-primary:focus{
+    background-color: var(--primary-color);
+    background-clip: padding-box;
+    transition: background .6s ease;
+    box-shadow: none !important;
+    border-color: var(--primary-color);
+    color: #ffffff !important;
+        
+}
+
+.btn-primary:hover{
+    background-color: #ffffff;
+    border-color: var(--primary-color);   
+    color: var(--primary-color) !important; 
+}
+
+.btn-outline-primary, .btn-outline-primary:focus{
+    border-color: var(--primary-color);
+    color: var(--primary-color);
+    transition: background .6s ease;
+    box-shadow: none !important;
+}
+
+
+.btn-outline-primary:hover{
+    border-color: transparent;
+    color: floralwhite;
+    background-color: var(--primary-color);
+}
+
+.contact{
+    align-items: center !important;
+}
+
+/* ================ End Buttons =======================*/
+
+
+
+/* ================ Banner Area =======================*/
+
+.banner-area{
+    background-color: var(--contrast-color);
+    background-image: url(../img/startup.svg);
+    background-position: left center;
+    background-size: 40%;
+}
+
+
+.banner-area .container{
+    padding: 5% 2% 5% 2%;
+}
+.banner-area .row h1{
+    text-align: center;
+    font-size: 4em;
+    
+}
+
+
+.banner-area .search-input, .search-input:focus{
+    border-color: var(--primary-color) !important;
+    box-shadow: none !important;
+   
+}
+
+.banner-area .search-input{
+    width: 70%;
+}
+
+.banner-area .suggested{
+    text-align: center;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
+
+/* ================ Header Area =======================*/
+.secondary-header{
+    padding: 2% 2% 5% 2%;
+    background-color: var(--contrast-color);
+    overflow: hidden;
+    position: relative;
+    /* background-image: url(../img/startup\ \(1\).svg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 80% 80%; */
+   
+}
+
+.secondary-header h1{
+    font-size: 3rem;
+}
+
+.secondary-header p{
+    color: black !important;
+}
+
+
+
+
+.process{
+    padding-bottom: 2%;
+
+    /* text-align: center; */
+    border-radius: 10px;
+    width: 80%;
+    height: auto;
+
+    background: transparent;
+
+}
+
+
+.form-control, .form-select {
+    color: var(--primary-color);
+    border-radius: 0;
+    border-width: 1.5px;
+    outline: 0 !important;
+}
+
+.form-control:focus, .form-select:focus{
+    border-color: var(--primary-color);
+    box-shadow: none !important;
+}    
+
+select option:focus{
+    
+    background-image: none !important;
+}
+
+.form-lead{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.reg-card {
+    width: 100%;
+    height: auto;
+    
+    padding: 6%;
+    box-shadow: var(--shadow-color); 
+    border-style: ridge;
+   
+      
+}
+
+.reg-form{
+    color:var(--primary-color);       
+}
+
+option:hover{
+    background-color: black !important;
+}
+
+.startup{
+    background-color: var(--primary-color);
+}
+
+.input-group-text{
+    color: whitesmoke;
+    background-color: var(--primary-color);
+    border-radius: 0;
+    border-color: var(--primary-color);
+    z-index: 1;
+    border-width: 1.5px;
+    
+}
+
+.input-group-text:hover{
+    background-color: whitesmoke;
+    color: var(--primary-color);
+    transition: 0.6s;
+    
+}
+/* ================ End Header Area =======================*/
+
+/* ================ End Banner Area =======================*/
+
+/*=========Intro Area=============*/
+
+.intro-area{
+    padding: 8% 4% 4% 4%;
+    text-align: center;
+    background-color: white;
+   
+ 
+}
+
+.card-img-top{
+    padding: 5% 5% 0% 5%;
+    width: 100%;
+    height: auto;
+    
+  
+}
+
+.whyus{
+    padding: 1% 5% 1% 5%;
+    
+
+}
+
+
+.whyus-text{
+    text-align: center;
+    padding: 0% 10% 0% 10%;
+
+}
+
+.whyus-icons{
+    padding: 0% 5% 5% 5%;
+}
+
+
+.whyus-card{
+    background-color: transparent;
+    box-shadow: none;
+    border: none;  
+
+}
+
+.whyus-card img{
+    width: 50%;
+    height: auto;
+}
+
+.whyus-card:hover{
+    opacity: 1;
+    transform: scale(1.1);
+    box-shadow: 0px 7px 7px -2px rgba(0,0,0,0.20);
+    transition: ease-in-out;
+}   
+
+.whyus .card-text{
+    text-align: center;
+}
+
+/*=========End Intro Area=============*/
+
+/*=========Services Area=============*/
+
+.services-container{
+    padding: 0% 5% 0% 5%;
+
+}
+
+.services-area{
+    padding: 4% 0% 5% 0%;
+  
+  
+}
+
+.services-slide{
+    padding-top: 2%;
+}
+
+.services-slide .tab-pane{
+    display: none !important;
+}
+
+.services-slide .active{
+    display: block !important;
+}
+
+
+.services-tabs{
+    background-color: transparent;
+    border: none;
+
+}
+
+
+
+.services-text{
+    padding-top: 2%;
+    font: 1em;
+    text-align: center;
+}
+
+.services-list{
+    padding: 2% 2% 5% 2%;
+    
+}
+
+.services-card{
+    
+    /* border-radius: 10%; */
+    border-width: 2px;
+    border-color: var(--contrast-color);
+    /* box-shadow: 0px 7px 10px -2px rgba(0,0,0,0.20); */
+    box-shadow: var(--shadow-color);
+    height: 600px;
+}
+
+
+
+.services-card:hover{
+    border-color: var(--primary-color);
+    
+}
+
+.services-card-body .card-title{
+    font-size: 20px;
+    font-weight: bold;
+    color: var(--primary-color);
+    text-align: center;
+    padding-bottom: 5%;
+}
+
+.services-card-body .card-text{
+    font-size: 18px;
+    text-align: justify;
+    
+    
+}
+
+.services-card-body a{
+    background-color: var(--contrast-color);
+}
+
+.services-card-body{
+    padding: 5% 10% 5% 10%;
+}
+
+.circle{
+    text-align: center;
+    padding-top: 5%;
+    position: relative;
+    width: 100%;
+    height: auto;
+    border-color: var(--contrast-color);
+    border-width: 2px;
+    
+    
+}
+
+/* .prof-fees::after{
+    content: 'Fees';
+    text-align: center;
+    margin-left: 2px;
+    display: block;
+    font-size: 14px;
+    font-weight: lighter !important;
+} */
+
+.services-card img{
+    padding: 5% 5% 0% 5%;
+    width: 60%;
+    height: auto;
+    overflow: hidden;
+  
+}
+
+
+
+.services-navs .nav-link{
+    color: var(--primary-color);
+    
+}
+
+.services-navs .nav-link:hover{
+   background-color: var(--contrast-color) !important;
+   color: white !important;
+    
+}
+
+
+.service-tab-items .nav-link{
+    background-color: white !important;
+    filter: drop-shadow(3px 4px 4px rgba(0,0,0,0.2));
+    width: 200px;
+    text-align: center;
+}
+
+.service-tab-items .nav-link.active{
+   background-color: var(--contrast-color) !important;
+   color: white !important;
+   border: none !important;
+    
+}
+
+
+
+ /*========= End Services Area=============*/
+
+
+
+/*========= Testimonial Area=============*/
+
+.testimonial-area{
+    padding: 4% 0% 5% 0%;
+}
+
+.testimonial-text{
+    text-align: center;
+}
+
+.testimonial-container{
+    padding: 2% 10% 5% 10%;
+    text-align: center;
+}
+
+.testimonial-card{
+    background-image: url(../img/quote-right-solid.svg);
+    background-position: initial;
+    background-size: 60% 60%;
+    background-repeat: no-repeat;
+    border-radius: 0;
+    padding: 0 5% 2% 5%;
+}
+
+.carousel-inner{
+    filter: drop-shadow(var(--shadow-color));
+
+
+}
+
+.img-testimonial{
+    margin-top: 1rem;
+    width: 150px;
+    height: auto;
+    border-radius: 50%;
+    filter: drop-shadow(5px 5px 3px rgba(0,0,0,0.20));
+    
+}
+
+
+ /*========= End Testimonial Area=============*/
+
+
+
+
+ /*========= Footer Area=============*/
+.stylish-color-dark{
+    background-color: white;
+    box-shadow: -10px 0px 7px 3px rgba(0,0,0,0.20);
+}
+ 
+#social-icons{
+    color: var(--primary-color);
+}
+ 
+.fab:hover{
+    transform: scale(1.3);
+    cursor: pointer;
+}
+
+li{
+    padding: 1% 0% 1% 0%;
+}
+ 
+.foot-1{
+    margin: 0;
+    color: var(--primary-color);
+    text-decoration: none;
+}
+
+.foot-1:hover{
+    color: var(--contrast-color);
+}
+ /*========= End Footer Area=============*/
+ 
