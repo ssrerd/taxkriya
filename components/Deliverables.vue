@@ -7,8 +7,8 @@
           <p style="text-align:center;margin-bottom:5%;">Deliverables you will receive after the service has completed are mentioned hereafter. *to be changed *</p> 
         
 
-            <div class="row"> 
-              <div v-for="(item,id) in filteredLLP" :key="id" class="col-lg-4 col-md-6 col-sm-6 criteria">
+            <div class="row deliverables"> 
+              <div v-for="(item,id) in filteredLLP" :key="id" class="col-lg-2 col-md-2 col-sm-4 criteria">
                     <div class="card criteria-card">
                       <img src="../assets/img/1x/mcafiling.svg" alt="...">
                     <div class="card-body">
@@ -31,17 +31,12 @@ export default {
     data() {
          return{
 
-             myJson: json,                
-
+             myJson: json
          }
 
     },   
     methods:{
 
-        collapse(){
-            
-
-        }
     
     },
     computed:{
@@ -49,6 +44,7 @@ export default {
           let self = this;              
           return this.myJson.deliverables.filter(f => f.servicetype == this.name)
         }
+    
      
 }
 }
@@ -76,7 +72,11 @@ export default {
     padding: 2% !important;
     margin: auto;
     height: auto;
-    width: 25%;
+    width: 50%;
+}
+
+.deliverables{
+    margin:auto;
 }
 
 </style>

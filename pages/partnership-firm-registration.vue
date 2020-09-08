@@ -36,6 +36,9 @@
       return{
         name: 'partnership'
       }
+    },
+    head(){
+      
     }
   }
 </script>

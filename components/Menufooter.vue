@@ -26,21 +26,16 @@
         <div class="col-md-2 mx-auto">
 
           <!-- Links -->
-          <h5 style="font-weight: bold;">Incorporation</h5>
+          <h5 style="font-weight: bold;">Establish</h5>
 
           <ul class="list-unstyled ">
-            <li>
-              <router-link :to="{name: 'private-limited-registration'}" class="foot-1">Private Ltd Company</router-link>
-            </li>
-            <li>
-              <a class="foot-1" href="#!">One Person Company</a>
-            </li>
-            <li>
-              <a class="foot-1" href="#!">Partnership Firm</a>
-            </li>
-            <li>
-              <a class="foot-1" href="#!">Limited Liability Partnership</a>
-            </li>
+            <li><nuxt-link :to="{name:'private-limited-registration'}" target="_blank" class="foot-1">Private Ltd Company</nuxt-link></li>
+            <li><nuxt-link :to="{name: 'partnership-firm-registration'}" target="_blank" class="foot-1">Partnership Firm Registration</nuxt-link></li>
+            <li><nuxt-link :to="{name:'startup-registration'}" target="_blank" class="foot-1">Startup Registration</nuxt-link></li>
+            <li><nuxt-link :to="{name:'limited-liability-partnership-registration'}" target="_blank" class="foot-1">Limited Liability Partnership</nuxt-link></li>
+            <li><nuxt-link :to="{name:'one-person-company'}" target="_blank" class="foot-1">One Person Company</nuxt-link></li>
+            <li><nuxt-link :to="{name:'sole-proprietorship'}" target="_blank" class="foot-1">Sole Proprietorship</nuxt-link></li>
+            <li><nuxt-link :to="{name:'section-8-registration'}" target="_blank" class="foot-1">Section 8 Company</nuxt-link></li>
           </ul>
 
         </div>
@@ -52,21 +47,14 @@
         <div class="col-md-2 mx-auto">
 
           <!-- Links -->
-          <h5 style="font-weight: bold;">Compliance</h5>
+          <h5 style="font-weight: bold;">Progress</h5>
 
           <ul class="list-unstyled ">
-            <li>
-              <a class="foot-1" href="#!">Annual Filings ROC</a>
-            </li>
-            <li>
-              <a class="foot-1" href="#!">One Person Company</a>
-            </li>
-            <li>
-              <a class="foot-1" href="#!">Partnership Firm</a>
-            </li>
-            <li>
-              <a class="foot-1" href="#!">Limited Liability Partnership</a>
-            </li>
+            <li><nuxt-link :to="{name:'gst-registration'}" target="_blank" class="foot-1" >GST Registration</nuxt-link></li>
+            <li><nuxt-link :to="{name:'msme-registration'}" target="_blank" class="foot-1" >MSME Registration</nuxt-link></li>
+            <li><nuxt-link :to="{name:'esi-registration'}" target="_blank" class="foot-1" >ESI Registration</nuxt-link></li>
+            <li><nuxt-link :to="{name:'import-export-code'}" target="_blank" class="foot-1" >Import Export Code</nuxt-link></li>
+            <li><nuxt-link :to="{name:'pf-registration'}" target="_blank" class="foot-1" >PF Registration</nuxt-link></li>
           </ul>
 
         </div>
@@ -78,21 +66,17 @@
         <div class="col-md-2 mx-auto">
 
           <!-- Links -->
-          <h5 style="font-weight: bold;">Tax & Accounting</h5>
+          <h5 style="font-weight: bold;">Comply</h5>
 
           <ul class="list-unstyled ">
-            <li>
-              <a class="foot-1" href="#!">Private Ltd Company</a>
-            </li>
-            <li>
-              <a class="foot-1" href="#!">One Person Company</a>
-            </li>
-            <li>
-              <a class="foot-1" href="#!">Partnership Firm</a>
-            </li>
-            <li>
-              <a class="foot-1" href="#!">Limited Liability Partnership</a>
-            </li>
+            <li><nuxt-link :to="{name:'add-remove-directors'}" target="_blank" class="foot-1">Add or Remove Directors</nuxt-link></li>
+            <li><nuxt-link :to="{name:'change-in-authorised-capital'}" target="_blank" class="foot-1">Change in Authorised Capital</nuxt-link></li>
+            <li><nuxt-link :to="{name:'change-in-name'}" target="_blank" class="foot-1">Change in Name</nuxt-link></li>
+            <li><nuxt-link :to="{name:'change-in-objective'}" target="_blank" class="foot-1">Change in Objective</nuxt-link></li>
+            <li><nuxt-link :to="{name:'change-in-address'}" target="_blank" class="foot-1">Change in Address</nuxt-link></li>
+
+            <li><nuxt-link :to="{name:'transfer-of-shares'}" target="_blank" class="foot-1">Transfer of Shares</nuxt-link></li>
+            <li><nuxt-link :to="{name:'director-identification-kyc'}" target="_blank" class="foot-1">DIN KYC</nuxt-link></li>
           </ul>
         </div>
         <!-- Grid column -->
@@ -149,7 +133,7 @@
 
     <!-- Copyright -->
     <div class="footer-copyright text-center py-3">© 2020 Copyright:
-      <a href="/">Zrepra Innovations Private Limited</a>
+      Zrepra Innovations Private Limited
     </div>
     <!-- Copyright -->
 

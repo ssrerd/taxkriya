@@ -21,7 +21,7 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: process.env.npm_package_description || '' }
+      { hid: 'description', name: 'description', content: 'Taxkriya' || '' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
@@ -76,7 +76,16 @@ export default {
     '@nuxtjs/pwa',
     // Doc: https://github.com/nuxt/content
     '@nuxt/content',
-   
+    ['nuxt-compress',
+        {
+          gzip: {
+            cache: true
+          },
+          brotli: {
+            threshold: 10240
+          }
+        }
+      ]   
   ],
   /*
   ** Axios module configuration

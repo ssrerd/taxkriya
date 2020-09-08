@@ -12,7 +12,7 @@
                   
                 <div class="col-lg-8">
                   <h1 style="text-align: center;">Business Solutions <span style="color:white">Simplified</span></h1>
-                  <p style="text-align: center;">Our sole focus is on quality over quanity with special attention to Startups and Small Businesses.</p>
+                  <p style="text-align: center;">We, at Taxkriya, focus on quality over quanity with special attention to Startups and Small Businesses.</p>
                  
               
                     <div class="row mostcommon">
@@ -22,9 +22,7 @@
                           <nuxt-link to="/private-limited-registration" type="button" class="btn btn-outline-primary suggested"><i class="fas fa-building pr-2"></i> Private Ltd Company</nuxt-link>
                           <nuxt-link to="/startup-registration" type="button" class="btn btn-outline-primary suggested" ><i class="fas fa-rocket pr-2"></i> Startup Registration</nuxt-link>
                           <nuxt-link to="/limited-liability-partnership-registration" type="button" class="btn btn-outline-primary suggested" ><i class="fas fa-building pr-2"></i>  LLP Registration</nuxt-link>
-                          <nuxt-link to="/partnership-firm-registration" type="button" class="btn btn-outline-primary suggested" ><i class="fas fa-handshake"></i> Partnership Registration</nuxt-link>
-                          <nuxt-link to="/startup-registration" type="button" class="btn btn-outline-primary suggested" ><i class="fas fa-rocket pr-2"></i> Startup Registration</nuxt-link>
-                          <nuxt-link to="/startup-registration" type="button" class="btn btn-outline-primary suggested" ><i class="fas fa-rocket pr-2"></i> Startup Registration</nuxt-link>
+                          <nuxt-link to="/msme-registration" type="button" class="btn btn-outline-primary suggested" ><i class="fas fa-handshake"></i> MSME Registration</nuxt-link>
                         </div>
                     </div> 
 

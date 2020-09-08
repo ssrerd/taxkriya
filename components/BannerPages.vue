@@ -11,30 +11,30 @@
           <div class="row mb-2" style="padding: 0% 5% 0% 5%;">
 
             <div class="col-lg-4" style="align-items: center; display: flex; flex-direction: column;text-align: center;">
-              <img src="../assets/img/1x/Asset 13.png" class="img-fluid" style="width:60%;height:auto;" alt="">
+              <img src="../assets/img/1x/calculator.svg" class="img-fluid" style="width:60%;height:auto;" alt="">
               <h2 style="text-align:center">  </h2>
-              <p>Some other words</p>
+              <p>Assured Quality</p>
             
             </div>  
            
             <div class="col-lg-4" style="align-items: center;display: flex;flex-direction: column;text-align: center;">
-              <img src="../assets/img/1x/Asset 13.png" class="img-fluid" style="width:60%;height:auto;" alt="">
+              <img src="../assets/img/1x/calculator.svg" class="img-fluid" style="width:60%;height:auto;" alt="">
               <h2 style="text-align:center">  </h2>
-              <p>Some other words</p>
+              <p>Result Driven</p>
             
             </div>  
            
             <div class="col-lg-4" style="align-items: center;display: flex;flex-direction: column;text-align: center;">
-              <img src="../assets/img/1x/Asset 13.png" class="img-fluid" style="width:60%;height:auto;" alt="">
+              <img src="../assets/img/1x/calculator.svg" class="img-fluid" style="width:60%;height:auto;" alt="">
               <h2 style="text-align:center">  </h2>
-              <p>Some other words</p>
+              <p>Dedicated Support</p>
             
             </div>  
             
                        
           </div>
         <div class="row">
-          <h4 style="text-align:center;">Register with us for a free video consultation session.</h4>
+          <p style="font-size:17px;text-align:center;">Register with us for a free video consultation session.</p>
         </div>
           
         </div>

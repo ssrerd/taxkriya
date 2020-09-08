@@ -8,11 +8,11 @@
 
         <div class="col-lg-6 col-md-6 col-sm-6">
 
-            <img src="../assets/img/1x/progress.svg" class="img-fluid mx-auto" style="display:flex;width:80%;height:auto;" alt="">
+            <img src="../assets/img/1x/checklist.svg" class="img-fluid mx-auto" style="display:flex;width:50%;height:auto;" alt="">
 
         </div> 
 
-        <div class="col-lg-6 col-md-6 col-sm-6" style="margin:auto;">
+        <div class="col-lg-6 col-md-6 col-sm-6" style="text-align:center;margin:auto;">
 
             <h2><span style="font-size:2em;color:var(--contrast-color);">1</span> Register</h2>
             <p>Fill all the required information requested in the registration form.</p>
@@ -24,18 +24,19 @@
 
       <div class="row">
 
-        <div class="col-lg-6 col-md-6 col-sm-6" style="margin:auto;">
 
-            <h2><span style="color:var(--contrast-color);">2</span> Register using the form</h2>
-            <p>Fill all the required information requested in the registration form. </p>
+        <div class="col-lg-6 col-md-6 col-sm-6" style="text-align:center;margin:auto;">
+
+            <h2><span style="font-size:2em;color:var(--contrast-color);">2</span> Expect a call from us</h2>
+            <p>Once we receive quote request, our experts will get in touch with you immediately.</p>
             
         </div>
-
         <div class="col-lg-6 col-md-6 col-sm-6">
 
-            <img src="../assets/img/1x/progress.svg" class="img-fluid mx-auto" style="display:flex;width:80%;height:auto;" alt="">
+            <img src="../assets/img/1x/calling.svg" class="img-fluid mx-auto" style="display:flex;width:50%;height:auto;" alt="">
 
         </div> 
+
 
 
       </div>
@@ -45,14 +46,14 @@
 
         <div class="col-lg-6 col-md-6 col-sm-6">
 
-            <img src="../assets/img/1x/progress.svg" class="img-fluid mx-auto" style="display:flex;width:80%;height:auto;" alt="">
+            <img src="../assets/img/1x/delivery.svg" class="img-fluid mx-auto" style="display:flex;width:50%;height:auto;" alt="">
 
         </div> 
 
-        <div class="col-lg-6 col-md-6 col-sm-6" style="margin:auto;">
+        <div class="col-lg-6 col-md-6 col-sm-6" style="text-align:center;margin:auto;">
 
-            <h2><span style="color:var(--contrast-color);">3</span> Collect the documents</h2>
-            <p>With over 100 man years of experience, we put quality and timely result over anyother factor in our business. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+            <h2><span style="font-size:2em;color:var(--contrast-color);">3</span> Service Delivery</h2>
+            <p>After the discussion and submission of required documents, service will delivered. Time of delivery may differ based on the service. </p>
             
         </div>
 

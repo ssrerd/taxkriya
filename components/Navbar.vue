@@ -17,7 +17,7 @@
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                       <div class="row dropdown-menu-right">
                         
-                        <div class="col-lg-6 mt-2">
+                        <div class="col-lg-6 mt-2 navhead">
                             <img src="~/assets/img/Briefcase.svg" class="img-fluid" style="margin:auto !important;padding-left:2%;width:10%; height:auto;">
                             <div class="dropdown-header"><h4 style="padding-top:5%;color: #01D5D5;">Establish</h4></div>
                             <div style="padding-left:2%;padding-right:50%;">Establishing a business is the first step towards bringing your dream into reality. If there is any hassle in this step the whole business model might collapse and hence extra eye should be employed.</div>
@@ -46,7 +46,7 @@
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                       <div class="row dropdown-menu-right">
-                        <div class="col-6 mt-2">
+                        <div class="col-6 mt-2 navhead">
 
                           <img src="../assets/img/Briefcase.svg" class="img-fluid" style="margin:auto !important;padding-left:2%;width:10%; height:auto;">
                             <div class="dropdown-header"><h4 style="padding-top:5%;color: #01D5D5;">Progress</h4></div>
@@ -55,7 +55,7 @@
                           
                         </div>  
                         <div class="col-3 mt-2">
-                          <div class="dropdown-header"><h4 style="color: #01D5D5;">Growth*</h4> <hr></div>
+                          <div class="dropdown-header"><h4 style="color: #01D5D5;">Grow</h4> <hr></div>
                           <li><nuxt-link :to="{name:'gst-registration'}" target="_blank" class="dropdown-item">GST Registration</nuxt-link></li>
                           <li><nuxt-link :to="{name:'msme-registration'}" target="_blank" class="dropdown-item">MSME Registration</nuxt-link></li>
                           <li><nuxt-link :to="{name:'esi-registration'}" target="_blank" class="dropdown-item">ESI Registration</nuxt-link></li>
@@ -64,13 +64,13 @@
 
 
                         </div>  
-                        <div class="col-3 mt-2">
+                        <!-- <div class="col-3 mt-2">
                           <div class="dropdown-header"><h4 style="color: #01D5D5;">Finance & Tax</h4> <hr></div>
                           <li><nuxt-link :to="{name:'payroll-maintenance'}" target="_blank" class="dropdown-item">Payroll Management</nuxt-link></li>
                           <li><nuxt-link :to="{name:'virtual-cfo-services'}" target="_blank" class="dropdown-item">Virtual CFO</nuxt-link></li>
                           <li><nuxt-link :to="{name:'book-keeping'}" target="_blank" class="dropdown-item">Book Keeping</nuxt-link></li>
                           
-                        </div> 
+                        </div>  -->
                       </div>  
                     </ul>
                   </li>
@@ -81,9 +81,9 @@
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                       <div class="row dropdown-menu-right">
                         
-                        <div class="col-lg-6 mt-2">
-                            <img src="~/assets/img/tasks.svg" class="img-fluid" style="margin:auto !important;padding-left:2%;width:10%; height:auto;">
-                            <div class="dropdown-header"><h4 style="padding-top:5%;color: #01D5D5;">Comply</h4></div>
+                        <div class="col-lg-6 mt-2 navhead">
+                            <img src="~/assets/img/1x/compliance.svg" class="img-fluid" style="margin:0 auto 0 auto !important;padding-left:2%;width:15%; height:auto;">
+                            <div class="dropdown-header"><h4 style="padding-top:2%;color: var(--contrast-color);">Comply</h4></div>
                             <div style="padding-left:2%;padding-right:50%;">Establishments in India or anywhere else, are bound by several laws and rules which may change from time to time. And complaince of the same shouldn't be underlooked as it is also forms a vital role in sustaining the growth of an establishment.</div>
                             <div style="padding-left:2%;padding-right:50%;"></div>
                               

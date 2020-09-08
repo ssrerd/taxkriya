@@ -8,8 +8,8 @@
         <div v-for="(item,id) in filteredLLP" :key="id" class="card">
             <div class="card-header"  id="headingTwo">
                 <h2 class="mb-0">
-                    <button :ref="button" class="btn btn-link btn-block text-left collapsed" @click="changeIcon" type="button" data-toggle="collapse" :data-target="'#section'+item.id" aria-expanded="false" aria-controls="collapseTwo">
-                    {{item.question}}<i class="fas fa-chevron-down" :class="{'fa-flip-both': isActive}" style="float:right;"></i>
+                    <button class="btn btn-link btn-block text-left collapsed" @click="changeIcon" type="button" data-toggle="collapse" :data-target="'#section'+item.id" aria-expanded="false" aria-controls="collapseTwo">
+                    {{item.question}}<i class="fas fa-chevron-down " :class="{'fa-flip-both': isActive}" style="float:right;"></i>
                     </button>   
                 </h2>
             </div>
@@ -59,6 +59,18 @@ export default {
 
     },   
     methods:{
+        changeIcon(){
+            const btncls = Array.from(this.$el.querySelectorAll('button'));
+            const icncls = Array.from(this.$el.querySelectorAll('i'));
+            btncls.forEach((btn) => {
+                if(btn.ariaExpanded == 'false'){
+                    "this is false"
+
+                }
+
+            })
+
+        }
     
     },
     computed:{
@@ -69,9 +81,6 @@ export default {
           }
               ) 
               
-        },
-        changeIcon(){
-            console.log(this.$refs.button);
         }
 }
 }

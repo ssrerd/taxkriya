@@ -10,7 +10,7 @@
   <div class="row whyus-icons">
 
     
-    <div class="col-lg-6 col-md-6 col-sm-6">
+    <div class="col-lg-6 col-md-6 col-sm-6" style="margin:auto;">
       <img src="../assets/img/1x/progress.svg" class="img-fluid mx-auto" alt="">
     </div>
 
@@ -21,12 +21,12 @@
           <div style="background-color:#02C6C6; width: 75px; height: 5px; border-radius:5px;" class="mb-3 mx-auto"></div>
     
         </div>
-        <p style="text-align: left;">With over 100 man years of experience, we put quality and timely result over anyother factor in our business. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+        <p style="text-align: justify;"> We, at Taxkriya, put quality and client satisfaction over anyother factor. We are passionate about supporting businesses in reaching greater heights, starting from its incorporation. You focus on building your dream business, while we focus on making it a smooth process. </p>
         <div class="row">
           
           <div v-for="(qual,id) in quality" :key="id" class="col-lg-4 col-md-6 col-sm-6 whyus">
             <div class="card whyus-card" >
-              <img src="../assets/img/Briefcase.svg" class="card-img-top mx-auto" alt="...">
+              <img :src="require('../assets/img/1x/'+ qual.img)" class="card-img-top mx-auto" alt="...">
               <div class="card-body">
                 <p class="card-text">{{qual.data}}</p>
               </div>
@@ -52,27 +52,17 @@
         quality:[{
           'id': '1',
           'data': 'Assured Quality',
-          'img':'Briefcase'
+          'img':'secure.svg'
         },
         {
           'id': '2',
           'data': 'Result Driven',
-          'img':'Briefcase'
+          'img':'legal.svg'
         },
         {
           'id': '3',
           'data': 'Dedicated Support',
-          'img':'Briefcase'
-        },
-        {
-          'id': '4',
-          'data': 'Complete Transparency',
-          'img':'Briefcase'
-        },
-        {
-          'id': '5',
-          'data': 'Data Driven',
-          'img':'Briefcase'
+          'img':'stock.svg'
         }
         
         ]
