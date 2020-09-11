@@ -12,7 +12,7 @@
             <div class="row"> 
               <div v-for="(item,id) in filteredLLP" :key="id" class="col-lg-4 col-md-6 col-sm-6 criteria">
                     <div class="card document-card">
-                      <img src="../assets/img/1x/mcafiling.svg" style="width:25%;height:auto;margin:auto;" alt="...">
+                      <img src="../assets/img/iconwobg/document.svg" style="width:20%;height:auto;margin:auto;" alt="...">
                     <div class="card-body">
                         <p class="card-text" style="text-align:center;padding: 0% 10% 0% 10%">{{item.documents}}</p>
                       </div>

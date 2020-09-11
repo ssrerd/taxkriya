@@ -34,19 +34,39 @@
     data(){
 
       return{
-        name: 'startup india registration'
+        name: 'startup india registration',
+        tag: 'Startup India Registration',
+        description:'Our experts offer the best possible consulting for startups including company registration, business model, financing etc.'
       }
     },
     head(){
 
      return {
 
-       title: this.name,
+       title: this.tag,
+       meta:[
+          {
+            hid: 'description',
+            name: 'description',
+            content: this.description
+          },
+          {
+            hid: 'og:title',
+            property: 'og:title',
+            content: this.tag 
+          },
+          {
+            hid: 'og:description',
+            name: 'og:description',
+            content: this.description
+          }
+
+       ]
      }
 
       
       
-      },
+      }
   }
 </script>
 

@@ -10,7 +10,7 @@
             <div class="row deliverables"> 
               <div v-for="(item,id) in filteredLLP" :key="id" class="col-lg-2 col-md-2 col-sm-4 criteria">
                     <div class="card criteria-card">
-                      <img src="../assets/img/1x/mcafiling.svg" alt="...">
+                      <img src="../assets/img/iconwobg/deliverables.svg" alt="...">
                     <div class="card-body">
                         <p class="card-text" style="text-align:center;padding: 0% 10% 0% 10%">{{item.deliverables}}</p>
                       </div>

@@ -33,7 +33,7 @@
             <li><nuxt-link :to="{name: 'partnership-firm-registration'}" target="_blank" class="foot-1">Partnership Firm Registration</nuxt-link></li>
             <li><nuxt-link :to="{name:'startup-registration'}" target="_blank" class="foot-1">Startup Registration</nuxt-link></li>
             <li><nuxt-link :to="{name:'limited-liability-partnership-registration'}" target="_blank" class="foot-1">Limited Liability Partnership</nuxt-link></li>
-            <li><nuxt-link :to="{name:'one-person-company'}" target="_blank" class="foot-1">One Person Company</nuxt-link></li>
+            <li><nuxt-link :to="{name:'one-person-company-registration'}" target="_blank" class="foot-1">One Person Company</nuxt-link></li>
             <li><nuxt-link :to="{name:'sole-proprietorship'}" target="_blank" class="foot-1">Sole Proprietorship</nuxt-link></li>
             <li><nuxt-link :to="{name:'section-8-registration'}" target="_blank" class="foot-1">Section 8 Company</nuxt-link></li>
           </ul>

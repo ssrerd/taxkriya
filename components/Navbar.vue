@@ -28,9 +28,9 @@
                             <div class="dropdown-header"><h4 style="color: #01D5D5;">Incorporation</h4><hr></div>
                               <li><nuxt-link :to="{name:'private-limited-registration'}" target="_blank" class="dropdown-item">Private Ltd Company</nuxt-link></li>
                               <li><nuxt-link :to="{name: 'partnership-firm-registration'}" target="_blank" class="dropdown-item">Partnership Firm Registration</nuxt-link></li>
-                              <li><nuxt-link :to="{name:'startup-registration'}" target="_blank" class="dropdown-item">Startup Registration</nuxt-link></li>
+                              <li><nuxt-link :to="{name:'startup-registration'}" target="_blank" class="dropdown-item">Startup Advisory</nuxt-link></li>
                               <li><nuxt-link :to="{name:'limited-liability-partnership-registration'}" target="_blank" class="dropdown-item">Limited Liability Partnership</nuxt-link></li>
-                              <li><nuxt-link :to="{name:'one-person-company'}" target="_blank" class="dropdown-item">One Person Company</nuxt-link></li>
+                              <li><nuxt-link :to="{name:'one-person-company-registration'}" target="_blank" class="dropdown-item">One Person Company</nuxt-link></li>
                               <li><nuxt-link :to="{name:'sole-proprietorship'}" target="_blank" class="dropdown-item">Sole Proprietorship</nuxt-link></li>
                               <li><nuxt-link :to="{name:'section-8-registration'}" target="_blank" class="dropdown-item">Section 8 Company</nuxt-link></li>
 

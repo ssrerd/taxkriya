@@ -26,7 +26,7 @@
           
           <div v-for="(qual,id) in quality" :key="id" class="col-lg-4 col-md-6 col-sm-6 whyus">
             <div class="card whyus-card" >
-              <img :src="require('../assets/img/1x/'+ qual.img)" class="card-img-top mx-auto" alt="...">
+              <img :src="require('../assets/img/iconwobg/'+ qual.img)" class="card-img-top mx-auto" alt="...">
               <div class="card-body">
                 <p class="card-text">{{qual.data}}</p>
               </div>
@@ -52,17 +52,17 @@
         quality:[{
           'id': '1',
           'data': 'Assured Quality',
-          'img':'secure.svg'
+          'img':'quality.svg'
         },
         {
           'id': '2',
           'data': 'Result Driven',
-          'img':'legal.svg'
+          'img':'result.svg'
         },
         {
           'id': '3',
           'data': 'Dedicated Support',
-          'img':'stock.svg'
+          'img':'support.svg'
         }
         
         ]

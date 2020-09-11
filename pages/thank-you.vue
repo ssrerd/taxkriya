@@ -3,12 +3,12 @@
        <div class="thankyou-area">
           <div class="container">
              <div class="row">
-                  
+                <i style="text-align:center;font-size:50px;color:white;" class="fas fa-check-circle"></i> 
                 <div class="col">
-                  <h1 style="text-align: center;">Thank you for choosing us</h1>
-                  <p style="text-align: center;">We value your business as much as or even more than you do.</p>
+                  <h1 style="text-align: center;">Thank you!</h1>
+                  <p style="text-align: center;">We have received your request. We value your business as much as you do.</p>
                  
-              
+                
                     <div class="row mostcommon">
                                     
                        
@@ -17,6 +17,10 @@
                     <div class="row">
                       <h5 style="text-align:center;">Our experts will get in touch with you shortly.</h5>
                     </div>  
+                   
+                    <div class="row mt-3" style="width:10%;margin:0 auto auto auto;">  
+                      <a href="/" class="btn btn-outline-primary">Home</a>
+                    </div>
                 </div>
      
   <!--========================================== End Search Banner-Area ==============================================-->                

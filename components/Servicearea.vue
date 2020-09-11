@@ -49,7 +49,7 @@
                           <p class="card-text"> 
                            {{item.servicesummary.slice(0,200)}}...
                           </p>
-                        <a href="#" style="float:right;" class="btn btn-primary mb-3" >Get Started</a>
+                      <nuxt-link :to="item.page" style="float:right;" class="btn btn-primary mb-3" >Get Started</nuxt-link>
                         </div>
                       </div>
                     </div>
@@ -75,7 +75,7 @@
                           <p class="card-text"> 
                            {{item.servicesummary.slice(0,200)}}...
                           </p>
-                        <a href="#" style="float:right;" class="btn btn-primary mb-3" >Get Started</a>
+                        <nuxt-link :to="item.page" style="float:right;" class="btn btn-primary mb-3" >Get Started</nuxt-link>
                         </div>
                       </div>
                     </div>
@@ -100,7 +100,7 @@
                           <p class="card-text"> 
                            {{item.servicesummary.slice(0,200)}}...
                           </p>
-                        <a href="#" style="float:right;" class="btn btn-primary mb-3" >Get Started</a>
+                        <nuxt-link :to="item.page" style="float:right;" class="btn btn-primary mb-3" >Get Started</nuxt-link>
                         </div>
                       </div>
                     </div>

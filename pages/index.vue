@@ -20,7 +20,7 @@
                         <div style="text-align:center;margin: 8px auto 10px auto">Most Common: </div>
                         <div class="col" style="justify-content:center;"> 
                           <nuxt-link to="/private-limited-registration" type="button" class="btn btn-outline-primary suggested"><i class="fas fa-building pr-2"></i> Private Ltd Company</nuxt-link>
-                          <nuxt-link to="/startup-registration" type="button" class="btn btn-outline-primary suggested" ><i class="fas fa-rocket pr-2"></i> Startup Registration</nuxt-link>
+                          <nuxt-link to="/startup-registration" type="button" class="btn btn-outline-primary suggested" ><i class="fas fa-rocket pr-2"></i> Startup Advisory</nuxt-link>
                           <nuxt-link to="/limited-liability-partnership-registration" type="button" class="btn btn-outline-primary suggested" ><i class="fas fa-building pr-2"></i>  LLP Registration</nuxt-link>
                           <nuxt-link to="/msme-registration" type="button" class="btn btn-outline-primary suggested" ><i class="fas fa-handshake"></i> MSME Registration</nuxt-link>
                         </div>

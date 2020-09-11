@@ -6,26 +6,26 @@
       <div class="container">
         <div class="row">
         <div class="col-lg-6 col-md-4 col-sm-4">
-          <h1 class="mb-3" v-for="(item,index) in filteredLLP" :key='index' style="text-align: center;">{{item.tag}} starting from <span style="color:white;"> ₹ {{item.fees}}</span>*</h1>
+          <h1 class="mb-3" v-for="(item,index) in filteredLLP" :key='index' style="text-align: center;">{{item.tag}} starting from <span style="color:white;"> ₹ {{item.fees}}</span>*</h1>  
           <p v-for="(item,index) in filteredLLP" :key='index' style="text-align:justify;">{{item.servicesummary}}</p>
           <div class="row mb-2" style="padding: 0% 5% 0% 5%;">
 
             <div class="col-lg-4" style="align-items: center; display: flex; flex-direction: column;text-align: center;">
-              <img src="../assets/img/1x/calculator.svg" class="img-fluid" style="width:60%;height:auto;" alt="">
+              <img src="../assets/img/iconwobg/quality.svg" class="img-fluid" style="width:50%;height:auto;" alt="">
               <h2 style="text-align:center">  </h2>
               <p>Assured Quality</p>
             
             </div>  
            
             <div class="col-lg-4" style="align-items: center;display: flex;flex-direction: column;text-align: center;">
-              <img src="../assets/img/1x/calculator.svg" class="img-fluid" style="width:60%;height:auto;" alt="">
+              <img src="../assets/img/iconwobg/result.svg" class="img-fluid" style="width:50%;height:auto;" alt="">
               <h2 style="text-align:center">  </h2>
               <p>Result Driven</p>
             
             </div>  
            
             <div class="col-lg-4" style="align-items: center;display: flex;flex-direction: column;text-align: center;">
-              <img src="../assets/img/1x/calculator.svg" class="img-fluid" style="width:60%;height:auto;" alt="">
+              <img src="../assets/img/iconwobg/support.svg" class="img-fluid" style="width:50%;height:auto;" alt="">
               <h2 style="text-align:center">  </h2>
               <p>Dedicated Support</p>
             

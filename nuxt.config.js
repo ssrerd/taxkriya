@@ -16,12 +16,16 @@ export default {
   ** See https://nuxtjs.org/api/configuration-head
   */
   head: {
-    titleTemplate: '%s ' + 'Taxkriya - On demand Free Consultation for Startups' ,
-    title: 'Home'+ ' ' + '|',
+    titleTemplate: '%s ' + ' | Taxkriya - Startup Registration | Company Registration ' ,
+    title: 'Home',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'Taxkriya' || '' }
+      { hid: 'description', name: 'description', content: 'Taxkriya.com is a complete business solution company providing services like startup registration, company registration, finance consulting etc.' },
+      { hid:'og:title', property: 'og:title', content: "Taxkriya - Startup Registration | Company Registration"},
+      { hid:'og:site_name', property: 'og:site_name', content: 'Taxkriya'},
+      {hid: 'og:description', name:'og:description', content:'Taxkriya.com is a complete business solution company providing services like startup registration, company registration, finance consulting etc.'},
+      { hid:'og:type', property: 'og:type', content: 'website'}, 
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },

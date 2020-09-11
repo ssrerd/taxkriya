@@ -19,7 +19,34 @@
     name: 'AddRemDir',
     data(){
       return{
-        name:'add or remove director'
+        name:'add or remove director',
+        description:'Add or Remove Directors at'
+      }
+    },
+
+    head(){
+
+      return{
+
+      title: 'Add or Remove Directors',
+      meta:[
+        {
+            hid: 'description',
+            name: 'description',
+            content: this.description
+          },
+          {
+            hid: 'og:title',
+            property: 'og:title',
+            content: this.name 
+          },
+          {
+            hid: 'og:description',
+            name: 'og:description',
+            content: this.description
+          }
+      ]
+
       }
     }
   }

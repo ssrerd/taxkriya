@@ -6,7 +6,7 @@
       <div  class="row"> 
         <div v-for="(item,id) in filteredLLP" :key="id" class="col-lg-3 col-md-6 col-sm-6 criteria">
               <div class="card criteria-card">
-                <img src="../assets/img/1x/one person.svg" class="card-img-top mx-auto" alt="...">
+                <img src="../assets/img/iconwobg/criteria.svg" class="card-img-top mx-auto" alt="...">
                 <div class="card-body">
                   <p class="card-text" style="text-align:center;padding: 0% 10% 0% 10%">{{item.requirements}}</p>
                 </div>
@@ -68,7 +68,7 @@ export default {
 
 
 .criteria img{
-    width:40%;
+    width:30%;
     margin: auto;
     height: auto;
 }
