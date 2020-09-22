@@ -8,7 +8,7 @@
   
             <!-- <h1 style="text-align:center;">Benefits</h1>
             <div style="background-color:#02C6C6; width: 75px; height: 5px; border-radius:5px;" class="line mb-1 mx-auto"></div> -->
-            <p style="margin-bottom:5%;text-align:center;">The Benefits yeilded from forming a Private Limited Company are numerous as mentioned below. The Benefits yeilded from forming a Private Limited Company are numerous as mentioned below.</p>   
+            <p style="margin-bottom:5%;text-align:center;">Benefits that are yielded by choosing this service are numerous as mentioned below</p>   
                 <div  class="row"> 
                     <div v-for="(item,id) in filteredLLP" :key="id"  class="col-lg-4">       
                         <div class="card example">

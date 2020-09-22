@@ -25,10 +25,36 @@
     computed:{
     
     },
-    data(){
+     data(){
+      return{
+        name:'private limited',
+        description:'A private limited company is the most sought after business entity due to its two common key features, one, limited liability of the owner to their respective contribution.'
+      }
+    },
+
+    head(){
 
       return{
-        name: 'private limited',
+
+      title: 'Private Limited Registration',
+      meta:[
+        {
+            hid: 'description',
+            name: 'description',
+            content: this.description
+          },
+          {
+            hid: 'og:title',
+            property: 'og:title',
+            content: this.name 
+          },
+          {
+            hid: 'og:description',
+            name: 'og:description',
+            content: this.description
+          }
+      ]
+
       }
     }
   }

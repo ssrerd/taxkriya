@@ -14,8 +14,8 @@
             <form name="registrationcard" action="/thank-you">  
               <div class="row" style="padding-top: 10%;">
 
-                <div class="input-group mb-3">
-                  <!-- <label class="input-group-text custom-input-group-text col-2" for="inputGroupSelect01">  <i class="fas fa-user mx-auto" aria-hidden="true"></i></label> -->
+                <!-- <div class="input-group mb-3">
+                  <label class="input-group-text custom-input-group-text col-2" for="inputGroupSelect01">  <i class="fas fa-user mx-auto" aria-hidden="true"></i></label>
                   <label for="inputGroupSelect01" hidden></label> 
                   <select class="form-select" id="inputGroupSelect01" name="dropdownser">
                     
@@ -25,7 +25,7 @@
                     <option class="options" value="3">Other services</option>
                     
                   </select>
-                </div>
+                </div> -->
 
                 <div class="input-group mb-3">
                   <span class="input-group-text custom-input-group-text col-2">
@@ -65,7 +65,7 @@
     
               <div class="text-center">
               
-              <button type="submit" v-on:click="submit" class="btn btn-primary btn-block startup" id="startupbtn" style="border-radius: 0; font-size: large;">START UP</button>
+              <button type="submit" v-on:click="submit" class="btn btn-primary btn-block startup" id="startupbtn" style="border-radius: 0; font-size: large;">GET STARTED</button>
               </div>
               
     
@@ -94,7 +94,7 @@ export default {
   methods: {
       submit(e) {
         if(this.firstName !=='' && this.emailId !== '' && this.city !=='' && this.number != ''){
-        fireDb.ref().push({
+        fireDb.collection("leads").doc().set({
            firstName: this.firstName,
            emailId: this.emailId,
            city: this.city,

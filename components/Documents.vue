@@ -7,8 +7,8 @@
 
       <div class="col">  
             <h1 style="text-align:center;">Documents Required</h1>  
-            <div style="background-color:#02C6C6; width: 75px; height: 5px; border-radius:5px;" class="line mb-5 mx-auto"></div> 
-            
+            <div style="background-color:#02C6C6; width: 75px; height: 5px; border-radius:5px;" class="line mb-1 mx-auto"></div> 
+            <p style="text-align:center;">	List of Documents that are required to proceed with this service package are</p>
             <div class="row"> 
               <div v-for="(item,id) in filteredLLP" :key="id" class="col-lg-4 col-md-6 col-sm-6 criteria">
                     <div class="card document-card">

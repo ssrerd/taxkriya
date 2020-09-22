@@ -22,9 +22,37 @@
     name: 'ChangeinAuth',
     data(){
       return{
-        name:'changes in authorised capital'
+        name:'changes in authorised capital',
+        description:'Changes in Authorised Capital service at Rs. 5000. A company can raise its paid-up capital to the extent of its authorised capital only.'
+      }
+    },
+    
+    head(){
+
+      return{
+
+      title: 'Changes in Authorised Capital',
+      meta:[
+        {
+            hid: 'description',
+            name: 'description',
+            content: this.description
+          },
+          {
+            hid: 'og:title',
+            property: 'og:title',
+            content: this.name 
+          },
+          {
+            hid: 'og:description',
+            name: 'og:description',
+            content: this.description
+          }
+      ]
+
       }
     }
+    
   }
 </script>
 

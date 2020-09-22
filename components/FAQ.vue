@@ -4,7 +4,7 @@
     <div class="accordion" id="accordionExample">
      <h1 style="text-align:center;">Frequently Asked Questions</h1>   
      <div class="mb-3 horiline" style="background-color:var(--contrast-color); margin:auto;width: 75px; height: 5px; border-radius:5px;"></div>    
-        
+     <p style="text-align:center;">List of typical questions that you might ask regarding this particular service are</p>   
         <div v-for="(item,id) in filteredLLP" :key="id" class="card">
             <div class="card-header"  id="headingTwo">
                 <h2 class="mb-0">
@@ -19,7 +19,7 @@
                 </div>
             </div>
         </div>
-
+    
 
 
        

@@ -2588,7 +2588,7 @@
             "servicetype": "private limited",
             "tag": "Private Limited Registration",
             "page": "/private-limited-registration",
-            "servicesummary": "A private limited company is a type of business entity that lies between a partnership and a public limited company. Two common features of such registered entity is it limits the liability of the owner to their respective contribution i.e shares and it also restricts shareholders from publicly trading shares.\n\nAll the startups prefer to register themselves as a private limited company as it adds credibility to their business and funds can be raised in an easy manner.",
+            "servicesummary": "A private limited company is the most sought after business entity due to its two common key features, one, limited liability of the owner to their respective contribution and the other being restriction of trading shares publicly by the shareholders.",
             "fees": "9,500",
             "img": "private ltd.svg",
             "area": "establish"
@@ -2599,7 +2599,7 @@
             "page": "/professional-tax-registration",
             "servicesummary": "Business entities which which pays for employees, professionals, traders, etc are required to get registered for this and professional Tax is a tax collected by State Governments from such registered business entities.\n\nThis tax is deducted from the salary of the employee, which is eligible for deduction from the computation of taxable income.",
             "fees": "3,500",
-            "img": "responsibility.svg",
+            "img": "ptax.svg",
             "area": "progress"
         },
         {

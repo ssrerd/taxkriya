@@ -96,8 +96,6 @@
                               <li><nuxt-link :to="{name:'change-in-name'}" target="_blank" class="dropdown-item">Change in Name</nuxt-link></li>
                               <li><nuxt-link :to="{name:'change-in-objective'}" target="_blank" class="dropdown-item">Change in Objective</nuxt-link></li>
                               <li><nuxt-link :to="{name:'change-in-address'}" target="_blank" class="dropdown-item">Change in Address</nuxt-link></li>
-
-                              <li><nuxt-link :to="{name:'transfer-of-shares'}" target="_blank" class="dropdown-item">Transfer of Shares</nuxt-link></li>
                               <li><nuxt-link :to="{name:'director-identification-kyc'}" target="_blank" class="dropdown-item">DIN KYC</nuxt-link></li>
                             
 

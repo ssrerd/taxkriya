@@ -22,12 +22,39 @@
     name: 'changeinname',
     data(){
       return{
-        name:'change in name'
+        name:'change in name',
+        description:'A change in the name of the private limited company includes various procedures to be followed'
       }
 
     },
     computed:{
     
+    },
+
+    head(){
+
+      return{
+
+      title: 'Change in Name',
+      meta:[
+        {
+            hid: 'description',
+            name: 'description',
+            content: this.description
+          },
+          {
+            hid: 'og:title',
+            property: 'og:title',
+            content: this.name 
+          },
+          {
+            hid: 'og:description',
+            name: 'og:description',
+            content: this.description
+          }
+      ]
+
+      }
     }
   }
 </script>

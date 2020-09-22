@@ -239,7 +239,7 @@
 .secondary-header{
     padding: 2% 2% 5% 2%;
     background-color: var(--contrast-color);
-    background-image: url(../img/main-banner-image.png);
+    /* background-image: url(../img/main-banner-image.png); */
     background-position: center center;
     overflow: hidden;
     position: relative;

@@ -36,7 +36,7 @@
       return{
         name: 'startup india registration',
         tag: 'Startup India Registration',
-        description:'Our experts offer the best possible consulting for startups including company registration, business model, financing etc.'
+        description:'Our experts offer the best possible complete business solutions for startups including company registration, business model, financing etc at.'
       }
     },
     head(){

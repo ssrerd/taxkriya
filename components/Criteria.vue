@@ -2,7 +2,7 @@
   <div class="container">
     <h1 style="text-align:center;">Minimum Criteria to be met</h1>   
      <div style="background-color:#02C6C6; width: 75px; height: 5px; border-radius:5px;" class="line mb-1 mx-auto"></div>
-     <p class="mb-5" style="text-align:center">Criteria that should be satisfied in order to use this particular service has been mentioned</p>
+     <p class="mb-5" style="text-align:center">Criteria that should be satisfied to be eligible to choose this service package are</p>
       <div  class="row"> 
         <div v-for="(item,id) in filteredLLP" :key="id" class="col-lg-3 col-md-6 col-sm-6 criteria">
               <div class="card criteria-card">

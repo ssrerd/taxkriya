@@ -20,7 +20,7 @@
     data(){
       return{
         name:'add or remove director',
-        description:'Add or Remove Directors at'
+        description:'Add or Remove Directors service is provided at Rs. 3500. A Director is a person who acts on behalf of the company. He directs, controls and manages the company in day-to-day operations of the company. '
       }
     },
 

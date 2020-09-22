@@ -4,7 +4,7 @@
        
          <h1 style="text-align:center;">What you will get</h1> 
             <div style="background-color:#02C6C6; width: 75px; height: 5px; border-radius:5px;" class="line mb-2 mx-auto"></div> 
-          <p style="text-align:center;margin-bottom:5%;">Deliverables you will receive after the service has completed are mentioned hereafter. *to be changed *</p> 
+          <p style="text-align:center;margin-bottom:5%;">	Deliverables that you will receive by choosing this service are</p> 
         
 
             <div class="row deliverables"> 
