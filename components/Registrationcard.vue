@@ -79,6 +79,7 @@
 
 
 import {fireDb} from '~/plugins/firebase'
+import firebase from 'firebase/app'
 
 export default {
   data(){
@@ -88,6 +89,7 @@ export default {
       emailId:'',
       city:'',
       number:''
+
     }
   },
 
@@ -98,8 +100,8 @@ export default {
            firstName: this.firstName,
            emailId: this.emailId,
            city: this.city,
-           number: this.number 
-          
+           number: this.number,
+           timestamp: firebase.firestore.FieldValue.serverTimestamp() 
         })
         }
        
