@@ -24,11 +24,11 @@ export default {
       { hid: 'description', name: 'description', content: 'Taxkriya.com is a complete business solution company providing services like startup registration, company registration, finance consulting etc.' },
       { hid:'og:title', property: 'og:title', content: "Taxkriya - Startup Registration | Company Registration"},
       { hid:'og:site_name', property: 'og:site_name', content: 'Taxkriya'},
-      {hid: 'og:description', name:'og:description', content:'Taxkriya.com is a complete business solution company providing services like startup registration, company registration, finance consulting etc.'},
+      { hid: 'og:description', name:'og:description', content:'Taxkriya.com is a complete business solution company providing services like startup registration, company registration, finance consulting etc.'},
       { hid:'og:type', property: 'og:type', content: 'website'}, 
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      {rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
       {rel:'stylesheet', href:'https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/css/bootstrap.min.css', integrity:'sha384-r4NyP46KrjDleawBgD5tp8Y7UzmLA05oM1iAEQ17CSuDqnUK2+k9luXQOfXJCJ4I' , crossorigin:'anonymous'},
       {rel:'stylesheet', href:'https://use.fontawesome.com/releases/v5.14.0/css/all.css'},
       {rel:'stylesheet', href:'https://use.fontawesome.com/releases/v5.14.0/css/v4-shims.css'},
@@ -56,7 +56,8 @@ export default {
   ** https://nuxtjs.org/guide/plugins
   */
   plugins: [
-    '~/plugins/firebase.js'
+    '~/plugins/firebase.js',
+    {src:'~plugins/ga.js', mode: 'client'}
   ],
   /*
   ** Auto import components

@@ -13,18 +13,15 @@
           <div class="carousel-item active">
             <div class="card testimonial-card">
               
-              <img class = "img-testimonial mx-auto" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Square-logo-white.jpeg" alt="img-testimonial mx-auto">
+              <img class = "img-testimonial mx-auto" src='../assets/img/Harreshvar.jpg' alt="img-testimonial mx-auto">
             
               <div class="card-body testimonial-card-body">
-                <h5 class="card-title" style="font-weight:bold;">The Square</h5>
-                <h6>Blog Aggregator</h6>
+                <h5 class="card-title" style="font-weight:bold;">Mr. Harreshvar</h5>
+                <h6>Founder of Workout with hari and Managing director of Levelup nutrition private limited</h6>
                 <p class="card-text"> 
-                  Some quick example text to build on the card title.
-                  Some quick example text to build on the card title.
-                  Some quick example text to build on the card title.
-                  Some quick example text to build on the card title.
-                  Some quick example text to build on the card title.
-                  Some quick example text to build on the card title.
+                 I run a fitness company where we deal with 1000s of minor transactions a month and it used to be very hard to even keep a track of it untill we met taxkriya team. They helped me structure and setup my finances, increase profits , reduce my gst complications and was always prompt with their service.
+
+ 
                 </p>
               
               </div>
@@ -32,17 +29,12 @@
           </div>
           <div class="carousel-item">
             <div class="card testimonial-card">
-              <img class = "img-testimonial mx-auto" src="https://image.freepik.com/free-vector/square-logo-vector_23987-194.jpg" alt="img-testimonial mx-auto">
+              <img class = "img-testimonial mx-auto" src="../assets/img/Vinaydora.jpg" alt="img-testimonial mx-auto">
               <div class="card-body testimonial-card-body">
-                <h5 class="card-title" style="font-weight:bold;">GB Motor</h5>
-                <h6>General Motor Corporation</h6>
+                <h5 class="card-title" style="font-weight:bold;">Mr. Vinay dora</h5>
+                <h6>Founder and Managing director of Crowd product technologies private limited</h6>
                 <p class="card-text"> 
-                  Some quick example text to build on the card title.
-                  Some quick example text to build on the card title.
-                  Some quick example text to build on the card title.
-                  Some quick example text to build on the card title.
-                  Some quick example text to build on the card title.
-                  Some quick example text to build on the card title.
+                  Taxkriya team is one of the best and efficient starup advisor for any startups and we are happy with their continuous support for our organization.
                 </p>
               
               </div>
@@ -50,17 +42,12 @@
           </div>
           <div class="carousel-item">
             <div class="card testimonial-card">
-              <img class = "img-testimonial mx-auto" src="https://seeklogo.com/images/T/twitter-icon-square-logo-108D17D373-seeklogo.com.png" alt="img-testimonial mx-auto">
+              <img class = "img-testimonial mx-auto" src="../assets/img/Nithianandan.jpg" alt="img-testimonial mx-auto">
               <div class="card-body testimonial-card-body">
-                <h5 class="card-title" style="font-weight:bold;">Twitter</h5>
-                <h6>Social Media Giant </h6>
+                <h5 class="card-title" style="font-weight:bold;">Mr. Nithyanandan</h5>
+                <h6>Co - founder of Alpha polymer products</h6>
                 <p class="card-text"> 
-                  Some quick example text to build on the card title.
-                  Some quick example text to build on the card title.
-                  Some quick example text to build on the card title.
-                  Some quick example text to build on the card title.
-                  Some quick example text to build on the card title.
-                  Some quick example text to build on the card title.
+              Their team is a one stop solution to take care of my finances and help me with structuring and reorganization for my company.
                 </p>
               
               </div>

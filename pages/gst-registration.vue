@@ -6,15 +6,15 @@
 
     <Howitworks></Howitworks>
 
-    <Benefits :name='name'></Benefits>
+    <Benefits style="display:none;" :name='name'></Benefits>
    
     <Documents :name ='name'></Documents> 
     
 
  
-     <Criteria :name ='name'></Criteria> 
+     <Criteria style="display:none;" :name ='name'></Criteria> 
     
-   <Deliverables :name='name'></Deliverables>
+   <Deliverables style="display:none;" :name='name'></Deliverables>
  
     <Faq :name='name'></Faq>
     

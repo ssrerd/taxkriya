@@ -2423,6 +2423,24 @@
     ],
     "services": [
         {
+            "servicetype": "private limited",
+            "tag": "Private Limited Registration",
+            "page": "/private-limited-registration",
+            "servicesummary": "A private limited company is the most sought after business entity due to its two common key features, one, limited liability of the owner to their respective contribution and the other being restriction of trading shares publicly by the shareholders.",
+            "fees": "9,500",
+            "img": "private ltd.svg",
+            "area": "establish"
+        },
+        {
+            "servicetype": "startup india registration",
+            "tag": "Startup Advisory",
+            "page": "/startup-registration",
+            "servicesummary": "Startup phase is very crucial for a company as it acts a foundation for the long term growth of the organisation. That's where our startup advisory comes in handy where we guide you in every aspect of the business from incorporation to finance modeling to compliance and more.",
+            "fees": "5,000",
+            "img": "startup.svg",
+            "area": "establish"
+        },
+        {
             "servicetype": "add or remove director",
             "tag": "Add or Remove Directors Service",
             "page": "/add-remove-directors",
@@ -2585,15 +2603,6 @@
             "area": "progress"
         },
         {
-            "servicetype": "private limited",
-            "tag": "Private Limited Registration",
-            "page": "/private-limited-registration",
-            "servicesummary": "A private limited company is the most sought after business entity due to its two common key features, one, limited liability of the owner to their respective contribution and the other being restriction of trading shares publicly by the shareholders.",
-            "fees": "9,500",
-            "img": "private ltd.svg",
-            "area": "establish"
-        },
-        {
             "servicetype": "professional tax",
             "tag": "Professional Tax Registration",
             "page": "/professional-tax-registration",
@@ -2618,15 +2627,6 @@
             "servicesummary": "An individual carrying out a business activity under his name is termed as a sole proprietorship firm. Since there is no specific act to regulate this type of entity it is advisable to get it registered under the Goods and Service Tax Act and Shop and establishments Act.",
             "fees": "2,500",
             "img": "one person.svg",
-            "area": "establish"
-        },
-        {
-            "servicetype": "startup india registration",
-            "tag": "Startup Advisory",
-            "page": "/startup-registration",
-            "servicesummary": "Startup phase is very crucial for a company as it acts a foundation for the long term growth of the organisation. That's where our startup advisory comes in handy where we guide you in every aspect of the business from incorporation to finance modeling to compliance and more.",
-            "fees": "5,000",
-            "img": "startup.svg",
             "area": "establish"
         }
     ]

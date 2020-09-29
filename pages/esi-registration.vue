@@ -7,7 +7,7 @@
    <Benefits :name='name'></Benefits>
    <Documents :name='name'></Documents>
    <Criteria :name='name'></Criteria>
-   <Deliverables :name='name'></Deliverables>
+   <Deliverables style="display:none;" :name='name'></Deliverables>
    <Faq :name='name'></Faq>
 
 

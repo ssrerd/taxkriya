@@ -12,10 +12,8 @@
         <div class="col-md-4 mx-auto">
 
           <!-- Content -->
-          <h5 style="font-weight: bold;">Tax Kriya</h5>
-          <p>Here you can use rows and columns to organize your footer content. Lorem ipsum dolor sit amet,
-            consectetur
-            adipisicing elit.</p>
+          <h5 style="font-weight: bold;">Taxkriya</h5>
+          <p>Taxkriya.com is a complete business solution company providing services like startup registration, company registration, finance consulting etc.</p>
 
         </div>
         <!-- Grid column -->
