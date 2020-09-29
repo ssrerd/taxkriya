@@ -2423,211 +2423,234 @@
     ],
     "services": [
         {
-            "servicetype": "private limited",
-            "tag": "Private Limited Registration",
-            "page": "/private-limited-registration",
-            "servicesummary": "A private limited company is the most sought after business entity due to its two common key features, one, limited liability of the owner to their respective contribution and the other being restriction of trading shares publicly by the shareholders.",
-            "fees": "9,500",
-            "img": "private ltd.svg",
-            "area": "establish"
-        },
-        {
-            "servicetype": "startup india registration",
-            "tag": "Startup Advisory",
-            "page": "/startup-registration",
-            "servicesummary": "Startup phase is very crucial for a company as it acts a foundation for the long term growth of the organisation. That's where our startup advisory comes in handy where we guide you in every aspect of the business from incorporation to finance modeling to compliance and more.",
-            "fees": "5,000",
-            "img": "startup.svg",
-            "area": "establish"
-        },
-        {
             "servicetype": "add or remove director",
             "tag": "Add or Remove Directors Service",
             "page": "/add-remove-directors",
             "servicesummary": "A Director is a person who acts on behalf of the company. He directs, controls and manages the company in day-to-day operations of the company.\nOn the interest of the company generally, directors are changed based on their tenure and according to the rules to ensure a better team of experts with more independence. Such change includes appointment, resignation and removal of directors which will take place into effect only upon intimation to Ministry of corporate affairs by way of filing forms.",
             "fees": "3,500",
+            "discfees": "",
             "img": "director.svg",
             "area": "comply"
         },
         {
+            "servicetype": "private limited",
+            "tag": "Private Limited Registration",
+            "page": "/private-limited-registration",
+            "servicesummary": "A private limited company is the most sought after business entity due to its two common key features, limited liability of the owner to their respective contribution i.e shares and it also restricts shareholders from publicly trading shares.",
+            "fees": "4,500",
+            "discfees": "₹ 9,500",
+            "img": "private ltd.svg",
+            "area": "establish"
+        },
+          {
             "servicetype": "amc llp",
             "tag": "LLP Annual Maintenance",
             "page": "/llp-annual-maintenance",
             "servicesummary": "Limited liability partnership (LLP) enjoys a separate legal status and to retain that it is required to be compliant with its annual compliance filings. At the year-end, once after the financials preparation and statutory income tax filing, LLP has to report its solvency and position to Ministry of corporate affairs by filing two forms.\nFailure to follow such compliances leads to penal consequences and continuance of such failure disqualifies the designated partner's / Director's position as a director.",
             "fees": "4,500",
+            "discfees": "",
             "img": "llp.svg",
             "area": "comply"
-        },
-        {
+          },
+          {
             "servicetype": "amc opc",
             "tag": "OPC Annual Maintenance",
             "page": "/one-person-company-maintanence",
             "servicesummary": "One-person Company (OPC) enjoys a separate legal status and to retain that it is required to be compliant with its annual compliance filings. At the year-end, once after the financials preparation and statutory income tax filing, OPC has to report its activities and position to Ministry of corporate affairs by filing applicable forms.\nFailure to follow such compliances leads to penal consequences and continuance of such failure disqualifies the Director's position as well as resulting in the removal of the company's name.",
             "fees": "6,500",
+            "discfees": "",
             "img": "one person.svg",
             "area": "comply"
-        },
-        {
+          },
+          {
             "servicetype": "amc pvt ltd",
             "tag": "Private Limited Annual Maintenance",
             "page": "/private-limited-annual-maintanence",
             "servicesummary": "A Private Limited Company enjoys a separate legal status and to retain that it is required to be compliant with its annual compliance filings. At the year-end, once after the financials preparation and statutory income tax filing, private limited company has to report its activities and position to Ministry of corporate affairs by filing applicable forms.\nFailure to follow such compliances leads to penal consequences and continuance of such failure disqualifies the Director's position as well as resulting in the removal of the company's name.",
             "fees": "9,500",
+            "discfees": "",
             "img": "private ltd.svg",
             "area": "comply"
-        },
-        {
+          },
+          {
             "servicetype": "amc s8 co",
             "tag": "Section 8 Annual Maintenance",
             "page": "/section-8-maintanence",
             "servicesummary": "A Section 8 company enjoys a separate legal status and to retain that it is required to be compliant with its annual compliance filings. At the year-end, once after the financials preparation and statutory income tax filing, a S.8 Company has to report its activities and position to Ministry of corporate affairs by filing applicable forms.\nFailure to follow such compliances leads to penal consequences and continuance of such failure disqualifies the Director's position as well as resulting in the removal of the company's name.",
             "fees": "9,500",
+            "discfees": "",
             "img": "compliance.svg",
             "area": "comply"
-        },
-        {
+          },
+          {
             "servicetype": "change in address",
             "tag": "Change in Address Service",
             "page": "/change-in-address",
             "servicesummary": "A Registered office is a place where a company is situated or registered at the time of incorporation. All the communications will officially go to the address as displayed in the master data of the company. So, a change in the registered office can take place within its jurisdiction or city or state or otherwise and the same has to take place after approval of ROC by way of getting consent from all the shareholders.",
             "fees": "3,500",
+            "discfees": "",
             "img": "responsibility.svg",
             "area": "comply"
-        },
-        {
+          },
+          {
             "servicetype": "change in name",
             "tag": "Change in Name Service",
             "page": "/change-in-name",
             "servicesummary": "A change in the name of the private limited company includes various procedures to be followed such as : Conduct of board meeting and member meeting, name reservation, approval from the central government etc. After that new name shall be updated in the ROC by issuing a fresh certificate of incorporation. However, such change in name does not affect the company's existence and all its prior activities are presumed to be carried forward to the company possessing a new name.",
             "fees": "3,500",
+            "discfees": "",
             "img": "responsibility.svg",
             "area": "comply"
-        },
-        {
+          },
+          {
             "servicetype": "change in objective",
             "tag": "Change in Obective Service",
             "page": "/change-in-objective",
             "servicesummary": "Without listing in the principal objectivities of clause MOA no company can carry any business of its choice. So considering the expansion and growth, if a company proposes to carry on new business, that has to be added in the object clause after getting approval from shareholders. The same shall be approved by the ministry of company affairs once it is filed.",
             "fees": "3,500",
+            "discfees": "",
             "img": "responsibility.svg",
             "area": "comply"
-        },
-        {
+          },
+          {
             "servicetype": "changes in authorised capital",
             "tag": "Change in Authorised Capital Service",
             "page": "/change-in-authorised-capital",
             "servicesummary": "A company can raise its paid-up capital to the extent of its authorised capital only. To increase its authorised capital it should conduct board and general meeting to get the consent. Subsequently, it can be authorised by filing forms with ROC by paying additional fees and stamp duty.",
             "fees": "5,000",
+            "discfees": "",
             "img": "capital.svg",
             "area": "comply"
-        },
-        {
+          },
+          {
             "servicetype": "din kyc",
             "tag": "Director Identification Number KYC",
             "page": "/director-identification-kyc",
             "servicesummary": "With effective from 10th July 2018, every individual holding DIN with approved status has to file a DIR-3 KYC to hold their qualification. This process is like a re-activation of their existing DIN failure of the same will lead to a penalty for every director amounting Rs 5,000/-",
             "fees": "1,000",
+            "discfees": "",
             "img": "kyc.svg",
             "area": "comply"
-        },
-        {
+          },
+          {
             "servicetype": "esi",
             "tag": "ESI Registration",
             "page": "/esi-registration",
             "servicesummary": "All establishments and factories having more than 10 employees withdrawing more than Rs 15,000 / Units or Establishments having more than 10 employees are mandatorily required to get registered with Employee state insurance corporation (ESIC).\nTo coverup the employees & their families from medical emergencies this scheme has been mandated by the government.",
             "fees": "3,500",
+            "discfees": "",
             "img": "esi.svg",
             "area": "progress"
-        },
-        {
+          },
+          {
             "servicetype": "gst",
             "tag": "GST Registration",
             "page": "/gst-registration",
             "servicesummary": "The registration under GST is made mandatory for the business entities if their aggregate turnover of goods/services for a financial year exceeds Rs.40 Lakhs and Rs.20 Lakhs respectively.\nGST Registration allows the entity to get recognised as a registered vendor in the market and also affirms seamless flow of Input Tax Credit.\n\nGST registration application must be submitted to the Department along with the necessary supporting documents. Once, the application is found satisfactory, it takes 15-21 working days for CBDT to issue Certificate of GSTIN. However, with the new process of aadhaar authentication, GSTIN is now issued within 3-5 working days.",
             "fees": "1,799",
+            "discfees": "",
             "img": "gst.svg",
             "area": "progress"
-        },
-        {
+          },
+          {
             "servicetype": "iec",
             "tag": "Import Export Code Service",
             "page": "/import-export-code",
             "servicesummary": "Importer Exporter Code (IEC or IE Code) is a unique registration code required for persons who are importing or exporting goods and services from India. An IEC is necessary to obtain before you start an Import or Export of goods. In the case of Import/Export of Services, it is only required in specified Services/ Specified Technology.\n\nImport Export Code application must be submitted to the Directorate General of Foreign Trade along with the necessary supporting documents. Once, the application is found satisfactory, DGFT will issue the IE Code for the entity in 15 - 20 working days.",
             "fees": "2,500",
+            "discfees": "",
             "img": "iec.svg",
             "area": "progress"
-        },
-        {
+          },
+          {
             "servicetype": "llp",
             "tag": "Limited Liability Partnership Registration",
             "page": "/limited-liability-partnership-registration",
             "servicesummary": "Limited liability Partnership (LLP) is a separate legal entity under the Limited liability partnership Act, 2008, carrying on the same benefits of the partnership firm but with a limited liability feature. It is easily one of the best options for service organisations as they are less in compliance in a professional business structure.",
             "fees": "6,500",
+            "discfees": "",
             "img": "liability.svg",
             "area": "establish"
-        },
-        {
+          },
+          {
             "servicetype": "msme",
             "tag": "MSME Registration",
             "page": "/msme-registration",
             "servicesummary": "To put it very simple, business entities with investment less than Rs 50 crores and Annual turnover less than Rs 250 crores can register under the Micro Small and Medium Enterprises scheme as defined under MSME Development Act 2006.\nHowever, this registration is purely voluntary in the opinion of the business entity to avail numerous benefits declared by the government under this scheme.",
             "fees": "1,500",
+            "discfees": "",
             "img": "msme.svg",
             "area": "progress"
-        },
-        {
+          },
+          {
             "servicetype": "opc",
             "tag": "One Person Company Registration",
             "page": "/one-person-company-registration",
             "servicesummary": "One person company (OPC) is a type of private limited company where only one shareholder holds 100% of the stake in the company. He will also act as a director for the company.\nEntrepreneurs who like to have a single person control in the entity can opt for this type.",
             "fees": "6,500",
+            "discfees": "",
             "img": "one person.svg",
             "area": "establish"
-        },
-        {
+          },
+          {
             "servicetype": "partnership",
             "tag": "Partnership Registration",
             "page": "/partnership-firm-registration",
             "servicesummary": "Partnership registered entity is an entity registered under the Partnership Act, 1932 whereby two or more persons come together with a formal agreement to own and control the business.\nIt is always feasible for a partnership entity to go with registration as it will have more benefits when compared to an unregistered entity.",
             "fees": "3,500",
+            "discfees": "",
             "img": "settlement.svg",
             "area": "establish"
-        },
-        {
+          },
+          {
             "servicetype": "pf",
             "tag": "PF Registration",
             "page": "/pf-registration",
             "servicesummary": "All business entities having employees more than 20 are mandatorily required to get registered with Employee provident fund organisation (EPFO).\nTo support the employees & their families during personal emergencies this scheme has been mandated by the government.",
             "fees": "3,500",
+            "discfees": "",
             "img": "pf.svg",
             "area": "progress"
-        },
-        {
+          },
+          {
             "servicetype": "professional tax",
             "tag": "Professional Tax Registration",
             "page": "/professional-tax-registration",
-            "servicesummary": "Business entities which which pays for employees, professionals, traders, etc are required to get registered for this and professional Tax is a tax collected by State Governments from such registered business entities.\n\nThis tax is deducted from the salary of the employee, which is eligible for deduction from the computation of taxable income.",
+            "servicesummary": "Business entities which which pays for employees, professionals, traders, etc are required to get registered for this and professional Tax is a tax collected by State Governments from such registered business entities.\nThis tax is deducted from the salary of the employee, which is eligible for deduction from the computation of taxable income.",
             "fees": "3,500",
+            "discfees": "",
             "img": "ptax.svg",
             "area": "progress"
-        },
-        {
+          },
+          {
             "servicetype": "section8",
             "tag": "Section 8 Registration",
             "page": "/section-8-registration",
             "servicesummary": "Section 8 Company or a Non-Profit organisation (NPO) charitable company registered under Section 8 of the Companies Act, 2013, established for promoting commerce, art, science, religion, sports, education, research activities, charity or any other useful social object, provided the surplus of income over expenditure and donations are applied only for the purpose for which it has been created.\nIt means that the registered S. 8 Company can earn profits but the promoters/members cannot be benefitted out of those profits, unlike other business entities.\nWhen compared to other types of companies, Section 8 company enjoys various exemptions and relaxations as per income tax act.",
             "fees": "17,500",
+            "discfees": "",
             "img": "compliance.svg",
             "area": "establish"
-        },
-        {
+          },
+          {
             "servicetype": "sole proprietorship",
             "tag": "Sole Proprietorship Registration",
             "page": "/sole-proprietorship",
             "servicesummary": "An individual carrying out a business activity under his name is termed as a sole proprietorship firm. Since there is no specific act to regulate this type of entity it is advisable to get it registered under the Goods and Service Tax Act and Shop and establishments Act.",
             "fees": "2,500",
+            "discfees": "",
             "img": "one person.svg",
             "area": "establish"
-        }
+          },
+          {
+            "servicetype": "startup india registration",
+            "tag": "Startup Advisory",
+            "page": "/startup-registration",
+            "servicesummary": "Startup phase is very crucial for a company as it acts a foundation for the long term growth of the organisation. That's where our startup advisory comes in handy where we guide you in every aspect of the business from incorporation to finance modeling to compliance and more.",
+            "fees": "5,000",
+            "discfees": "",
+            "img": "startup.svg",
+            "area": "establish"
+          }
     ]
 }

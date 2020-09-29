@@ -31,27 +31,28 @@
               </div>     
               <div class="row" style="margin: auto; padding:0 3% 0 3%;display:flex; flex-wrap:wrap;">
 
-                    <div class="col-lg-6"><i class="fas fa-envelope"></i> support@taxkriya.com</div>    
-                    <div class="col-lg-6"><i class="fas fa-envelope"></i> admin@taxkriya.com</div>    
+                    <div class="col-lg-12"><i class="fas fa-envelope"></i> customersupport@taxkriya.com</div>    
+
 
               </div>     
               </div>
-
           <div class="col-lg-6 col-md-6 col-sm-6 rightcol">
+          <form name="contactus" action="/">
               <div class="mb-3">
                 <label for="exampleFormControlInput1" class="form-label" style="text-align:center;">Name</label>
-                <input type="name" class="form-control" id="exampleFormControlInput1" placeholder="Full Name">
+                <input type="name" v-model="firstName" class="form-control" id="exampleFormControlInput1" placeholder="Full Name">
               </div>
               <div class="mb-3">
                 <label for="exampleFormControlInput1" class="form-label" style="text-align:center;">Email address</label>
-                <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@email.com">
+                <input type="email" v-model="emailId" class="form-control" id="exampleFormControlInput1" placeholder="name@email.com">
               </div>
               <div class="mb-3">
                 <label for="exampleFormControlTextarea1" class="form-label" style="text-align:center;">Your message</label>
-                <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                <textarea class="form-control" v-model="suggestion" id="exampleFormControlTextarea1" rows="3"></textarea>
               </div>
-              <button type="submit" class="btn btn-primary">Submit</button>
-          </div>    
+              <button type="submit" v-on:click="submit" class="btn btn-primary">Submit</button>
+          </form>    
+          </div>
      
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.839669313016!2d80.2603850147714!3d13.045875490807221!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a526631d2eeb25d%3A0xc992efa4b9bde3d0!2sKarya%20Space%20%7C%20Coworking%20Space%20%7C%20Mylapore-Alwarpet!5e0!3m2!1sen!2sin!4v1601391107935!5m2!1sen!2sin" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
      
@@ -62,8 +63,34 @@
 </template>
 
 <script>
+import {fireDb} from '~/plugins/firebase'
+import firebase from 'firebase/app'
+
 export default {
     layout: 'contact',
+
+    data(){
+    return{
+
+      firstName:'',
+      emailId:'',
+      suggestion:''
+
+    }
+  },
+
+  methods: {
+      submit() {
+        if(this.firstName !=='' && this.emailId !== '' && this.suggestion !==''){
+        fireDb.collection("suggestion").doc().set({
+           firstName: this.firstName,
+           emailId: this.emailId,
+           suggestion: this.suggestion,
+           timestamp: firebase.firestore.FieldValue.serverTimestamp() 
+        })
+        };
+      }
+  }
 
 }
 </script>

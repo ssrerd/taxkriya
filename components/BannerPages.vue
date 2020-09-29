@@ -6,7 +6,7 @@
       <div class="container">
         <div class="row">
         <div class="col-lg-6 col-md-4 col-sm-4">
-          <h1 class="mb-3" v-for="(item,index) in filteredLLP" :key='index' style="text-align: center;">{{item.tag}} starting from <span style="color:white;"> ₹ {{item.fees}}</span>*</h1>  
+          <h1 class="mb-3" v-for="(item,index) in filteredLLP" :key='index' style="text-align: center;">{{item.tag}} starting from <span style="text-decoration:line-through;">{{item.discfees}}</span>  <span style="color:white;"> ₹ {{item.fees}}</span>*</h1>  
           <p v-for="(item,index) in filteredLLP" :key='index' style="text-align:justify;">{{item.servicesummary}}</p>
           <hr>
           <div class="row mb-2" style="padding: 0% 5% 0% 5%;">

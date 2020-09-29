@@ -102,11 +102,11 @@
     <!-- Social buttons -->
     <ul class="list-unstyled list-inline text-center">
       <li class="list-inline-item">
-        <a class="btn-floating btn-fb mx-1" id="social-icons">
+        <a target="_blank" rel="noopener" href="https://www.instagram.com/taxkriya/" aria-label="facebook" class="btn-floating btn-facebook mx-1" id="social-icons">
           <i class="fab fa-facebook-f"> </i>
         </a>
       </li>
-      <li class="list-inline-item">
+      <!-- <li class="list-inline-item">
         <a class="btn-floating btn-tw mx-1" id="social-icons">
           <i class="fab fa-twitter"> </i>
         </a>
@@ -120,7 +120,7 @@
         <a class="btn-floating btn-li mx-1" id="social-icons">
           <i class="fab fa-linkedin-in"> </i>
         </a>
-      </li>
+      </li> -->
       <li class="list-inline-item">
         <a target="_blank" rel="noopener" href="https://www.instagram.com/taxkriya/" aria-label="instagram" class="btn-floating btn-instagram mx-1" id="social-icons">
           <i class="fab fa-instagram"> </i>

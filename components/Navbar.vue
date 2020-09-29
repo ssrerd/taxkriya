@@ -121,7 +121,7 @@
 
                     </ul>
                   </li>
-                  <li class="nav-item">
+                  <li style="display:none;" class="nav-item">
                     <a class="nav-link" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-expanded="false">
                       Blog
                     </a>
