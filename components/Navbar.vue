@@ -18,7 +18,7 @@
                       <div class="row dropdown-menu-right">
                         
                         <div class="col-lg-6 mt-2 navhead">
-                            <img src="~/assets/img/Briefcase.svg" class="img-fluid" style="margin:auto !important;padding-left:2%;width:10%; height:auto;">
+                            <img src="~/assets/img/1x/private ltd.svg" class="img-fluid" style="margin:auto !important;padding-left:2%;width:15%; height:auto;">
                             <div class="dropdown-header"><h4 style="padding-top:5%;color: #01D5D5;">Establish</h4></div>
                             <div style="padding-left:2%;padding-right:50%;">Establishing a business is the first step towards bringing your dream into reality. If there is any hassle in this step the whole business model might collapse and hence extra eye should be employed.</div>
                             <div style="padding-left:2%;padding-right:50%;"></div>
@@ -48,7 +48,7 @@
                       <div class="row dropdown-menu-right">
                         <div class="col-6 mt-2 navhead">
 
-                          <img src="../assets/img/Briefcase.svg" class="img-fluid" style="margin:auto !important;padding-left:2%;width:10%; height:auto;">
+                          <img src="../assets/img/1x/progress.svg" class="img-fluid" style="margin:auto !important;padding-left:2%;width:15%; height:auto;">
                             <div class="dropdown-header"><h4 style="padding-top:5%;color: #01D5D5;">Progress</h4></div>
                             <div style="padding-left:2%;padding-right:50%;">Once the business is up and running, it is vital that the business should viewed from the progress standpoint. It's growth depends on several internal and external, and the later can be taken care of with not so difficult proactive measures.</div>
                             <div style="padding-left:2%;padding-right:50%;"></div>
