@@ -189,7 +189,7 @@ If you provide any information that is untrue, inaccurate, not current, or incom
 <p>Chennai, Tamil Nadu 600004</p>
 <p>India</p>
 <p>Phone: 9791156891</p>
-<p>support@taxkriya.com</p>
+<p>customersupport@taxkriya.com</p>
 
 
   </div>    

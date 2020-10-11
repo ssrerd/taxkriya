@@ -14,7 +14,7 @@
                       <h5 style="text-align:center;">Our experts will get in touch with you shortly.</h5>
                     </div>  
                    
-                    <div class="row mt-3" style="width:10%;margin:0 auto auto auto;">  
+                    <div class="row mt-3" style="width:20%;margin:0 auto auto auto;">  
                       <a href="/" style="width: auto;margin: auto;" class="btn btn-outline-primary">Home</a>
                     </div>
                 </div>

@@ -146,6 +146,28 @@
     .img-testimonial{
         width: 100px !important;
     }
+
+    .howitworks{
+        flex-direction: column-reverse;
+    }
+    .secondary-header .mb-3{
+        font-size: 2rem;
+    }
+    .centerspace{
+        display: none;
+    }
+
+    .testimonial-container{
+        padding: 2em;
+    }
+
+    .testimonial-container a{
+        font-size: 10px;
+    }
+
+    .testimonial-card{
+        background-size: 40% 40%;
+    }
 }
 
 
