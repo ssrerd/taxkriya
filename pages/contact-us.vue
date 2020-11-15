@@ -26,12 +26,12 @@
               </div>
               <div class="row" style="margin:auto; padding:0 3% 0 3%;display:flex; flex-wrap:wrap;">
                     <div class="col-6"><i class="fas fa-mobile"></i> 9791156891</div>    
-                    <div class="col-6"><i class="fas fa-mobile"></i> 7550037737</div>
+                    <div class="col-6"><i class="fas fa-mobile"></i> 9345918985</div>
 
               </div>     
               <div class="row" style="margin: auto; padding:0 3% 0 3%;display:flex; flex-wrap:wrap;">
 
-                    <div class="col-lg-12"><i class="fas fa-envelope"></i> customersupport@taxkriya.com</div>    
+                    <div class="col-lg-12"><i class="fas fa-envelope"></i> support@taxkriya.com</div>    
 
 
               </div>     

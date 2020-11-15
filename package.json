@@ -18,7 +18,8 @@
     "firebase": "^7.19.1",
     "nuxt": "^2.14.4",
     "nuxt-compress": "^3.0.0",
-    "nuxt-start": "^2.14.4"
+    "nuxt-start": "^2.14.4",
+    "vue-analytics": "^5.22.1"
   },
   "devDependencies": {
     "@nuxtjs/stylelint-module": "^4.0.0",
