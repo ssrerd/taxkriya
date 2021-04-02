@@ -12,7 +12,7 @@
                   
                 <div class="col-lg-8">
                   <h1 style="text-align: center;">Business Solutions <span style="color:white">Simplified</span></h1>
-                  <p style="text-align: center;">We, at Taxkriya, focus on quality over quanity with special attention to Startups and Small Businesses.</p>
+                  <p style="text-align: center;">We, at Taxkriya, focus on quality over quantity with special attention to Startups and Small Businesses.</p>
                  
               
                     <div class="row mostcommon">
