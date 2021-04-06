@@ -61,7 +61,7 @@
                           <li><nuxt-link :to="{name:'esi-registration'}" target="_blank" class="dropdown-item">ESI Registration</nuxt-link></li>
                           <li><nuxt-link :to="{name:'import-export-code'}" target="_blank" class="dropdown-item">Import Export Code</nuxt-link></li>
                           <li><nuxt-link :to="{name:'pf-registration'}" target="_blank" class="dropdown-item">PF Registration</nuxt-link></li>
-
+                          <li><nuxt-link :to="{name:'trademark-registration'}" target="_blank" class="dropdown-item">Trademark Registration</nuxt-link></li>
 
                         </div>  
                         <!-- <div class="col-3 mt-2">
