@@ -1487,37 +1487,37 @@
         {
             "id": "104",
             "documents": "Applicant’s name (Individual/Other person)",
-            "servicetype": "trademark"
+            "servicetype": "trademark registration"
         },
         {
             "id": "105",
             "documents": "Copy of PAN card of the business entity",
-            "servicetype": "trademark"
+            "servicetype": "trademark registration"
         },
         {
             "id": "106",
             "documents": "Name of the brand along with a logo in JPEG format",
-            "servicetype": "trademark"
+            "servicetype": "trademark registration"
         },
         {
             "id": "107",
             "documents": "Nature of business",
-            "servicetype": "trademark"
+            "servicetype": "trademark registration"
         },
         {
             "id": "108",
             "documents": "Business objectives",
-            "servicetype": "trademark"
+            "servicetype": "trademark registration"
         },
         {
             "id": "109",
             "documents": "Date of first use of the brand in dd/mm/yyyy format",
-            "servicetype": "trademark"
+            "servicetype": "trademark registration"
         },
         {
             "id": "110",
             "documents": "Registration address with pin code",
-            "servicetype": "trademark"
+            "servicetype": "trademark registration"
         },
         {
             "id": "111",
@@ -1994,7 +1994,27 @@
             "servicetype": "msme",
             "img": "legal.svg"
         },
-        
+        {
+            "id": "34",
+            "header": "Legal protection",
+            "body": "Trademark registered entity will be protected from fake sellers and products by way of legal suit.",
+            "servicetype": "trademark registration",
+            "img": "secure.svg"
+        },
+        {
+            "id": "35",
+            "header": "Adds reputation to the organisation",
+            "body": "Brand registration brings out a more valuable asset to the company by creating a visibility and differentiation among the public.",
+            "servicetype": "trademark registration",
+            "img": "result.svg"
+        },
+        {
+            "id": "36",
+            "header": "Easy expansion of business",
+            "body": "Trademark registered entity have an option to opt for franchising model thus creating a expansion for the business.",
+            "servicetype": "trademark registration",
+            "img": "legal.svg"
+        },
         {
             "id": "37",
             "header": "No minimum paid-up capital required",
@@ -2650,6 +2670,16 @@
             "fees": "5,000",
             "discfees": "",
             "img": "startup.svg",
+            "area": "establish"
+          },
+          {
+            "servicetype": "trademark registration",
+            "tag": "Trademark Registration",
+            "page": "/trademark-registration",
+            "servicesummary": "Protecting your intellectual property is very vital in this harsh business world. Filing trademark will allow you to secure your product and services from identity theft. This service includes filing of trademark application.",
+            "fees": "999",
+            "discfees": "",
+            "img": "quality.svg",
             "area": "establish"
           }
     ]
