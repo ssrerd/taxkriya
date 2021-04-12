@@ -2607,8 +2607,8 @@
             "tag": "One Person Company Registration",
             "page": "/one-person-company-registration",
             "servicesummary": "One person company (OPC) is a type of private limited company where only one shareholder holds 100% of the stake in the company. He will also act as a director for the company.\nEntrepreneurs who like to have a single person control in the entity can opt for this type.",
-            "fees": "4,500",
-            "discfees": "",
+            "fees": "2,999",
+            "discfees": "7,500",
             "img": "one person.svg",
             "area": "establish"
           },
