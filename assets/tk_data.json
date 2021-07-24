@@ -1,4 +1,4 @@
-﻿{
+{
    
     "faqQA": [
         {
@@ -2302,7 +2302,7 @@
         },
         {
             "id": "5",
-            "deliverables": "Digital Signature Token for 2 Promoters & 1 witness",
+            "deliverables": "ESI and PF Registration",
             "servicetype": "private limited"
         },
         {
@@ -2312,7 +2312,7 @@
         },
         {
             "id": "7",
-            "deliverables": "Company Name Approval",
+            "deliverables": "Payment Gateway Integration Support",
             "servicetype": "private limited"
         },
         {
@@ -2337,7 +2337,7 @@
         },
         {
             "id": "12",
-            "deliverables": "Digital Signature Token for 1 Promoter",
+            "deliverables": "Payment Gateway Integration Support",
             "servicetype": "opc"
         },
         {
@@ -2352,7 +2352,7 @@
         },
         {
             "id": "15",
-            "deliverables": "Company Name Approval",
+            "deliverables": "ESI and PF Registration",
             "servicetype": "opc"
         },
         {
@@ -2367,12 +2367,12 @@
         },
         {
             "id": "18",
-            "deliverables": " LLP Agreement",
+            "deliverables": "LLP agreement draft and filing",
             "servicetype": "llp"
         },
         {
             "id": "19",
-            "deliverables": " Bank A/C Opening Document Support",
+            "deliverables": " Bank Account and Payment Gateway Integration Support",
             "servicetype": "llp"
         },
         {
@@ -2412,7 +2412,7 @@
         },
         {
             "id": "27",
-            "deliverables": "Digital Signature Token for 2 Promoters & 1 witness",
+            "deliverables": "Payment Gateway Integration support",
             "servicetype": "section8"
         },
         {
@@ -2427,7 +2427,7 @@
         },
         {
             "id": "30",
-            "deliverables": "Company Name Approval",
+            "deliverables": "GST Registration* (Auto Approval from ROC)",
             "servicetype": "section8"
         },
         {
@@ -2437,8 +2437,23 @@
         },
         {
             "id": "32",
-            "deliverables": "S.80G and S.12A registration",
+            "deliverables": "ESI and PF Registration",
             "servicetype": "section8"
+        },
+        {
+            "id": "33",
+            "deliverables": "GST Registration",
+            "servicetype": "llp"
+        },
+        {
+            "id": "34",
+            "deliverables": " GST Registration* (Auto Approval from ROC)",
+            "servicetype": "private limited"
+        },
+        {
+            "id": "35",
+            "deliverables": "GST Registration* (Auto Approval from ROC)",
+            "servicetype": "opc"
         }
     ],
     "services": [
@@ -2447,7 +2462,7 @@
             "tag": "Add or Remove Directors Service",
             "page": "/add-remove-directors",
             "servicesummary": "A Director is a person who acts on behalf of the company. He directs, controls and manages the company in day-to-day operations of the company.\nOn the interest of the company generally, directors are changed based on their tenure and according to the rules to ensure a better team of experts with more independence. Such change includes appointment, resignation and removal of directors which will take place into effect only upon intimation to Ministry of corporate affairs by way of filing forms.",
-            "fees": "3,500",
+            "fees": "1,500",
             "discfees": "",
             "img": "director.svg",
             "area": "comply"
@@ -2507,7 +2522,7 @@
             "tag": "Change in Address Service",
             "page": "/change-in-address",
             "servicesummary": "A Registered office is a place where a company is situated or registered at the time of incorporation. All the communications will officially go to the address as displayed in the master data of the company. So, a change in the registered office can take place within its jurisdiction or city or state or otherwise and the same has to take place after approval of ROC by way of getting consent from all the shareholders.",
-            "fees": "3,500",
+            "fees": "2,500",
             "discfees": "",
             "img": "responsibility.svg",
             "area": "comply"
@@ -2517,7 +2532,7 @@
             "tag": "Change in Name Service",
             "page": "/change-in-name",
             "servicesummary": "A change in the name of the private limited company includes various procedures to be followed such as : Conduct of board meeting and member meeting, name reservation, approval from the central government etc. After that new name shall be updated in the ROC by issuing a fresh certificate of incorporation. However, such change in name does not affect the company's existence and all its prior activities are presumed to be carried forward to the company possessing a new name.",
-            "fees": "3,500",
+            "fees": "2,000",
             "discfees": "",
             "img": "responsibility.svg",
             "area": "comply"
@@ -2527,7 +2542,7 @@
             "tag": "Change in Obective Service",
             "page": "/change-in-objective",
             "servicesummary": "Without listing in the principal objectivities of clause MOA no company can carry any business of its choice. So considering the expansion and growth, if a company proposes to carry on new business, that has to be added in the object clause after getting approval from shareholders. The same shall be approved by the ministry of company affairs once it is filed.",
-            "fees": "3,500",
+            "fees": "2,500",
             "discfees": "",
             "img": "responsibility.svg",
             "area": "comply"
@@ -2537,7 +2552,7 @@
             "tag": "Change in Authorised Capital Service",
             "page": "/change-in-authorised-capital",
             "servicesummary": "A company can raise its paid-up capital to the extent of its authorised capital only. To increase its authorised capital it should conduct board and general meeting to get the consent. Subsequently, it can be authorised by filing forms with ROC by paying additional fees and stamp duty.",
-            "fees": "5,000",
+            "fees": "3,500",
             "discfees": "",
             "img": "capital.svg",
             "area": "comply"
@@ -2567,7 +2582,7 @@
             "tag": "GST Registration",
             "page": "/gst-registration",
             "servicesummary": "The registration under GST is made mandatory for the business entities if their aggregate turnover of goods/services for a financial year exceeds Rs.40 Lakhs and Rs.20 Lakhs respectively.\nGST Registration allows the entity to get recognised as a registered vendor in the market and also affirms seamless flow of Input Tax Credit.\n\nGST registration application must be submitted to the Department along with the necessary supporting documents. Once, the application is found satisfactory, it takes 15-21 working days for CBDT to issue Certificate of GSTIN. However, with the new process of aadhaar authentication, GSTIN is now issued within 3-5 working days.",
-            "fees": "1,799",
+            "fees": "1,499",
             "discfees": "",
             "img": "gst.svg",
             "area": "progress"
@@ -2577,7 +2592,7 @@
             "tag": "Import Export Code Service",
             "page": "/import-export-code",
             "servicesummary": "Importer Exporter Code (IEC or IE Code) is a unique registration code required for persons who are importing or exporting goods and services from India. An IEC is necessary to obtain before you start an Import or Export of goods. In the case of Import/Export of Services, it is only required in specified Services/ Specified Technology.\n\nImport Export Code application must be submitted to the Directorate General of Foreign Trade along with the necessary supporting documents. Once, the application is found satisfactory, DGFT will issue the IE Code for the entity in 15 - 20 working days.",
-            "fees": "2,500",
+            "fees": "999",
             "discfees": "",
             "img": "iec.svg",
             "area": "progress"
@@ -2597,7 +2612,7 @@
             "tag": "MSME Registration",
             "page": "/msme-registration",
             "servicesummary": "To put it very simple, business entities with investment less than Rs 50 crores and Annual turnover less than Rs 250 crores can register under the Micro Small and Medium Enterprises scheme as defined under MSME Development Act 2006.\nHowever, this registration is purely voluntary in the opinion of the business entity to avail numerous benefits declared by the government under this scheme.",
-            "fees": "1,500",
+            "fees": "659",
             "discfees": "",
             "img": "msme.svg",
             "area": "progress"
