@@ -2582,7 +2582,7 @@
             "tag": "GST Registration",
             "page": "/gst-registration",
             "servicesummary": "The registration under GST is made mandatory for the business entities if their aggregate turnover of goods/services for a financial year exceeds Rs.40 Lakhs and Rs.20 Lakhs respectively.\nGST Registration allows the entity to get recognised as a registered vendor in the market and also affirms seamless flow of Input Tax Credit.\n\nGST registration application must be submitted to the Department along with the necessary supporting documents. Once, the application is found satisfactory, it takes 15-21 working days for CBDT to issue Certificate of GSTIN. However, with the new process of aadhaar authentication, GSTIN is now issued within 3-5 working days.",
-            "fees": "1,499",
+            "fees": "999",
             "discfees": "",
             "img": "gst.svg",
             "area": "progress"
