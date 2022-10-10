@@ -130,7 +130,7 @@
     <!-- Social buttons -->
 
     <!-- Copyright -->
-    <div class="footer-copyright text-center py-3">© 2020 Copyright:
+    <div class="footer-copyright text-center py-3">© 2022 Copyright:
       Zrepra Innovations Private Limited
     </div>
     <!-- Copyright -->
