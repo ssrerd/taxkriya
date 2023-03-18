@@ -16,12 +16,12 @@
                   <div class="col-lg-6 col-md-6 col-sm-6">
                       
                     <h5><i class="fas fa-map-marker-alt"></i> Registered Address</h5>
-                    <p>123/45, Appu Street, Mylapore, Chennai - 600004</p>
+                    <p>126/44, Appu Street, Mylapore, Chennai - 600004</p>
                   </div>  
                   <div class="col-lg-6 col-md-6 col-sm-6">
 
                     <h5><i class="fas fa-map-marker-alt"></i> Office Address</h5>
-                    <p>No. 78/132, Dr. Radhakrishnan Salai, Mylapore, Chennai - 600004</p>
+                    <p>DOT Cowork, Tidel Park, Module No. 115 D North Block, 1st Floor, No.4 Rajiv Gandhi Salai, Taramani, Chennai - 600113</p>
                   </div>  
               </div>
               <div class="row" style="margin:auto; padding:0 3% 0 3%;display:flex; flex-wrap:wrap;">
@@ -54,7 +54,7 @@
           </form>    
           </div>
      
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.839669313016!2d80.2603850147714!3d13.045875490807221!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a526631d2eeb25d%3A0xc992efa4b9bde3d0!2sKarya%20Space%20%7C%20Coworking%20Space%20%7C%20Mylapore-Alwarpet!5e0!3m2!1sen!2sin!4v1601391107935!5m2!1sen!2sin" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.7228012912783!2d80.2441136221667!3d12.989573261558698!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a525d715deef401%3A0x393d7d468e4a8614!2sdot%20cowork%20-%20Tidel%20Park!5e0!3m2!1sen!2sin!4v1679125617676!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
      
       </div>
 
